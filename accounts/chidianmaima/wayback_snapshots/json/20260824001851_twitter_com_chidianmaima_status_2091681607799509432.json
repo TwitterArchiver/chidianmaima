@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2091681607799509432",
+    "created_at": "2026-08-24T00:18:51.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T01:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091681607799509432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2088278928683331585",
+          "start": 3,
+          "username": "Golden_hour_8"
+        },
+        {
+          "end": 28,
+          "id": "972635679447379968",
+          "start": 19,
+          "username": "facttoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091681607799509432",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091543207159234625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Golden_hour_8: @facttoon 전 사실 이 사회분위기가 이해가 안가요🤔 결핍이면 어떻다고 그게 무슨 범죄인거마냥 숨겨야하는건지.\n\n보다보면 그냥 자기가 싫어하는거면서, 그 혐오를 정당화 시키려고 타인에게 결핍의 프레임을 씌우는…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2091681607799509432",
+        "created_at": "2026-08-24T00:18:51.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091681607799509432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2088278928683331585",
+              "start": 3,
+              "username": "Golden_hour_8"
+            },
+            {
+              "end": 28,
+              "id": "972635679447379968",
+              "start": 19,
+              "username": "facttoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091681607799509432",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091543207159234625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Golden_hour_8: @facttoon 전 사실 이 사회분위기가 이해가 안가요🤔 결핍이면 어떻다고 그게 무슨 범죄인거마냥 숨겨야하는건지.\n\n보다보면 그냥 자기가 싫어하는거면서, 그 혐오를 정당화 시키려고 타인에게 결핍의 프레임을 씌우는…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088278928683331585",
+        "conversation_id": "2091509705160241272",
+        "created_at": "2026-08-23T15:08:54.000Z",
+        "display_text_range": [
+          10,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091543207159234625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "972635679447379968",
+              "start": 0,
+              "username": "facttoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091543207159234625",
+        "in_reply_to_user_id": "972635679447379968",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "전 사실 이 사회분위기가 이해가 안가요🤔 결핍이면 어떻다고 그게 무슨 범죄인거마냥 숨겨야하는건지.\n\n보다보면 그냥 자기가 싫어하는거면서, 그 혐오를 정당화 시키려고 타인에게 결핍의 프레임을 씌우는 경우가 너무 많더라구요.\n\n결핍이 왜 나쁠까요? 팩툰님 두번째 줄 글처럼 저도 누구나 다 결핍이 있다고 봅니다. 그래서 그 부분을 인지하고 서로간에 배려하는 태도가 있었으면 하는 욕심이 있지만.\n\n사람들은 손절을 택하지요. 그게 편하니까요.\n\n그러다보니 서로 미워하고, 남을 욕하지 않으면 대화도 못하고, 마녀사냥의 타겟을 찾아나서는 사회분위기가 형성되는데, 참 외롭죠.\n\n물론 결핍을 핑계로 타인에게 피해를 끼치는 사람은 가까이 안하는게 유익하겠지만, 그 범주에 들어가지 않는 사람들이 훨씬 많을텐데 괜히 눈치보고 표현의 자유가 억압받게 되는 것 같아요.\n\n전 팩툰님도 이런 자랑을 편하게 마음껏 할 수 있었으면 좋겠습니다. \n\n정작 비난 받아야하는 사람들은 결핍이라고 멋대로 남을 판단하며 정죄하는 사람들인데, 거기에 애꿎은 사람들이 휩쓸려 자유를 빼앗기는게 참 속상하네요.\n\n심리를 분석하는 건 치료하고 도와주기 위해서일텐데, 언젠가부터 혐오조장으로 사용되는 사회분위기가 만연한게 참 씁쓸합니다..🥲"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4076,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091509705160241272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@facttoon 전 사실 이 사회분위기가 이해가 안가요🤔 결핍이면 어떻다고 그게 무슨 범죄인거마냥 숨겨야하는건지.\n\n보다보면 그냥 자기가 싫어하는거면서, 그 혐오를 정당화 시키려고 타인에게 결핍의 프레임을 씌우는 경우가 너무 많더라구요.\n\n결핍이 왜 나쁠까요? 팩툰님 두번째 줄 글처럼 저도 누구나 다"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2091681607799509432",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 148,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T15:03:13.000Z",
+        "description": "봄밤의 한시각은 천금과 같구나,\n천금을 벌어 봄밤의 한시각을 품어볼까.\n\n자의식 과잉,\n​다수의 자아 형성 및 유지 중🌷🎶\n\nINTP | 에겐남 | 크리스찬 | 광대 | 필로소피아 | \n야수의 심장 | 오타쿠 | 사미새 | 선비 | 몽상가 | 잉어킹 트레이너\n_",
+        "id": "2088278928683331585",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091631770819305940",
+        "name": "춘소일각치천금",
+        "pinned_tweet_id": "2091626123293770173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088278928683331585/1786874830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091269020184170496/PVyuTy9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 167,
+          "like_count": 1340,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "Golden_hour_8",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-11T00:49:51.000Z",
+        "description": "프리미엄+ ||\n교류 환영 ||\n사실/진실 ||\n의견/사견 ||\n각종 정보 ||\n인생 꿀팁 ||\n'하이라이트' 글모음",
+        "id": "972635679447379968",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091673675691147719",
+        "name": "FactToon",
+        "pinned_tweet_id": "2090225310923174392",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972635679447379968/1780032195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060066368247185408/s7GbaatB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 4564,
+          "like_count": 107455,
+          "listed_count": 20,
+          "media_count": 834,
+          "tweet_count": 41022
+        },
+        "url": "",
+        "username": "facttoon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

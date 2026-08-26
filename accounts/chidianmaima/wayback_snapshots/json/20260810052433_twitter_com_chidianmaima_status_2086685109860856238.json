@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2086685109860856238",
+    "created_at": "2026-08-10T05:24:33.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086685109860856238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/almeileoa/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/almeileoa/status/2086508435030585567",
+          "start": 4,
+          "url": "https://t.co/oDkRCesH6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086685109860856238",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086508435030585567",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好痛苦 https://t.co/oDkRCesH6n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2086685109860856238",
+        "created_at": "2026-08-10T05:24:33.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086685109860856238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/almeileoa/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/almeileoa/status/2086508435030585567",
+              "start": 4,
+              "url": "https://t.co/oDkRCesH6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086685109860856238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086508435030585567",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好痛苦 https://t.co/oDkRCesH6n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058089849589243904",
+        "conversation_id": "2086508435030585567",
+        "created_at": "2026-08-09T17:42:31.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086508435030585567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086508435030585567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 108108,
+          "like_count": 2157,
+          "quote_count": 13,
+          "reply_count": 27,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "友達自殺した\n一緒にしぬ約束したのに"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086685109860856238",
+        "name": "乱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 83,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:38:57.000Z",
+        "description": "思ってること吐き出すだけ",
+        "id": "2058089849589243904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086672327279067149",
+        "name": "めん",
+        "pinned_tweet_id": "2082889699967004863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058089849589243904/1779523369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066417549873713152/8IgJI6Xj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 51,
+          "like_count": 3668,
+          "listed_count": 4,
+          "media_count": 1,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "almeileoa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

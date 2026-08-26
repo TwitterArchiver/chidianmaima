@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2089478744834785681",
+    "created_at": "2026-08-18T13:57:56.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T14:57:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089713411563373055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805961850971992064",
+          "start": 0,
+          "username": "_taromeme_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089713411563373055",
+    "in_reply_to_user_id": "1805961850971992064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089478744834785681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_taromeme_ 支持宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2089478744834785681",
+        "created_at": "2026-08-18T13:57:56.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089713411563373055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805961850971992064",
+              "start": 0,
+              "username": "_taromeme_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089713411563373055",
+        "in_reply_to_user_id": "1805961850971992064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089478744834785681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_taromeme_ 支持宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805961850971992064",
+        "conversation_id": "2089478744834785681",
+        "created_at": "2026-08-17T22:25:28.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T23:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089478744834785681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089478744834785681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来月经用卫生巾被出血量吓到了但是想了想这是正常量，以前用的是棉条，用激素的四个月里没有来一次月经，停激素之后一个月内来了两次月经，血都是黑色的，生而为女的耻辱，我发誓等我经济独立了马上让月经永远滚蛋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2089713411563373055",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 112,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-26T13:50:45.000Z",
+        "description": "名字的发音是タロミム，中/日/ EN/한，CHUNITHM，18 ↑ ，時々rkgk，フォローありがとう！！🏳️‍⚧️ 🏳️‍🌈 ☮️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7imzxdsnl…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7imzxdsnlrpva16j/",
+                "start": 0,
+                "url": "https://t.co/39ZvkkSpXO"
+              }
+            ]
+          }
+        },
+        "id": "1805961850971992064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089633873085051279",
+        "name": "taromeme",
+        "pinned_tweet_id": "2075317764143902822",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1805961850971992064/1719498928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089471725818003456/ZeKVETzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 633,
+          "like_count": 21221,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 3957
+        },
+        "url": "https://t.co/39ZvkkSpXO",
+        "username": "_taromeme_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

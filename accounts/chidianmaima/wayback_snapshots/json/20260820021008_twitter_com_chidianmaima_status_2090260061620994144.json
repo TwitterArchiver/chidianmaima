@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090260061620994144",
+    "created_at": "2026-08-20T02:10:08.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090260061620994144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1643220874076782594",
+          "start": 3,
+          "username": "kc8148776689460"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090260061620994144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089903874387923384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kc8148776689460: 断绝一段关系就像是呕吐，只有完全吐干净才罢休，把手伸进嗓子眼里，将从前的记忆全部抠挖出来吐一地，酸的苦的糊一嘴弄得泪眼婆娑，一直吐一直吐，吐出胃液吐出胆汁吐干吐净，才肯罢休"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090260061620994144",
+        "created_at": "2026-08-20T02:10:08.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090260061620994144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1643220874076782594",
+              "start": 3,
+              "username": "kc8148776689460"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090260061620994144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089903874387923384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kc8148776689460: 断绝一段关系就像是呕吐，只有完全吐干净才罢休，把手伸进嗓子眼里，将从前的记忆全部抠挖出来吐一地，酸的苦的糊一嘴弄得泪眼婆娑，一直吐一直吐，吐出胃液吐出胆汁吐干吐净，才肯罢休"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643220874076782594",
+        "conversation_id": "2089903874387923384",
+        "created_at": "2026-08-19T02:34:46.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089903874387923384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089903874387923384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 14077,
+          "like_count": 675,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "断绝一段关系就像是呕吐，只有完全吐干净才罢休，把手伸进嗓子眼里，将从前的记忆全部抠挖出来吐一地，酸的苦的糊一嘴弄得泪眼婆娑，一直吐一直吐，吐出胃液吐出胆汁吐干吐净，才肯罢休"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090260061620994144",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 133,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T11:56:12.000Z",
+        "description": "",
+        "id": "1643220874076782594",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089903874387923384",
+        "name": "kc",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "kc8148776689460",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

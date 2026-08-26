@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2089733565479293216",
+    "created_at": "2026-08-18T15:18:02.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089733565479293216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_081203_/statu…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/_081203_/status/2089626523364167982",
+          "start": 88,
+          "url": "https://t.co/sjmNGtYbaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089733565479293216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089626523364167982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我突然好崩溃，我个穷逼，我没有学历，也没有什么手艺，我以后咋活呀，我已经想到我以后自己在破烂的出租屋里面一个月拿着不到3000的工资苟活，我天呐，我肯定会自杀的，我实在受不了 https://t.co/sjmNGtYbaG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2089733565479293216",
+        "created_at": "2026-08-18T15:18:02.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089733565479293216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_081203_/statu…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/_081203_/status/2089626523364167982",
+              "start": 88,
+              "url": "https://t.co/sjmNGtYbaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089733565479293216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089626523364167982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我突然好崩溃，我个穷逼，我没有学历，也没有什么手艺，我以后咋活呀，我已经想到我以后自己在破烂的出租屋里面一个月拿着不到3000的工资苟活，我天呐，我肯定会自杀的，我实在受不了 https://t.co/sjmNGtYbaG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756565863946432512",
+        "conversation_id": "2089626523364167982",
+        "created_at": "2026-08-18T08:12:41.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089626523364167982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089626523364167982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 37092,
+          "like_count": 588,
+          "quote_count": 12,
+          "reply_count": 184,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "我突然好崩溃，我个穷逼，我没有学历，也没有什么手艺，我以后咋活呀，我已经想到我以后自己在破烂的出租屋里面一个月拿着不到3000的工资苟活，我天呐，我肯定会自杀的，我实在受不了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2089733565479293216",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 114,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-11T06:28:41.000Z",
+        "description": "",
+        "id": "1756565863946432512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089727981984055411",
+        "name": "Peiiilsovucn1t",
+        "pinned_tweet_id": "2089370633419604003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756565863946432512/1786995217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085788294844182528/b6aSiWuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 168,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "_081203_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

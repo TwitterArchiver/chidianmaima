@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090263899291734040",
+    "created_at": "2026-08-20T02:25:23.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090263899291734040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090263899291734040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是憧憬着有一台从天而降的大型压榨机，把灾难、大崩溃、惨绝人寰的悲剧、人类和物质、丑物和美物，不加区分统统碾碎。更多时候这早春晴空不同寻常的光亮，让我想起斧头锋利刀刃的寒光，斧头大到足以覆盖地面。我等待它的落下。如手起刀落般迅捷，来不及思考就快速落下。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090263899291734040",
+        "created_at": "2026-08-20T02:25:23.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090263899291734040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090263899291734040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是憧憬着有一台从天而降的大型压榨机，把灾难、大崩溃、惨绝人寰的悲剧、人类和物质、丑物和美物，不加区分统统碾碎。更多时候这早春晴空不同寻常的光亮，让我想起斧头锋利刀刃的寒光，斧头大到足以覆盖地面。我等待它的落下。如手起刀落般迅捷，来不及思考就快速落下。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090263899291734040",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 133,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

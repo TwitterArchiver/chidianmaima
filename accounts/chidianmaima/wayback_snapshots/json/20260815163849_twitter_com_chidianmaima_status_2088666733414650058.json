@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2088666733414650058",
+    "created_at": "2026-08-15T16:38:49.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088666733414650058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "11196192",
+          "start": 3,
+          "username": "Ryazaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088666733414650058",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10521
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088240855601598515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ryazaki: Me gusta Twitter porque aquí a penas hay fotos de gente teniendo bebés, gente casándose o gente viajando. Aquí pura miseria y…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2088666733414650058",
+        "created_at": "2026-08-15T16:38:49.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088666733414650058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "11196192",
+              "start": 3,
+              "username": "Ryazaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088666733414650058",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10521
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088240855601598515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ryazaki: Me gusta Twitter porque aquí a penas hay fotos de gente teniendo bebés, gente casándose o gente viajando. Aquí pura miseria y…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "11196192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2088240855601598515",
+        "created_at": "2026-08-14T12:26:32.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088240855601598515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088240855601598515",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1516,
+          "impression_count": 778142,
+          "like_count": 49572,
+          "quote_count": 533,
+          "reply_count": 252,
+          "retweet_count": 10521
+        },
+        "reply_settings": "everyone",
+        "text": "Me gusta Twitter porque aquí a penas hay fotos de gente teniendo bebés, gente casándose o gente viajando. Aquí pura miseria y a eso vengo."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088666733414650058",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 110,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-12-15T14:27:38.000Z",
+        "description": "FullStack dev 💻 y friki en general 👽\nVideojuegos · Fotografía · Diseño · Cine y series\nA veces gym. A veces hamburguesas 🍔",
+        "id": "11196192",
+        "is_identity_verified": false,
+        "location": "Madrid",
+        "most_recent_tweet_id": "2088665410820272446",
+        "name": "Rya🖤",
+        "pinned_tweet_id": "895431543560093696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11196192/1761233321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087506239857020928/fb5hCbw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 604,
+          "like_count": 32878,
+          "listed_count": 10,
+          "media_count": 2363,
+          "tweet_count": 33118
+        },
+        "url": "",
+        "username": "Ryazaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

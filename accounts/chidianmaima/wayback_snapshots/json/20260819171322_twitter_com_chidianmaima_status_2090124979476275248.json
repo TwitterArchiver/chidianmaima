@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089668402373935104"
+      ],
+      "media_source_tweet_id": [
+        "2089668408329789531"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090124979476275248",
+    "created_at": "2026-08-19T17:13:22.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090124979476275248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1164004665027022849",
+          "start": 3,
+          "username": "hkguy1988"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RkJl99s87K",
+          "end": 78,
+          "expanded_url": "https://x.com/hkguy1988/status/2089668408329789531/photo/1",
+          "media_key": "3_2089668402373935104",
+          "start": 55,
+          "url": "https://t.co/RkJl99s87K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090124979476275248",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089668402373935104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 229
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089668408329789531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hkguy1988: 真是可惡！到底是哪個國家對華人那麽差？\n\n所有中國人都應該要團結一齊反抗抵制！ https://t.co/RkJl99s87K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2089668402373935104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_-VyXbQAA5LtT.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089668402373935104"
+          ],
+          "media_source_tweet_id": [
+            "2089668408329789531"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090124979476275248",
+        "created_at": "2026-08-19T17:13:22.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090124979476275248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1164004665027022849",
+              "start": 3,
+              "username": "hkguy1988"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkJl99s87K",
+              "end": 78,
+              "expanded_url": "https://x.com/hkguy1988/status/2089668408329789531/photo/1",
+              "media_key": "3_2089668402373935104",
+              "start": 55,
+              "url": "https://t.co/RkJl99s87K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090124979476275248",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089668402373935104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 229
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089668408329789531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hkguy1988: 真是可惡！到底是哪個國家對華人那麽差？\n\n所有中國人都應該要團結一齊反抗抵制！ https://t.co/RkJl99s87K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089668402373935104"
+          ]
+        },
+        "author_id": "1164004665027022849",
+        "conversation_id": "2089668408329789531",
+        "created_at": "2026-08-18T10:59:07.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089668408329789531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkJl99s87K",
+              "end": 63,
+              "expanded_url": "https://x.com/hkguy1988/status/2089668408329789531/photo/1",
+              "media_key": "3_2089668402373935104",
+              "start": 40,
+              "url": "https://t.co/RkJl99s87K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089668408329789531",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089668402373935104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 63841,
+          "like_count": 1851,
+          "quote_count": 10,
+          "reply_count": 91,
+          "retweet_count": 229
+        },
+        "reply_settings": "everyone",
+        "text": "真是可惡！到底是哪個國家對華人那麽差？\n\n所有中國人都應該要團結一齊反抗抵制！ https://t.co/RkJl99s87K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090124979476275248",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 130,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-21T02:42:05.000Z",
+        "description": "香港網絡漫畫家\n典型買唔到樓嘅廢青，唔甘心就咁樣被社會埋沒，努力於用火柴人發聲！我係2021年開始了全職創作漫畫，目標是讓更多人包括外國關注香港發生緊嘅事。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/oneaguy",
+                "end": 23,
+                "expanded_url": "http://patreon.com/oneaguy",
+                "start": 0,
+                "url": "https://t.co/UUTsgmoqvv"
+              }
+            ]
+          }
+        },
+        "id": "1164004665027022849",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2089999084593500365",
+        "name": "一個人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164004665027022849/1566356166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405384274056937474/c2HEsXU1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16786,
+          "following_count": 452,
+          "like_count": 905,
+          "listed_count": 78,
+          "media_count": 1072,
+          "tweet_count": 1267
+        },
+        "url": "https://t.co/UUTsgmoqvv",
+        "username": "hkguy1988",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

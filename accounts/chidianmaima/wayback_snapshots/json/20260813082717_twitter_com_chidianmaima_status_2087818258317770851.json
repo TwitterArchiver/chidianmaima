@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2087818258317770851",
+    "created_at": "2026-08-13T08:27:17.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087818258317770851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chidianmaima/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/chidianmaima/status/2087816925036564899",
+          "start": 45,
+          "url": "https://t.co/rIcjiY8GOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087818258317770851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087816925036564899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最他妈傻逼的是如果右美没死成过不了发检我估计又要进一次局子我一想到这个我就好崩溃😂😂😂😂 https://t.co/rIcjiY8GOt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087818258317770851",
+        "created_at": "2026-08-13T08:27:17.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087818258317770851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chidianmaima/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/chidianmaima/status/2087816925036564899",
+              "start": 45,
+              "url": "https://t.co/rIcjiY8GOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087818258317770851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087816925036564899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最他妈傻逼的是如果右美没死成过不了发检我估计又要进一次局子我一想到这个我就好崩溃😂😂😂😂 https://t.co/rIcjiY8GOt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087816925036564899",
+        "created_at": "2026-08-13T08:21:59.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087816925036564899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087816925036564899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是吃阿片呼吸抑制自杀还是吃单方右美自杀还是上吊（必死）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2087818258317770851",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 89,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

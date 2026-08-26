@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2089983592986550747",
+    "created_at": "2026-08-20T03:16:31.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T04:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090276768330768581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087894477205827584",
+          "start": 0,
+          "username": "ariiii0108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090276768330768581",
+    "in_reply_to_user_id": "2087894477205827584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089983592986550747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ariiii0108 实在坚持不下去可以来上海找我……抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2089983592986550747",
+        "created_at": "2026-08-20T03:16:31.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T04:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090276768330768581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087894477205827584",
+              "start": 0,
+              "username": "ariiii0108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090276768330768581",
+        "in_reply_to_user_id": "2087894477205827584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089983592986550747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ariiii0108 实在坚持不下去可以来上海找我……抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087894477205827584",
+        "conversation_id": "2089983592986550747",
+        "created_at": "2026-08-19T07:51:33.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089983592986550747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089983592986550747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2276,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是个彻底的孤儿了，养父母也都拒绝我了，我没有所谓可以称之为家的地方了。在无穷无尽的哭泣之后我才能打下这些文字。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090276768330768581",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 137,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T13:31:19.000Z",
+        "description": "2002 01",
+        "id": "2087894477205827584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089983592986550747",
+        "name": "阿哩",
+        "pinned_tweet_id": "2089735070726975531",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087894477205827584/1786991248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089418805152018432/YdBsfXGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 5,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "ariiii0108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

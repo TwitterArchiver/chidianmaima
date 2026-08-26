@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083819591990489088",
+        "3_2083819591986282496"
+      ],
+      "media_source_tweet_id": [
+        "2083819597107437742",
+        "2083819597107437742"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2084046451584504004",
+    "created_at": "2026-08-02T22:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084046451584504004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1342297704324620289",
+          "start": 3,
+          "username": "bulldogbutcher"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQLpeAMM8l",
+          "end": 70,
+          "expanded_url": "https://x.com/bulldogbutcher/status/2083819597107437742/photo/1",
+          "media_key": "3_2083819591990489088",
+          "start": 47,
+          "url": "https://t.co/PQLpeAMM8l"
+        },
+        {
+          "display_url": "pic.x.com/PQLpeAMM8l",
+          "end": 70,
+          "expanded_url": "https://x.com/bulldogbutcher/status/2083819597107437742/photo/1",
+          "media_key": "3_2083819591986282496",
+          "start": 47,
+          "url": "https://t.co/PQLpeAMM8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084046451584504004",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083819597107437742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bulldogbutcher: If you give a luca a joint https://t.co/PQLpeAMM8l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083819591990489088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs24NyXsAAtLLF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083819591986282496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs24NxXgAADb8X.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083819591990489088",
+            "3_2083819591986282496"
+          ]
+        },
+        "author_id": "1342297704324620289",
+        "conversation_id": "2083819597107437742",
+        "created_at": "2026-08-02T07:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083819597107437742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQLpeAMM8l",
+              "end": 50,
+              "expanded_url": "https://x.com/bulldogbutcher/status/2083819597107437742/photo/1",
+              "media_key": "3_2083819591990489088",
+              "start": 27,
+              "url": "https://t.co/PQLpeAMM8l"
+            },
+            {
+              "display_url": "pic.x.com/PQLpeAMM8l",
+              "end": 50,
+              "expanded_url": "https://x.com/bulldogbutcher/status/2083819597107437742/photo/1",
+              "media_key": "3_2083819591986282496",
+              "start": 27,
+              "url": "https://t.co/PQLpeAMM8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083819597107437742",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 41718,
+          "like_count": 2972,
+          "quote_count": 20,
+          "reply_count": 14,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "If you give a luca a joint https://t.co/PQLpeAMM8l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083819591990489088",
+            "3_2083819591986282496"
+          ],
+          "media_source_tweet_id": [
+            "2083819597107437742",
+            "2083819597107437742"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2084046451584504004",
+        "created_at": "2026-08-02T22:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084046451584504004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1342297704324620289",
+              "start": 3,
+              "username": "bulldogbutcher"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQLpeAMM8l",
+              "end": 70,
+              "expanded_url": "https://x.com/bulldogbutcher/status/2083819597107437742/photo/1",
+              "media_key": "3_2083819591990489088",
+              "start": 47,
+              "url": "https://t.co/PQLpeAMM8l"
+            },
+            {
+              "display_url": "pic.x.com/PQLpeAMM8l",
+              "end": 70,
+              "expanded_url": "https://x.com/bulldogbutcher/status/2083819597107437742/photo/1",
+              "media_key": "3_2083819591986282496",
+              "start": 47,
+              "url": "https://t.co/PQLpeAMM8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084046451584504004",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083819597107437742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bulldogbutcher: If you give a luca a joint https://t.co/PQLpeAMM8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 43,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T02:34:57.000Z",
+        "description": "19 yo butch nonbinary transsexual ,, @mydesiredfate ❤️❤️ ,, 5/27/2025 💉 6/2/2026 ✂️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "mydesiredfate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "easyrevenge.straw.page",
+                "end": 23,
+                "expanded_url": "https://easyrevenge.straw.page",
+                "start": 0,
+                "url": "https://t.co/SNZRRL9TC6"
+              }
+            ]
+          }
+        },
+        "id": "1342297704324620289",
+        "location": "he/him",
+        "name": "luca !! i ❤️ my gf",
+        "pinned_tweet_id": "2066985953885892703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032669836690546688/qq3B4dT9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 581,
+          "like_count": 21277,
+          "listed_count": 6,
+          "media_count": 517,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/SNZRRL9TC6",
+        "username": "bulldogbutcher",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088132821219262464",
+        "3_2088132821181513728"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2088132828139761830",
+    "created_at": "2026-08-14T05:17:16.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088132828139761830"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SRMp9A543W",
+          "end": 168,
+          "expanded_url": "https://x.com/chidianmaima/status/2088132828139761830/photo/1",
+          "media_key": "3_2088132821219262464",
+          "start": 145,
+          "url": "https://t.co/SRMp9A543W"
+        },
+        {
+          "display_url": "pic.x.com/SRMp9A543W",
+          "end": 168,
+          "expanded_url": "https://x.com/chidianmaima/status/2088132828139761830/photo/1",
+          "media_key": "3_2088132821181513728",
+          "start": 145,
+          "url": "https://t.co/SRMp9A543W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088132828139761830",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088132821219262464"
+      },
+      {
+        "media_key": "3_2088132821181513728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "布恩迪亚第一次摸到冰块时宣称这是世界上最大的钻石 那也是马孔多第一次接触冰 被隔绝在世界一个角落 被迫用生命撞向认知的铁幕 原住民没有冰这个词 马孔多人没有外面的世界这个词 当冰被塞进他们的手中 当吉普赛人带着冰块走进马孔多 一个生命在消逝之前都不知道这个世界有一种东西是坚硬的 会融化。 https://t.co/SRMp9A543W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088132821219262464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqJvMybwAAJacK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2088132821181513728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqJvMpbwAAruaU.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088132821219262464",
+            "3_2088132821181513728"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2088132828139761830",
+        "created_at": "2026-08-14T05:17:16.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088132828139761830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRMp9A543W",
+              "end": 168,
+              "expanded_url": "https://x.com/chidianmaima/status/2088132828139761830/photo/1",
+              "media_key": "3_2088132821219262464",
+              "start": 145,
+              "url": "https://t.co/SRMp9A543W"
+            },
+            {
+              "display_url": "pic.x.com/SRMp9A543W",
+              "end": 168,
+              "expanded_url": "https://x.com/chidianmaima/status/2088132828139761830/photo/1",
+              "media_key": "3_2088132821181513728",
+              "start": 145,
+              "url": "https://t.co/SRMp9A543W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088132828139761830",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088132821219262464"
+          },
+          {
+            "media_key": "3_2088132821181513728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "布恩迪亚第一次摸到冰块时宣称这是世界上最大的钻石 那也是马孔多第一次接触冰 被隔绝在世界一个角落 被迫用生命撞向认知的铁幕 原住民没有冰这个词 马孔多人没有外面的世界这个词 当冰被塞进他们的手中 当吉普赛人带着冰块走进马孔多 一个生命在消逝之前都不知道这个世界有一种东西是坚硬的 会融化。 https://t.co/SRMp9A543W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088132828139761830",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 101,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

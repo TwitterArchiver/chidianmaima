@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2086269092327985152"
+      ],
+      "media_source_tweet_id": [
+        "2086269139061023166"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2086599319344537767",
+    "created_at": "2026-08-09T23:43:39.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T00:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086599319344537767"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 42,
+          "tag": "goretwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1765797642943004673",
+          "start": 3,
+          "username": "watchmerotting"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/19OlaJHmyq",
+          "end": 74,
+          "expanded_url": "https://x.com/watchmerotting/status/2086269139061023166/video/1",
+          "media_key": "13_2086269092327985152",
+          "start": 51,
+          "url": "https://t.co/19OlaJHmyq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086599319344537767",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2086269092327985152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086269139061023166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @watchmerotting: twitter it's all fake\n#goretwt https://t.co/19OlaJHmyq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16994,
+        "height": 1280,
+        "media_key": "13_2086269092327985152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086269092327985152/img/9V1G56vA-OhLSCoG.jpg",
+        "public_metrics": {
+          "view_count": 3984
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086269092327985152/vid/avc1/320x584/ejy9tiEmviwFcOU2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086269092327985152/vid/avc1/480x876/0Em9sIDf4INkbqvq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086269092327985152/vid/avc1/700x1280/CtwbKIWBC6ndQXUa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086269092327985152/pl/chaYcVvYyCijStIF.m3u8?v=cfc"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086269092327985152"
+          ]
+        },
+        "author_id": "1765797642943004673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086269139061023166",
+        "created_at": "2026-08-09T01:51:38.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T02:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086269139061023166"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "goretwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/19OlaJHmyq",
+              "end": 54,
+              "expanded_url": "https://x.com/watchmerotting/status/2086269139061023166/video/1",
+              "media_key": "13_2086269092327985152",
+              "start": 31,
+              "url": "https://t.co/19OlaJHmyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086269139061023166",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086269092327985152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 5146,
+          "like_count": 419,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "twitter it's all fake\n#goretwt https://t.co/19OlaJHmyq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086269092327985152"
+          ],
+          "media_source_tweet_id": [
+            "2086269139061023166"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2086599319344537767",
+        "created_at": "2026-08-09T23:43:39.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086599319344537767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "goretwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1765797642943004673",
+              "start": 3,
+              "username": "watchmerotting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/19OlaJHmyq",
+              "end": 74,
+              "expanded_url": "https://x.com/watchmerotting/status/2086269139061023166/video/1",
+              "media_key": "13_2086269092327985152",
+              "start": 51,
+              "url": "https://t.co/19OlaJHmyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086599319344537767",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086269092327985152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086269139061023166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @watchmerotting: twitter it's all fake\n#goretwt https://t.co/19OlaJHmyq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086599319344537767",
+        "name": "乱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 77,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-07T17:52:30.000Z",
+        "description": "في نطاق اليأس...\nhttps://t.co/GRhtOZYNQZ\nя умру в одиночестве и никто не вспомнит",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "myspace.com/Jeremiahwithco…",
+                "end": 40,
+                "expanded_url": "http://www.myspace.com/Jeremiahwithcotard",
+                "start": 17,
+                "url": "https://t.co/GRhtOZYNQZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacehey.com/mkultramkultra",
+                "end": 23,
+                "expanded_url": "https://spacehey.com/mkultramkultra",
+                "start": 0,
+                "url": "https://t.co/lcipB6xc5G"
+              }
+            ]
+          }
+        },
+        "id": "1765797642943004673",
+        "is_identity_verified": false,
+        "location": "somewhere in nevada",
+        "most_recent_tweet_id": "2086512167193325728",
+        "name": "mkultramkultramkultra",
+        "pinned_tweet_id": "2084685830036095454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1765797642943004673/1786017149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086241374072913921/OrQYyW-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 5,
+          "like_count": 6928,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 3549
+        },
+        "url": "https://t.co/lcipB6xc5G",
+        "username": "watchmerotting",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

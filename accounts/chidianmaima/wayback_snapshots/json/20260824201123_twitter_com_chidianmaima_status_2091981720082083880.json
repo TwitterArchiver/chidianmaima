@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2091981720082083880",
+    "created_at": "2026-08-24T20:11:23.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T21:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091981720082083880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ak1r4i/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ak1r4i/status/2091966141141066078",
+          "start": 4,
+          "url": "https://t.co/ELtonmKTs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091981720082083880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091966141141066078",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "转转w https://t.co/ELtonmKTs1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2091981720082083880",
+        "created_at": "2026-08-24T20:11:23.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091981720082083880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ak1r4i/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ak1r4i/status/2091966141141066078",
+              "start": 4,
+              "url": "https://t.co/ELtonmKTs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091981720082083880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091966141141066078",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转转w https://t.co/ELtonmKTs1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022208955917979648",
+        "conversation_id": "2091966141141066078",
+        "created_at": "2026-08-24T19:09:29.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091966141141066078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091966141141066078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 70,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惺惺這裡有¥1.7/g的普瑞原粉 ¥30/g的酸奶葡萄 ¥40/100mg 的仙人掌 ¥1/mg的4-Keto-PCP ¥0.5/mg的3-Me-PCPy。私訊惺惺獲得魔法聯結。購買完成後 惺惺會幫你仔細包裝並塞入可愛小禮物。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2091981720082083880",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 158,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 326
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "💊🔪🩸 Oct.09 多方面無能笨蛋 希死念慮 \n發了ooc內容的話就是我嗑大了(不要討厭我🥺\n害怕藥效 愛吃抑制劑 贊安諾雞腿 🩵\n憑感覺fo跟回fo💜偏愛@tanga7lc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "tanga7lc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5aAqe"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "is_identity_verified": false,
+        "location": "夢",
+        "most_recent_tweet_id": "2091970642472300751",
+        "name": "惺",
+        "pinned_tweet_id": "2091966141141066078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022208955917979648/1783763973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091975392752279552/mF_BpLnd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 349,
+          "like_count": 1198,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/d4zjW5aAqe",
+        "username": "Ak1r4i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

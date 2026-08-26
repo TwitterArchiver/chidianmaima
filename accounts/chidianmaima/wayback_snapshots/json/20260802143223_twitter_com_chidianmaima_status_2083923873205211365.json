@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2083921205128831428",
+    "created_at": "2026-08-02T14:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083923873205211365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1908957018469085184",
+          "start": 0,
+          "username": "ml921127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083923873205211365",
+    "in_reply_to_user_id": "1908957018469085184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083921205128831428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ml921127 可以单用sns 氯硝没有啥可玩性只有困"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083921192675889152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuTSJ1a0AAosfK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2083921205128831428",
+        "created_at": "2026-08-02T14:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083923873205211365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1908957018469085184",
+              "start": 0,
+              "username": "ml921127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083923873205211365",
+        "in_reply_to_user_id": "1908957018469085184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083921205128831428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ml921127 可以单用sns 氯硝没有啥可玩性只有困"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083921192675889152"
+          ]
+        },
+        "author_id": "1908957018469085184",
+        "conversation_id": "2083921205128831428",
+        "created_at": "2026-08-02T14:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083921205128831428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLfnhiiS3A",
+              "end": 47,
+              "expanded_url": "https://x.com/ml921127/status/2083921205128831428/photo/1",
+              "media_key": "3_2083921192675889152",
+              "start": 24,
+              "url": "https://t.co/HLfnhiiS3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083921205128831428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这三个要怎么配…我现在手上就这些了，来个人告知 https://t.co/HLfnhiiS3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 39,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:56:49.000Z",
+        "description": "药物会带我们逃离这个世界，要和Archer一起吗这里很安全^^（非同圈闲聊🚪188\n不约炮不下海，男的再问4000+关注我的我会查成分。你在看我的同时我也在看你。提问箱https://t.co/BguYWWr14J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ar96376",
+                "end": 107,
+                "expanded_url": "https://ngl.link/ar96376",
+                "start": 84,
+                "url": "https://t.co/BguYWWr14J"
+              }
+            ]
+          }
+        },
+        "id": "1908957018469085184",
+        "name": "Archer",
+        "pinned_tweet_id": "2070783668377858442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070820490600407040/KnVuGfp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 52,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "ml921127",
+        "verified": false
+      }
+    ]
+  }
+}

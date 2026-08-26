@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2082023162934595653",
+    "created_at": "2026-07-29T18:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082532817024819674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684145754343096321",
+          "start": 0,
+          "username": "feifei1247546"
+        },
+        {
+          "end": 27,
+          "id": "1547812257676963840",
+          "start": 15,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082532817024819674",
+    "in_reply_to_user_id": "1684145754343096321",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082023162934595653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feifei1247546 @YLS69979546 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2082023162934595653",
+        "created_at": "2026-07-29T18:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082532817024819674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684145754343096321",
+              "start": 0,
+              "username": "feifei1247546"
+            },
+            {
+              "end": 27,
+              "id": "1547812257676963840",
+              "start": 15,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082532817024819674",
+        "in_reply_to_user_id": "1684145754343096321",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082023162934595653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feifei1247546 @YLS69979546 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684145754343096321",
+        "conversation_id": "2082023162934595653",
+        "created_at": "2026-07-28T08:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082023162934595653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082023162934595653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1297,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我打算进一批4ho，一个人吃不掉，有人想要的话跟我说一声，或者关注我一下，我看人多就去进货了，现在市面上普遍是160一颗/25mg，我不会比这个价格高，多买多优惠，或者有想大量收，拼团的可以找我私聊议价。麻烦看到的帮我转一下谢谢，人多我就开团了，货大概一个月左右就能到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 21,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T10:17:02.000Z",
+        "description": "最近准备进一批4ho出，有需要的关注我谢谢\n私聊+✈️ https://t.co/eLRujvQQzQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/feifeidedian",
+                "end": 51,
+                "expanded_url": "http://t.me/feifeidedian",
+                "start": 28,
+                "url": "https://t.co/eLRujvQQzQ"
+              }
+            ]
+          }
+        },
+        "id": "1684145754343096321",
+        "name": "fei",
+        "pinned_tweet_id": "2082023162934595653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684145934194872322/Rny3stop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 107,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "feifei1247546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 159,
+          "like_count": 8464,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1767
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

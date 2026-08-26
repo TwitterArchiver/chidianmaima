@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2085086948759404701",
+    "created_at": "2026-08-05T19:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085086948759404701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817235621540421632",
+          "start": 3,
+          "username": "zzselfmdeb4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085086948759404701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081076185283633387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zzselfmdeb4b: 原本要戒毒了 \n但想到藥頭還有家庭要養 \n我又心軟了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2085086948759404701",
+        "created_at": "2026-08-05T19:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085086948759404701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817235621540421632",
+              "start": 3,
+              "username": "zzselfmdeb4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085086948759404701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081076185283633387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zzselfmdeb4b: 原本要戒毒了 \n但想到藥頭還有家庭要養 \n我又心軟了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817235621540421632",
+        "conversation_id": "2081076185283633387",
+        "created_at": "2026-07-25T17:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T18:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081076185283633387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081076185283633387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1503,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "原本要戒毒了 \n但想到藥頭還有家庭要養 \n我又心軟了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 54,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 73
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T16:28:38.000Z",
+        "description": "",
+        "id": "1817235621540421632",
+        "name": "Zzzz",
+        "pinned_tweet_id": "2047337330063897016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027066547358121985/s6Y_nT_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 145,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 2239
+        },
+        "url": "",
+        "username": "zzselfmdeb4b",
+        "verified": false
+      }
+    ]
+  }
+}

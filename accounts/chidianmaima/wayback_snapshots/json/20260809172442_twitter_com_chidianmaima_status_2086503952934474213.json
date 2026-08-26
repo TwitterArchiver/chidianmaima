@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2086503952934474213",
+    "created_at": "2026-08-09T17:24:42.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T18:24:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086503952934474213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gamer94469/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/gamer94469/status/2086502447154160035",
+          "start": 2,
+          "url": "https://t.co/AvKmMht61N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086503952934474213",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086502447154160035",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哟 https://t.co/AvKmMht61N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2086502437326888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS-6XfbIAApK3k.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2086502437343629312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS-6XjakAAaUb5.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2086502437335228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS-6XhaYAAtiIh.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2086502437331017728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS-6XgaIAA1ZT9.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2086503952934474213",
+        "created_at": "2026-08-09T17:24:42.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086503952934474213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gamer94469/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/gamer94469/status/2086502447154160035",
+              "start": 2,
+              "url": "https://t.co/AvKmMht61N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086503952934474213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086502447154160035",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哟 https://t.co/AvKmMht61N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086502437326888960",
+            "3_2086502437343629312",
+            "3_2086502437335228416",
+            "3_2086502437331017728"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2086502447154160035",
+        "created_at": "2026-08-09T17:18:43.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086502447154160035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFefKNiAYQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2086502447154160035/photo/1",
+              "media_key": "3_2086502437326888960",
+              "start": 0,
+              "url": "https://t.co/EFefKNiAYQ"
+            },
+            {
+              "display_url": "pic.x.com/EFefKNiAYQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2086502447154160035/photo/1",
+              "media_key": "3_2086502437343629312",
+              "start": 0,
+              "url": "https://t.co/EFefKNiAYQ"
+            },
+            {
+              "display_url": "pic.x.com/EFefKNiAYQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2086502447154160035/photo/1",
+              "media_key": "3_2086502437335228416",
+              "start": 0,
+              "url": "https://t.co/EFefKNiAYQ"
+            },
+            {
+              "display_url": "pic.x.com/EFefKNiAYQ",
+              "end": 23,
+              "expanded_url": "https://x.com/Gamer94469/status/2086502447154160035/photo/1",
+              "media_key": "3_2086502437331017728",
+              "start": 0,
+              "url": "https://t.co/EFefKNiAYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086502447154160035",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086502437326888960"
+          },
+          {
+            "media_key": "3_2086502437343629312"
+          },
+          {
+            "media_key": "3_2086502437335228416"
+          },
+          {
+            "media_key": "3_2086502437331017728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EFefKNiAYQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086503952934474213",
+        "name": "乱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 72,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086502447154160035",
+        "name": "俄亥俄",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429055428374130693/1785878117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086476251150307328/uaf56NK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1172,
+          "following_count": 313,
+          "like_count": 22686,
+          "listed_count": 2,
+          "media_count": 774,
+          "tweet_count": 5904
+        },
+        "url": "",
+        "username": "Gamer94469",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088457291569979392",
+        "3_2088457291565801472"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2088457304085844044",
+    "created_at": "2026-08-15T02:46:37.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T03:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088457304085844044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IBPFKhtd2g",
+          "end": 44,
+          "expanded_url": "https://x.com/chidianmaima/status/2088457304085844044/photo/1",
+          "media_key": "3_2088457291569979392",
+          "start": 21,
+          "url": "https://t.co/IBPFKhtd2g"
+        },
+        {
+          "display_url": "pic.x.com/IBPFKhtd2g",
+          "end": 44,
+          "expanded_url": "https://x.com/chidianmaima/status/2088457304085844044/photo/1",
+          "media_key": "3_2088457291565801472",
+          "start": 21,
+          "url": "https://t.co/IBPFKhtd2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088457304085844044",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088457291569979392"
+      },
+      {
+        "media_key": "3_2088457291565801472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直在抖 msknmsl🩸图都让我删除 https://t.co/IBPFKhtd2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088457291569979392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuw13CaYAAZnuA.jpg",
+        "width": 943
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2088457291565801472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuw13BaoAAmsOx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088457291569979392",
+            "3_2088457291565801472"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2088457304085844044",
+        "created_at": "2026-08-15T02:46:37.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088457304085844044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IBPFKhtd2g",
+              "end": 44,
+              "expanded_url": "https://x.com/chidianmaima/status/2088457304085844044/photo/1",
+              "media_key": "3_2088457291569979392",
+              "start": 21,
+              "url": "https://t.co/IBPFKhtd2g"
+            },
+            {
+              "display_url": "pic.x.com/IBPFKhtd2g",
+              "end": 44,
+              "expanded_url": "https://x.com/chidianmaima/status/2088457304085844044/photo/1",
+              "media_key": "3_2088457291565801472",
+              "start": 21,
+              "url": "https://t.co/IBPFKhtd2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088457304085844044",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088457291569979392"
+          },
+          {
+            "media_key": "3_2088457291565801472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在抖 msknmsl🩸图都让我删除 https://t.co/IBPFKhtd2g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088457304085844044",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 106,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

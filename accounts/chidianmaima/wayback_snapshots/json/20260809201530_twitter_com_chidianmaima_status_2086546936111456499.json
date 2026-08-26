@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2086546936111456499",
+    "created_at": "2026-08-09T20:15:30.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T21:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086546936111456499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971864720966873088",
+          "start": 3,
+          "username": "OxOilllllo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086546936111456499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086384359993671842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OxOilllllo: 身材无样可走 前途无路可走 人品无房可塌 存款无产可破 智商无脑可用 情商无语至极 这就是我 很简单的一个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2086546936111456499",
+        "created_at": "2026-08-09T20:15:30.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086546936111456499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971864720966873088",
+              "start": 3,
+              "username": "OxOilllllo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086546936111456499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086384359993671842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OxOilllllo: 身材无样可走 前途无路可走 人品无房可塌 存款无产可破 智商无脑可用 情商无语至极 这就是我 很简单的一个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971864720966873088",
+        "conversation_id": "2086384359993671842",
+        "created_at": "2026-08-09T09:29:29.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086384359993671842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086384359993671842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5748,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "身材无样可走 前途无路可走 人品无房可塌 存款无产可破 智商无脑可用 情商无语至极 这就是我 很简单的一个人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086546936111456499",
+        "name": "乱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 77,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T09:09:30.000Z",
+        "description": "le 不约 当朋友圈发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dd26387",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dd26387",
+                "start": 0,
+                "url": "https://t.co/dzlaMsYWy4"
+              }
+            ]
+          }
+        },
+        "id": "1971864720966873088",
+        "is_identity_verified": false,
+        "location": "0.6km",
+        "most_recent_tweet_id": "2086521990358462571",
+        "name": "Dd",
+        "pinned_tweet_id": "2075608962326777903",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971864720966873088/1784359612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072017799413993472/TZoAo-XH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 60,
+          "like_count": 898,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/dzlaMsYWy4",
+        "username": "OxOilllllo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

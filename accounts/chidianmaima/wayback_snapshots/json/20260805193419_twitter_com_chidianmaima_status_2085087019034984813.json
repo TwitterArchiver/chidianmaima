@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2085087019034984813",
+    "created_at": "2026-08-05T19:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085087019034984813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083148977718050816",
+          "start": 3,
+          "username": "kuraage1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085087019034984813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 294
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084912630511337800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuraage1: 1粒飲んだらすぐ死ねる薬とかないの"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2085087019034984813",
+        "created_at": "2026-08-05T19:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085087019034984813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083148977718050816",
+              "start": 3,
+              "username": "kuraage1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085087019034984813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084912630511337800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuraage1: 1粒飲んだらすぐ死ねる薬とかないの"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083148977718050816",
+        "conversation_id": "2084912630511337800",
+        "created_at": "2026-08-05T08:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084912630511337800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084912630511337800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 524975,
+          "like_count": 4619,
+          "quote_count": 79,
+          "reply_count": 83,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "1粒飲んだらすぐ死ねる薬とかないの"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 54,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-31T11:14:32.000Z",
+        "description": "🗝@0ku_chan8 無言フォロー失礼します ツイ消し",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 1,
+                "username": "0ku_chan8"
+              }
+            ]
+          }
+        },
+        "id": "2083148977718050816",
+        "location": "生き地獄",
+        "name": "くらげ",
+        "pinned_tweet_id": "2083867145344254074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083150361427382272/kGEJdChl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 148,
+          "like_count": 20,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "kuraage1",
+        "verified": false
+      }
+    ]
+  }
+}

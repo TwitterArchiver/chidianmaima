@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2088557999841546751",
+    "created_at": "2026-08-15T16:43:16.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088667854984098258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1985974116927881217",
+          "start": 0,
+          "username": "ChrysalismOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088667854984098258",
+    "in_reply_to_user_id": "1985974116927881217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088659526820213031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrysalismOvO 可爱的小宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2088557999841546751",
+        "created_at": "2026-08-15T16:43:16.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088667854984098258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1985974116927881217",
+              "start": 0,
+              "username": "ChrysalismOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088667854984098258",
+        "in_reply_to_user_id": "1985974116927881217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088659526820213031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrysalismOvO 可爱的小宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985974116927881217",
+        "conversation_id": "2088557999841546751",
+        "created_at": "2026-08-15T16:10:11.000Z",
+        "display_text_range": [
+          14,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088659526820213031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088659526820213031",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088557999841546751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 还真是！朋友圈经常发很多低脂日常碎碎念抖音特效生活照丑照搞怪脸和一些小美好一些抱怨，只置顶一些很有意义的，像丑照和抱怨这种，我当下觉得非常好笑或者无语，只有当下情绪比较浓烈的时候有勇气发出来，但是有并不想新朋友认识我的时候翻到这个🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088667854984098258",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 110,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-05T07:35:23.000Z",
+        "description": "不开私信\n匿名：https://t.co/7G5hTalyuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chrysalismovo",
+                "end": 31,
+                "expanded_url": "https://ngl.link/chrysalismovo",
+                "start": 8,
+                "url": "https://t.co/7G5hTalyuV"
+              }
+            ]
+          }
+        },
+        "id": "1985974116927881217",
+        "is_identity_verified": false,
+        "location": "不约 线下查无此人 ",
+        "most_recent_tweet_id": "2088667779264364786",
+        "name": "我害怕大傻逼",
+        "pinned_tweet_id": "2082818350904946982",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985974116927881217/1786183014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085040382208053251/rNYwn5Zx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 1282,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "ChrysalismOvO",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

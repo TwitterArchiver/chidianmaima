@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088453642080907264"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2086544149394927737",
+    "created_at": "2026-08-15T02:32:06.000Z",
+    "display_text_range": [
+      10,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T03:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088453648846344479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1887496106227212293",
+          "start": 0,
+          "username": "Hannnn922"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ligviIxNFi",
+          "end": 34,
+          "expanded_url": "https://x.com/chidianmaima/status/2088453648846344479/photo/1",
+          "media_key": "3_2088453642080907264",
+          "start": 11,
+          "url": "https://t.co/ligviIxNFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088453648846344479",
+    "in_reply_to_user_id": "1887496106227212293",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2088453642080907264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088368333137846377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hannnn922 https://t.co/ligviIxNFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2088453642080907264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuthboacAAJypI.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088453642080907264"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2086544149394927737",
+        "created_at": "2026-08-15T02:32:06.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T03:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088453648846344479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1887496106227212293",
+              "start": 0,
+              "username": "Hannnn922"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ligviIxNFi",
+              "end": 34,
+              "expanded_url": "https://x.com/chidianmaima/status/2088453648846344479/photo/1",
+              "media_key": "3_2088453642080907264",
+              "start": 11,
+              "url": "https://t.co/ligviIxNFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088453648846344479",
+        "in_reply_to_user_id": "1887496106227212293",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2088453642080907264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088368333137846377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hannnn922 https://t.co/ligviIxNFi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887496106227212293",
+        "conversation_id": "2086544149394927737",
+        "created_at": "2026-08-14T20:53:05.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T21:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088368333137846377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088368333137846377",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086544149394927737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 我想要你的头像老师"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088453648846344479",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 101,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T13:38:42.000Z",
+        "description": "",
+        "id": "1887496106227212293",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088368333137846377",
+        "name": "Hannnn",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887496106227212293/1739526465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887496237722836995/UNBW0d0O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 22,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "Hannnn922",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

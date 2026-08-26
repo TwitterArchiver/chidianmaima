@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090209562565706089",
+    "created_at": "2026-08-20T05:06:41.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090304492126519671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057497111718166531",
+          "start": 0,
+          "username": "ovum0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090304492126519671",
+    "in_reply_to_user_id": "2057497111718166531",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090209562565706089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovum0000 舔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1582,
+        "media_key": "3_2090209522564657152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHqfIKa8AAqTcT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1409,
+        "media_key": "3_2090209530722525184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHqfmjaIAAikpq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 824,
+        "media_key": "3_2090209542655352832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHqgTAaoAAxaRO.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090209554651033600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHqg_saMAAtdeH.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090209562565706089",
+        "created_at": "2026-08-20T05:06:41.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090304492126519671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057497111718166531",
+              "start": 0,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090304492126519671",
+        "in_reply_to_user_id": "2057497111718166531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090209562565706089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovum0000 舔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090209522564657152",
+            "3_2090209530722525184",
+            "3_2090209542655352832",
+            "3_2090209554651033600"
+          ]
+        },
+        "author_id": "2057497111718166531",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090209562565706089",
+        "created_at": "2026-08-19T22:49:28.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090209562565706089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zulP6xXzyC",
+              "end": 46,
+              "expanded_url": "https://x.com/ovum0000/status/2090209562565706089/photo/1",
+              "media_key": "3_2090209522564657152",
+              "start": 23,
+              "url": "https://t.co/zulP6xXzyC"
+            },
+            {
+              "display_url": "pic.x.com/zulP6xXzyC",
+              "end": 46,
+              "expanded_url": "https://x.com/ovum0000/status/2090209562565706089/photo/1",
+              "media_key": "3_2090209530722525184",
+              "start": 23,
+              "url": "https://t.co/zulP6xXzyC"
+            },
+            {
+              "display_url": "pic.x.com/zulP6xXzyC",
+              "end": 46,
+              "expanded_url": "https://x.com/ovum0000/status/2090209562565706089/photo/1",
+              "media_key": "3_2090209542655352832",
+              "start": 23,
+              "url": "https://t.co/zulP6xXzyC"
+            },
+            {
+              "display_url": "pic.x.com/zulP6xXzyC",
+              "end": 46,
+              "expanded_url": "https://x.com/ovum0000/status/2090209562565706089/photo/1",
+              "media_key": "3_2090209554651033600",
+              "start": 23,
+              "url": "https://t.co/zulP6xXzyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090209562565706089",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090209522564657152"
+          },
+          {
+            "media_key": "3_2090209530722525184"
+          },
+          {
+            "media_key": "3_2090209542655352832"
+          },
+          {
+            "media_key": "3_2090209554651033600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此时此刻将我当成一位恋旧的自拍发布者即可。、 https://t.co/zulP6xXzyC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090304492126519671",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 142,
+          "like_count": 497,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "天造地设操你妈",
+        "id": "2057497111718166531",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090209562565706089",
+        "name": "支国人种美学讲师",
+        "pinned_tweet_id": "2084666841298067575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057497111718166531/1779839623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089061458533605376/nYAqbyf1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 55,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 799
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

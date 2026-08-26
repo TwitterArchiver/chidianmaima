@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090262467071078451",
+    "created_at": "2026-08-20T02:19:42.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090262467071078451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2088940176345296896",
+          "start": 3,
+          "username": "kfcvivo50123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090262467071078451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090236189265764855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kfcvivo50123: 我这毫无意义的一天天流淌着，汇向死亡的海。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090262467071078451",
+        "created_at": "2026-08-20T02:19:42.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090262467071078451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2088940176345296896",
+              "start": 3,
+              "username": "kfcvivo50123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090262467071078451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090236189265764855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kfcvivo50123: 我这毫无意义的一天天流淌着，汇向死亡的海。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088940176345296896",
+        "conversation_id": "2090236189265764855",
+        "created_at": "2026-08-20T00:35:16.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T01:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090236189265764855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090236189265764855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我这毫无意义的一天天流淌着，汇向死亡的海。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090262467071078451",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 133,
+          "like_count": 480,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T10:46:48.000Z",
+        "description": "我的怒火犹如见到幽灵的哈姆雷特咕！\n以下原版简介\n你说得对，但是我是一只珠颈斑鸠。\n非常非常非常欢迎互fo或私信我\n天蝎 06 enfp\\infp 是男生！\n个人网站👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "222-803.pages.dev",
+                "end": 23,
+                "expanded_url": "https://222-803.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/YMgfIUyO85"
+              }
+            ]
+          }
+        },
+        "id": "2088940176345296896",
+        "is_identity_verified": false,
+        "location": "白宫",
+        "most_recent_tweet_id": "2090239349510271400",
+        "name": "珠颈斑鸠二世",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088940176345296896/1786877901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088940663689875456/uSbeVKfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 68,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/YMgfIUyO85",
+        "username": "kfcvivo50123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

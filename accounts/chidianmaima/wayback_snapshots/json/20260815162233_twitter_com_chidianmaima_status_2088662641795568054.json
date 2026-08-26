@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2088470554466795801",
+    "created_at": "2026-08-15T16:22:33.000Z",
+    "display_text_range": [
+      13,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T17:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088662641795568054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951820054355480577",
+          "start": 0,
+          "username": "FanGuawa123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088662641795568054",
+    "in_reply_to_user_id": "1951820054355480577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088652766486913339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanGuawa123 俺不知道捏 但是我觉得上吊是最迅速的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2088470554466795801",
+        "created_at": "2026-08-15T16:22:33.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088662641795568054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951820054355480577",
+              "start": 0,
+              "username": "FanGuawa123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088662641795568054",
+        "in_reply_to_user_id": "1951820054355480577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088652766486913339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanGuawa123 俺不知道捏 但是我觉得上吊是最迅速的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951820054355480577",
+        "conversation_id": "2088470554466795801",
+        "created_at": "2026-08-15T15:43:19.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T16:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088652766486913339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088652766486913339",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088470554466795801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 网上说如果自杀方式是惰性气体窒息收到的疼痛是最轻的是真的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088662641795568054",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 109,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-03T01:39:38.000Z",
+        "description": "Minecraft/永远跟随党的领导",
+        "id": "1951820054355480577",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2088657025379004837",
+        "name": "ItzRealFan✨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1951820054355480577/1754186146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076286682156896256/ytpLOMv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 321,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "FanGuawa123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

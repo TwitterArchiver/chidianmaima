@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2091687095886811616",
+    "created_at": "2026-08-24T00:40:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T01:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091687095886811616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981464681622667264",
+          "start": 3,
+          "username": "fufu18681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091687095886811616",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4500
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091373192195854578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fufu18681: 자기객관화 너무 잘되는 사람이 정신병원 가면 높은 확률로 주의관찰대상이 됩니다\n보통 사람들은 긍정적 착각이라는 보호막을 만들고 멘탈 지키면서 사는데 \n객관화 인간들은 그 보호막이 없음\n즉 정병 상시 대기상태인데 \n자기 비하…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2091687095886811616",
+        "created_at": "2026-08-24T00:40:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091687095886811616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981464681622667264",
+              "start": 3,
+              "username": "fufu18681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091687095886811616",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4500
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091373192195854578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fufu18681: 자기객관화 너무 잘되는 사람이 정신병원 가면 높은 확률로 주의관찰대상이 됩니다\n보통 사람들은 긍정적 착각이라는 보호막을 만들고 멘탈 지키면서 사는데 \n객관화 인간들은 그 보호막이 없음\n즉 정병 상시 대기상태인데 \n자기 비하…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981464681622667264",
+        "conversation_id": "2091373192195854578",
+        "created_at": "2026-08-23T03:53:19.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091373192195854578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/himdeulda45411…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/himdeulda45411/status/2091069443065651634",
+              "start": 158,
+              "url": "https://t.co/dp597GyDUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091373192195854578",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "자기객관화 너무 잘되는 사람이 정신병원 가면 높은 확률로 주의관찰대상이 됩니다\n보통 사람들은 긍정적 착각이라는 보호막을 만들고 멘탈 지키면서 사는데 \n객관화 인간들은 그 보호막이 없음\n즉 정병 상시 대기상태인데 \n자기 비하의 근거도 명확하게 파악하고 있어서 의사가 설득하기도 어려움\n\n다만 세상은 생각보다 얼레벌레 운으로 흘러가서 과도한 자기객관화보단 긍정적 착각 상태가 기회를 잡기 좋다는 것"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5436,
+          "impression_count": 1692236,
+          "like_count": 14563,
+          "quote_count": 1138,
+          "reply_count": 5,
+          "retweet_count": 4500
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091069443065651634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "자기객관화 너무 잘되는 사람이 정신병원 가면 높은 확률로 주의관찰대상이 됩니다\n보통 사람들은 긍정적 착각이라는 보호막을 만들고 멘탈 지키면서 사는데 \n객관화 인간들은 그 보호막이 없음\n즉 정병 상시 대기상태인데 \n자기 비하의 근거도 명확하게 파악하고 있어서 의사가 설득하기도 어려움 https://t.co/dp597GyDUG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2091687095886811616",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 148,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-23T20:56:25.000Z",
+        "description": "코덕+십덕 I 수부지 I 리뷰 하이라이트 I 문의 fufu18681@gmail.com🍀",
+        "id": "1981464681622667264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091535045270102124",
+        "name": "자몽",
+        "pinned_tweet_id": "2090378375596826880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1981464681622667264/1762501909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986703114578333696/YAdNNd-M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 792,
+          "like_count": 24821,
+          "listed_count": 13,
+          "media_count": 300,
+          "tweet_count": 14103
+        },
+        "url": "",
+        "username": "fufu18681",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

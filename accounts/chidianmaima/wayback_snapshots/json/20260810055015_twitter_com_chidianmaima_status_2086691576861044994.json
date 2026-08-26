@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2086646745313034733",
+    "created_at": "2026-08-10T05:50:15.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086691576861044994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077713332812083200",
+          "start": 0,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086691576861044994",
+    "in_reply_to_user_id": "2077713332812083200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086646745313034733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fries420cn 必须耍起"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28733,
+        "height": 1280,
+        "media_key": "13_2086646661355560960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086646661355560960/img/U8huw0IFKx5qgbwn.jpg",
+        "public_metrics": {
+          "view_count": 113
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086646661355560960/vid/avc1/320x568/ObP7y9MnaOgKtY--.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086646661355560960/vid/avc1/480x852/1uOV_dFXHre2oQ5Z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086646661355560960/vid/avc1/720x1280/VEcMruT-CP93SZJ5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086646661355560960/pl/AwbUBiKnkhDNLCBq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2086646745313034733",
+        "created_at": "2026-08-10T05:50:15.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086691576861044994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077713332812083200",
+              "start": 0,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086691576861044994",
+        "in_reply_to_user_id": "2077713332812083200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086646745313034733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fries420cn 必须耍起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086646661355560960"
+          ]
+        },
+        "author_id": "2077713332812083200",
+        "conversation_id": "2086646745313034733",
+        "created_at": "2026-08-10T02:52:06.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086646745313034733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAq8tFOuEd",
+              "end": 41,
+              "expanded_url": "https://x.com/fries420cn/status/2086646745313034733/video/1",
+              "media_key": "13_2086646661355560960",
+              "start": 18,
+              "url": "https://t.co/KAq8tFOuEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086646745313034733",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086646661355560960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你有抽不完的大麻你最想做什么？ https://t.co/KAq8tFOuEd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086691576861044994",
+        "name": "乱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 85,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "支持亚洲大麻合法化 |  大麻除罪化 | 正视医疗用途 |  🏳️‍⚧️MTF🏳️‍🌈LGBTQ友好｜支持语言 (CN🇨🇳/EN🇺🇸/KR🇰🇷) | 禁止未成年🚫 | 平台网站开发中",
+        "id": "2077713332812083200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086665386997797151",
+        "name": "薯条🍟(大麻\\電子煙)",
+        "pinned_tweet_id": "2083175269524017656",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077713332812083200/1784541038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079675187579252736/n1no54_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 495,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

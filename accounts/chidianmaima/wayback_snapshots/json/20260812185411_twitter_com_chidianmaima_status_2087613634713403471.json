@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2087612757764088043",
+    "created_at": "2026-08-12T18:54:11.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087613634713403471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1644336219751583747",
+          "start": 0,
+          "username": "banban4444886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087613634713403471",
+    "in_reply_to_user_id": "1644336219751583747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087612757764088043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@banban4444886 宝宝可以看一下私信吗……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087612757764088043",
+        "created_at": "2026-08-12T18:54:11.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087613634713403471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1644336219751583747",
+              "start": 0,
+              "username": "banban4444886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087613634713403471",
+        "in_reply_to_user_id": "1644336219751583747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087612757764088043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@banban4444886 宝宝可以看一下私信吗……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644336219751583747",
+        "conversation_id": "2087612757764088043",
+        "created_at": "2026-08-12T18:50:42.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087612757764088043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087612757764088043",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "last day"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2087613634713403471",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 89,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-07T13:48:14.000Z",
+        "description": "我闻到了不属于我的早晨的味道，是谁把它带到这里来的？",
+        "id": "1644336219751583747",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087612757764088043",
+        "name": "刹那",
+        "pinned_tweet_id": "2057725717442650280",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1644336219751583747/1756257571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082428362161901568/Vl0ZIG-r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 98,
+          "like_count": 1342,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 981
+        },
+        "url": "",
+        "username": "banban4444886",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

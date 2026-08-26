@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2084967425569878242",
+    "created_at": "2026-08-05T11:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T12:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084967425569878242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunjiu/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yunjiu/status/2084589663398809791",
+          "start": 6,
+          "url": "https://t.co/c2IXsRAnQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084967425569878242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084589663398809791",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人能飞 https://t.co/c2IXsRAnQR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_2084408750740525056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1OtxKa0AAUrtl.jpg",
+        "width": 824
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2084967425569878242",
+        "created_at": "2026-08-05T11:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084967425569878242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunjiu/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yunjiu/status/2084589663398809791",
+              "start": 6,
+              "url": "https://t.co/c2IXsRAnQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084967425569878242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084589663398809791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人能飞 https://t.co/c2IXsRAnQR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084408750740525056"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2084589663398809791",
+        "created_at": "2026-08-04T10:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084589663398809791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoEIJZqbn4",
+              "end": 23,
+              "expanded_url": "https://x.com/YunJiu/status/2084589663398809791/photo/1",
+              "media_key": "3_2084408750740525056",
+              "start": 0,
+              "url": "https://t.co/eoEIJZqbn4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084589663398809791",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 120454,
+          "like_count": 2896,
+          "quote_count": 7,
+          "reply_count": 192,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eoEIJZqbn4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 50,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106553,
+          "following_count": 822,
+          "like_count": 37582,
+          "listed_count": 296,
+          "media_count": 20601,
+          "tweet_count": 29238
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

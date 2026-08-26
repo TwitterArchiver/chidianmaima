@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2084654639560138919",
+    "created_at": "2026-08-04T14:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084654639560138919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1844126044892098560",
+          "start": 3,
+          "username": "polvosehirose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084654639560138919",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1875
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084352364870615494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @polvosehirose: tô acostumado a viver em bolha lgbt e esqueço que no mundo real a maioria das pessoas são extremamente preconceituosas e…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2084654639560138919",
+        "created_at": "2026-08-04T14:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084654639560138919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1844126044892098560",
+              "start": 3,
+              "username": "polvosehirose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084654639560138919",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1875
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084352364870615494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @polvosehirose: tô acostumado a viver em bolha lgbt e esqueço que no mundo real a maioria das pessoas são extremamente preconceituosas e…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844126044892098560",
+        "conversation_id": "2084352364870615494",
+        "created_at": "2026-08-03T18:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084352364870615494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084352364870615494",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 50728,
+          "like_count": 8843,
+          "quote_count": 37,
+          "reply_count": 30,
+          "retweet_count": 1875
+        },
+        "reply_settings": "everyone",
+        "text": "tô acostumado a viver em bolha lgbt e esqueço que no mundo real a maioria das pessoas são extremamente preconceituosas e querem a sua morte apenas por existir 🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 48,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T21:21:35.000Z",
+        "description": "19𝚢   ✰   𝚖𝚞𝚕𝚝𝚒𝚏𝚊𝚗𝚍𝚘𝚖                                                                            𝚏𝚊  𝚗° 1  𝚍𝚎  𝙶𝚘  𝙵𝚘𝚛  𝙸𝚝  𝙽𝚊𝚔𝚊𝚖𝚞𝚛𝚊",
+        "id": "1844126044892098560",
+        "location": "Inazuma - Teyvat",
+        "name": "𝚗𝚊𝚔𝚊𝚖𝚞𝚛𝚊?",
+        "pinned_tweet_id": "2075929729379484149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075624003096424448/NIri4dWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 459,
+          "like_count": 2262,
+          "listed_count": 11,
+          "media_count": 146,
+          "tweet_count": 1856
+        },
+        "url": "",
+        "username": "polvosehirose",
+        "verified": false
+      }
+    ]
+  }
+}

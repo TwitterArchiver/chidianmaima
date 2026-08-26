@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2085998730424291606",
+    "created_at": "2026-08-10T06:16:57.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T07:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086698296022868214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547081573962375170",
+          "start": 0,
+          "username": "yyds76013893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086698296022868214",
+    "in_reply_to_user_id": "1547081573962375170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085998730424291606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyds76013893 你好！第一天认识！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2085998730424291606",
+        "created_at": "2026-08-10T06:16:57.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086698296022868214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547081573962375170",
+              "start": 0,
+              "username": "yyds76013893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086698296022868214",
+        "in_reply_to_user_id": "1547081573962375170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085998730424291606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyds76013893 你好！第一天认识！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547081573962375170",
+        "conversation_id": "2085998730424291606",
+        "created_at": "2026-08-08T07:57:07.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T08:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085998730424291606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085998730424291606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6023,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天在这里都希望自己的私信爆掉，但是我太无聊了只会碎碎念，如果可以的话，看到这条请说一句你好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086698296022868214",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 88,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T04:52:58.000Z",
+        "description": "你说得对，但是我是一只珠颈斑鸠。\n非常非常非常欢迎互fo或私信我\n匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/birds51127",
+                "end": 23,
+                "expanded_url": "https://ngl.link/birds51127",
+                "start": 0,
+                "url": "https://t.co/5WKo4vlkaR"
+              }
+            ]
+          }
+        },
+        "id": "1547081573962375170",
+        "is_identity_verified": false,
+        "location": "冥府",
+        "most_recent_tweet_id": "2086662746037489672",
+        "name": "珠颈斑鸠",
+        "pinned_tweet_id": "2086347325887381720",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547081573962375170/1780835278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020121599710752768/OjMTw32w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 283,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/5WKo4vlkaR",
+        "username": "yyds76013893",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

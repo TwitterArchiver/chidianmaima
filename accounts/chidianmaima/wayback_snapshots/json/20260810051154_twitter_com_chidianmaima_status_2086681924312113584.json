@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086681917253156864"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2086681924312113584",
+    "created_at": "2026-08-10T05:11:54.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086681924312113584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aok2kUz81Y",
+          "end": 40,
+          "expanded_url": "https://x.com/chidianmaima/status/2086681924312113584/photo/1",
+          "media_key": "3_2086681917253156864",
+          "start": 17,
+          "url": "https://t.co/Aok2kUz81Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086681924312113584",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086681917253156864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "字母数字半衰期音乐鉴赏能力max https://t.co/Aok2kUz81Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086681917253156864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPViJeUbAAAIYKP.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086681917253156864"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2086681924312113584",
+        "created_at": "2026-08-10T05:11:54.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086681924312113584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aok2kUz81Y",
+              "end": 40,
+              "expanded_url": "https://x.com/chidianmaima/status/2086681924312113584/photo/1",
+              "media_key": "3_2086681917253156864",
+              "start": 17,
+              "url": "https://t.co/Aok2kUz81Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086681924312113584",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086681917253156864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "字母数字半衰期音乐鉴赏能力max https://t.co/Aok2kUz81Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086681924312113584",
+        "name": "乱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 78,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

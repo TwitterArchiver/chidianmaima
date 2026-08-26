@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2089003761058603313",
+    "created_at": "2026-08-16T15:27:24.000Z",
+    "display_text_range": [
+      8,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089011150768034207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2085070316834041856",
+          "start": 0,
+          "username": "s11ck6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089011150768034207",
+    "in_reply_to_user_id": "2085070316834041856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089003761058603313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s11ck6 没事，我连我父母都没爱过我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2089003761058603313",
+        "created_at": "2026-08-16T15:27:24.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089011150768034207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2085070316834041856",
+              "start": 0,
+              "username": "s11ck6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089011150768034207",
+        "in_reply_to_user_id": "2085070316834041856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089003761058603313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s11ck6 没事，我连我父母都没爱过我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085070316834041856",
+        "conversation_id": "2089003761058603313",
+        "created_at": "2026-08-16T14:58:03.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089003761058603313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089003761058603313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然发现，在这个世界上，没有除了父母以外的人爱过我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2089011150768034207",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 110,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T18:33:11.000Z",
+        "description": "请不要把你自以为是的自恋投射到我身上",
+        "id": "2085070316834041856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089003761058603313",
+        "name": "Гипербореи",
+        "pinned_tweet_id": "2086920137710674304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085070316834041856/1785955243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085079183106166784/XDHKFN3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 44,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "s11ck6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

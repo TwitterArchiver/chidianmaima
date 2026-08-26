@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2087915637331186164",
+    "created_at": "2026-08-13T17:31:30.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T18:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087955214745948649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547081573962375170",
+          "start": 0,
+          "username": "mykfc6657"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087955214745948649",
+    "in_reply_to_user_id": "1547081573962375170",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087915637331186164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mykfc6657 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087915637331186164",
+        "created_at": "2026-08-13T17:31:30.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T18:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087955214745948649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547081573962375170",
+              "start": 0,
+              "username": "mykfc6657"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087955214745948649",
+        "in_reply_to_user_id": "1547081573962375170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087915637331186164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mykfc6657 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547081573962375170",
+        "conversation_id": "2087915637331186164",
+        "created_at": "2026-08-13T14:54:14.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087915637331186164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087915637331186164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能在七夕那天把所有有人过节的人全封号咕咕。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2087955214745948649",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 98,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T04:52:58.000Z",
+        "description": "你说得对，但是我是一只珠颈斑鸠。\n非常非常非常欢迎互fo或私信我\n天蝎 06 enfp\\infp\n匿名提问在下面👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/birds51127",
+                "end": 23,
+                "expanded_url": "https://ngl.link/birds51127",
+                "start": 0,
+                "url": "https://t.co/5WKo4vlkaR"
+              }
+            ]
+          }
+        },
+        "id": "1547081573962375170",
+        "is_identity_verified": false,
+        "location": "冥府",
+        "most_recent_tweet_id": "2087940377529684250",
+        "name": "珠颈斑鸠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547081573962375170/1780835278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020121599710752768/OjMTw32w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 351,
+          "like_count": 1775,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/5WKo4vlkaR",
+        "username": "mykfc6657",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

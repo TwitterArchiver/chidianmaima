@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2007779603578785792"
+      ],
+      "media_source_tweet_id": [
+        "2007779613112684912"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2084985250300801095",
+    "created_at": "2026-08-05T12:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084985250300801095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "782921699733954560",
+          "start": 3,
+          "username": "Transtornado0o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vDgzUfO6OU",
+          "end": 79,
+          "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+          "media_key": "7_2007779603578785792",
+          "start": 56,
+          "url": "https://t.co/vDgzUfO6OU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084985250300801095",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084708539910549775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Transtornado0o: kkkkkkk to morrendo com esse video  https://t.co/vDgzUfO6OU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10837,
+        "height": 320,
+        "media_key": "7_2007779603578785792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007779603578785792/pu/img/OaL85gt2jRAyyBFz.jpg",
+        "public_metrics": {
+          "view_count": 8260573
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007779603578785792/pu/vid/avc1/320x320/kO5cV9Rdiy6WUm5c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007779603578785792/pu/pl/lYXDPZstWw8LnU56.m3u8?v=cfc"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007779603578785792"
+          ]
+        },
+        "author_id": "1978473489301479424",
+        "conversation_id": "2007779613112684912",
+        "created_at": "2026-01-04T11:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007779613112684912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dvO0VNaNvx",
+              "end": 63,
+              "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+              "media_key": "7_2007779603578785792",
+              "start": 40,
+              "url": "https://t.co/dvO0VNaNvx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007779613112684912",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1810,
+          "impression_count": 5048579,
+          "like_count": 1851,
+          "quote_count": 71,
+          "reply_count": 48,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "minion minyon oyuncak sken adam gülüyor https://t.co/dvO0VNaNvx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007779603578785792"
+          ],
+          "media_source_tweet_id": [
+            "2007779613112684912"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2084985250300801095",
+        "created_at": "2026-08-05T12:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084985250300801095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "782921699733954560",
+              "start": 3,
+              "username": "Transtornado0o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDgzUfO6OU",
+              "end": 79,
+              "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+              "media_key": "7_2007779603578785792",
+              "start": 56,
+              "url": "https://t.co/vDgzUfO6OU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084985250300801095",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084708539910549775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Transtornado0o: kkkkkkk to morrendo com esse video  https://t.co/vDgzUfO6OU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007779603578785792"
+          ],
+          "media_source_tweet_id": [
+            "2007779613112684912"
+          ]
+        },
+        "author_id": "782921699733954560",
+        "conversation_id": "2084708539910549775",
+        "created_at": "2026-08-04T18:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084708539910549775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vDgzUfO6OU",
+              "end": 59,
+              "expanded_url": "https://x.com/memeloverarsiv/status/2007779613112684912/video/1",
+              "media_key": "7_2007779603578785792",
+              "start": 36,
+              "url": "https://t.co/vDgzUfO6OU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084708539910549775",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13214,
+          "impression_count": 2278953,
+          "like_count": 40301,
+          "quote_count": 242,
+          "reply_count": 332,
+          "retweet_count": 3404
+        },
+        "reply_settings": "everyone",
+        "text": "kkkkkkk to morrendo com esse video  https://t.co/vDgzUfO6OU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 51,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-03T12:34:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kaio_wesllley?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kaio_wesllley?igsh=MXRlNjI5ejBjM2x4dg==",
+                "start": 0,
+                "url": "https://t.co/y5MBygJLb0"
+              }
+            ]
+          }
+        },
+        "id": "782921699733954560",
+        "location": "eternal sunshine",
+        "name": "𝙆𝙖𝙞𝙤 ꕤ ⋆｡˚",
+        "pinned_tweet_id": "1971775616510054765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084018690895294464/PnlgRLdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 252,
+          "like_count": 115553,
+          "listed_count": 0,
+          "media_count": 3020,
+          "tweet_count": 16180
+        },
+        "url": "https://t.co/y5MBygJLb0",
+        "username": "Transtornado0o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084426925603209217"
+      ],
+      "media_source_tweet_id": [
+        "2084426953633710470"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      }
+    ],
+    "conversation_id": "2085017033134281017",
+    "created_at": "2026-08-05T14:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085017033134281017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1061028349752107009",
+          "start": 3,
+          "username": "itimaliasof"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdN3Zqjhfr",
+          "end": 117,
+          "expanded_url": "https://x.com/itimaliasof/status/2084426953633710470/video/1",
+          "media_key": "13_2084426925603209217",
+          "start": 94,
+          "url": "https://t.co/hdN3Zqjhfr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085017033134281017",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084426953633710470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itimaliasof: Impressionante como desde filhote os cachorros são tão inocentes com humanos https://t.co/hdN3Zqjhfr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14406,
+        "height": 1280,
+        "media_key": "13_2084426925603209217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084426925603209217/img/KDSjn0AXkPCsEEjl.jpg",
+        "public_metrics": {
+          "view_count": 722417
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084426925603209217/vid/avc1/320x568/fzzo0stpP5qX3Ip7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084426925603209217/vid/avc1/480x852/7a82U9BAVcI-q6fi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084426925603209217/vid/avc1/720x1280/MU94PTfQ27-mXhQ_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084426925603209217/pl/nLUCeja6_9QKg42i.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084426925603209217"
+          ]
+        },
+        "author_id": "1061028349752107009",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2084426953633710470",
+        "created_at": "2026-08-03T23:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084426953633710470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdN3Zqjhfr",
+              "end": 100,
+              "expanded_url": "https://x.com/itimaliasof/status/2084426953633710470/video/1",
+              "media_key": "13_2084426925603209217",
+              "start": 77,
+              "url": "https://t.co/hdN3Zqjhfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084426953633710470",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4933,
+          "impression_count": 1634040,
+          "like_count": 92863,
+          "quote_count": 173,
+          "reply_count": 211,
+          "retweet_count": 5173
+        },
+        "reply_settings": "everyone",
+        "text": "Impressionante como desde filhote os cachorros são tão inocentes com humanos https://t.co/hdN3Zqjhfr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084426925603209217"
+          ],
+          "media_source_tweet_id": [
+            "2084426953633710470"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          }
+        ],
+        "conversation_id": "2085017033134281017",
+        "created_at": "2026-08-05T14:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085017033134281017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1061028349752107009",
+              "start": 3,
+              "username": "itimaliasof"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdN3Zqjhfr",
+              "end": 117,
+              "expanded_url": "https://x.com/itimaliasof/status/2084426953633710470/video/1",
+              "media_key": "13_2084426925603209217",
+              "start": 94,
+              "url": "https://t.co/hdN3Zqjhfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085017033134281017",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084426953633710470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itimaliasof: Impressionante como desde filhote os cachorros são tão inocentes com humanos https://t.co/hdN3Zqjhfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 53,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-09T22:50:46.000Z",
+        "description": "videos, photos and memes of cute animals daily 🥰❤️\n\nvídeos,fotos e memes de bichinhos fofos diariamente 🥰❤️",
+        "id": "1061028349752107009",
+        "location": "Brazil",
+        "name": "iti malias",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025791061956698113/-YP52Ksw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431596,
+          "following_count": 460,
+          "like_count": 59699,
+          "listed_count": 1413,
+          "media_count": 13180,
+          "tweet_count": 21869
+        },
+        "url": "",
+        "username": "itimaliasof",
+        "verified": true
+      }
+    ]
+  }
+}

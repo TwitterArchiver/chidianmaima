@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090829611500544285",
+    "created_at": "2026-08-21T15:53:19.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090829611500544285"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miraipure40605…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/miraipure40605/status/2090490215211425977",
+          "start": 21,
+          "url": "https://t.co/mGfp7xHp2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090829611500544285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090490215211425977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "……我也是 一切都好但是xy这个太烦人了 https://t.co/mGfp7xHp2n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2090490202234191873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLpw1aagAEZwEt.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090829611500544285",
+        "created_at": "2026-08-21T15:53:19.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090829611500544285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miraipure40605…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/miraipure40605/status/2090490215211425977",
+              "start": 21,
+              "url": "https://t.co/mGfp7xHp2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090829611500544285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090490215211425977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "……我也是 一切都好但是xy这个太烦人了 https://t.co/mGfp7xHp2n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090490202234191873"
+          ]
+        },
+        "author_id": "2048402283797381120",
+        "conversation_id": "2090490215211425977",
+        "created_at": "2026-08-20T17:24:41.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090490215211425977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVyFLTFdpK",
+              "end": 32,
+              "expanded_url": "https://x.com/MiraiPure40605/status/2090490215211425977/photo/1",
+              "media_key": "3_2090490202234191873",
+              "start": 9,
+              "url": "https://t.co/WVyFLTFdpK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090490215211425977",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090490202234191873"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 763,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Iso🌵用后感： https://t.co/WVyFLTFdpK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090829611500544285",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 143,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T14:02:36.000Z",
+        "description": "镇静药物全是梦2.0 \n备用\n叫我Mirai未来",
+        "id": "2048402283797381120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090797790633017794",
+        "name": "MiraiPure",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048402283797381120/1777212584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048402464530112513/TaBGRpVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 67,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 125
+        },
+        "url": "",
+        "username": "MiraiPure40605",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

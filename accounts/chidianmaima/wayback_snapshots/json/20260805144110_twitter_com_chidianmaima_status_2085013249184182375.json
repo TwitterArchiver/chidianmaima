@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2085013249184182375",
+    "created_at": "2026-08-05T14:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085013249184182375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065224221417181184",
+          "start": 3,
+          "username": "Theaqhv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085013249184182375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084426046041190888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Theaqhv9: 我最恨的就是一开始我根本没打算发展恋爱关系的人主动勾引我捅破窗户纸，然后在我放下防备心认真投入的时候又狠狠踹开我。三段都是这样。你们真的太贱了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2085013249184182375",
+        "created_at": "2026-08-05T14:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085013249184182375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065224221417181184",
+              "start": 3,
+              "username": "Theaqhv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085013249184182375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084426046041190888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Theaqhv9: 我最恨的就是一开始我根本没打算发展恋爱关系的人主动勾引我捅破窗户纸，然后在我放下防备心认真投入的时候又狠狠踹开我。三段都是这样。你们真的太贱了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065224221417181184",
+        "conversation_id": "2084426046041190888",
+        "created_at": "2026-08-03T23:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084426046041190888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084426046041190888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 34615,
+          "like_count": 1011,
+          "quote_count": 24,
+          "reply_count": 71,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "我最恨的就是一开始我根本没打算发展恋爱关系的人主动勾引我捅破窗户纸，然后在我放下防备心认真投入的时候又狠狠踹开我。三段都是这样。你们真的太贱了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 53,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T00:07:23.000Z",
+        "description": "精神洁癖1v1重度依赖\n半性恋\n探索自我中（最近在当怨妇）",
+        "id": "2065224221417181184",
+        "name": "Abandon",
+        "pinned_tweet_id": "2084174281311944984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080636299938320384/m4F853Qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 73,
+          "like_count": 941,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "Theaqhv9",
+        "verified": false
+      }
+    ]
+  }
+}

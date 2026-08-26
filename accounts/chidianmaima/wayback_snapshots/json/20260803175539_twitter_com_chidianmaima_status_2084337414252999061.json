@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2084337414252999061",
+    "created_at": "2026-08-03T17:55:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084337414252999061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1746469344325021697",
+          "start": 3,
+          "username": "suzumiyasuzume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084337414252999061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060310253565268392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suzumiyasuzume: 太恐怖了 ；我旁边一个集美在教美国人说中文“我是胖猫我要吃麦当劳”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2084337414252999061",
+        "created_at": "2026-08-03T17:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084337414252999061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1746469344325021697",
+              "start": 3,
+              "username": "suzumiyasuzume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084337414252999061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060310253565268392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suzumiyasuzume: 太恐怖了 ；我旁边一个集美在教美国人说中文“我是胖猫我要吃麦当劳”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746469344325021697",
+        "conversation_id": "2060310253565268392",
+        "created_at": "2026-05-29T10:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060310253565268392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060310253565268392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 188918,
+          "like_count": 2493,
+          "quote_count": 8,
+          "reply_count": 229,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "太恐怖了 ；我旁边一个集美在教美国人说中文“我是胖猫我要吃麦当劳”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 44,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "半成品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14559,
+          "following_count": 1019,
+          "like_count": 2608,
+          "listed_count": 24,
+          "media_count": 148,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": true
+      }
+    ]
+  }
+}

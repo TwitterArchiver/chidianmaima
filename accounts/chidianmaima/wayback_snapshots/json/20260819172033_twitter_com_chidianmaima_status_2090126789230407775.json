@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090126789230407775",
+    "created_at": "2026-08-19T17:20:33.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090126789230407775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uuckyoa1/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/uuckyoa1/status/2090093961914556677",
+          "start": 22,
+          "url": "https://t.co/MPQGqagXiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090126789230407775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090093961914556677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最讽刺的是这条的小号也全是比我好看的没我搔 https://t.co/MPQGqagXiO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090126789230407775",
+        "created_at": "2026-08-19T17:20:33.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090126789230407775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uuckyoa1/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/uuckyoa1/status/2090093961914556677",
+              "start": 22,
+              "url": "https://t.co/MPQGqagXiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090126789230407775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090093961914556677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最讽刺的是这条的小号也全是比我好看的没我搔 https://t.co/MPQGqagXiO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863475048385859585",
+        "conversation_id": "2090093961914556677",
+        "created_at": "2026-08-19T15:10:07.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090093961914556677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090093961914556677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3086,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道前几年的推特有多好看吗？每日大赛下面全是片看，而且福利姬也都是认真拍照片运营，自从ai发展后现在全是人机评论，动不动就大规模封号，我都换了十几个了，现在真的什么都刷不到了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2090126789230407775",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 131,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-02T06:47:51.000Z",
+        "description": "当朋友圈发啦 小号@ckyoa4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "ckyoa4"
+              }
+            ]
+          }
+        },
+        "id": "1863475048385859585",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090093961914556677",
+        "name": "uu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088217903955148800/n2PttLIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 3,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Uuckyoa1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

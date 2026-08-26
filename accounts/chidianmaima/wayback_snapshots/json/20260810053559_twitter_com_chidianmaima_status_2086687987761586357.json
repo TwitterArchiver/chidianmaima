@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2086687987761586357",
+    "created_at": "2026-08-10T05:35:59.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T06:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086687987761586357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032413604662972416",
+          "start": 3,
+          "username": "Huanghuiwy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086687987761586357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086365142040879244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huanghuiwy: 冷知识：\n\n老师是社会阅历最低的群体。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2086687987761586357",
+        "created_at": "2026-08-10T05:35:59.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086687987761586357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032413604662972416",
+              "start": 3,
+              "username": "Huanghuiwy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086687987761586357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086365142040879244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huanghuiwy: 冷知识：\n\n老师是社会阅历最低的群体。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032413604662972416",
+        "conversation_id": "2086365142040879244",
+        "created_at": "2026-08-09T08:13:07.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086365142040879244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086365142040879244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 217587,
+          "like_count": 1505,
+          "quote_count": 4,
+          "reply_count": 170,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n\n老师是社会阅历最低的群体。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2086687987761586357",
+        "name": "乱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 84,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T11:10:24.000Z",
+        "description": "🏀 NBA深度粉 | AI/Web3探索者 | 生活观察者 🤖🌐\n#NBA #AI #Web3 # #生活观察\nAI黑科技、Web3趋势 、生活热点观察\n同时点评职场、全球热点与日常内卷\n欢迎理性交流，一起用AI+Web3变聪明",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "NBA"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "AI"
+              },
+              {
+                "end": 47,
+                "start": 42,
+                "tag": "Web3"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "生活观察"
+              }
+            ]
+          }
+        },
+        "id": "2032413604662972416",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086665599426646297",
+        "name": "Huanghui",
+        "pinned_tweet_id": "2068937828617318650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032413604662972416/1775628991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041895669968072706/SGrHzaKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5843,
+          "following_count": 4040,
+          "like_count": 17760,
+          "listed_count": 10,
+          "media_count": 635,
+          "tweet_count": 13152
+        },
+        "url": "",
+        "username": "Huanghuiwy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

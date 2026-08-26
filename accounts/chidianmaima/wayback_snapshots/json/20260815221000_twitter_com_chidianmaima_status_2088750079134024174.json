@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088750071131324416"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2088470554466795801",
+    "created_at": "2026-08-15T22:10:00.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T23:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088750079134024174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754923087332835329",
+          "start": 0,
+          "username": "fngq143709"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6gja9tx456",
+          "end": 45,
+          "expanded_url": "https://x.com/chidianmaima/status/2088750079134024174/photo/1",
+          "media_key": "3_2088750071131324416",
+          "start": 22,
+          "url": "https://t.co/6gja9tx456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088750079134024174",
+    "in_reply_to_user_id": "1754923087332835329",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088750071131324416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088695377012924905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngq143709 谢谢您！我有小狗哦 https://t.co/6gja9tx456"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088750071131324416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPy7H35awAAsLq_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088750071131324416"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2088470554466795801",
+        "created_at": "2026-08-15T22:10:00.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T23:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088750079134024174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754923087332835329",
+              "start": 0,
+              "username": "fngq143709"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gja9tx456",
+              "end": 45,
+              "expanded_url": "https://x.com/chidianmaima/status/2088750079134024174/photo/1",
+              "media_key": "3_2088750071131324416",
+              "start": 22,
+              "url": "https://t.co/6gja9tx456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088750079134024174",
+        "in_reply_to_user_id": "1754923087332835329",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088750071131324416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088695377012924905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngq143709 谢谢您！我有小狗哦 https://t.co/6gja9tx456"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754923087332835329",
+        "conversation_id": "2088470554466795801",
+        "created_at": "2026-08-15T18:32:38.000Z",
+        "display_text_range": [
+          14,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088695377012924905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088695377012924905",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088470554466795801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 推荐你养小猫小狗，或者看看小动物的视频吧！虽然可能现在很痛苦，但总会有美好的东西值得你期待的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2088750079134024174",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 110,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T17:41:02.000Z",
+        "description": "",
+        "id": "1754923087332835329",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088696790791127232",
+        "name": "凤岐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754923087332835329/1786819503",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 28,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "fngq143709",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

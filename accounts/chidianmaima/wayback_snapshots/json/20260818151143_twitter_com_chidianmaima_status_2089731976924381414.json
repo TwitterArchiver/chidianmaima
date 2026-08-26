@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2089731976924381414",
+    "created_at": "2026-08-18T15:11:43.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089731976924381414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2020520rei/sta…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/2020520rei/status/2089042918933967241",
+          "start": 100,
+          "url": "https://t.co/8loxjtOQRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089731976924381414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089042918933967241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "名字：乱\n性别：🈚️\n年龄：22\n生日：0815\n兴趣：电影，阅读，od\n身高：160\n体重：86-92浮动\n惯用手：右\n握力：很差\n视力：近视150\n血型：o\n告白次数：忘记了\n被表白次数：忘记了 https://t.co/8loxjtOQRm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2089731976924381414",
+        "created_at": "2026-08-18T15:11:43.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089731976924381414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2020520rei/sta…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/2020520rei/status/2089042918933967241",
+              "start": 100,
+              "url": "https://t.co/8loxjtOQRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089731976924381414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089042918933967241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名字：乱\n性别：🈚️\n年龄：22\n生日：0815\n兴趣：电影，阅读，od\n身高：160\n体重：86-92浮动\n惯用手：右\n握力：很差\n视力：近视150\n血型：o\n告白次数：忘记了\n被表白次数：忘记了 https://t.co/8loxjtOQRm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2089042918933967241",
+        "created_at": "2026-08-16T17:33:39.000Z",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T18:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089042918933967241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HhcvhW18221/st…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/HhcvhW18221/status/2088992544583528825",
+              "start": 171,
+              "url": "https://t.co/yEAj8WrkIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089042918933967241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "名字：羽原零（HabaraRei）\n性别：？\n年龄：18\n生日：8.13\n兴趣：CS大佬重度玩家🎮    陪大家聊天🥰    写日记✍🏻   爱吃东西🍣尤其甜食🍦\n对艺术极其感兴趣手痒的那种   喜欢团宠❤️（真的很幸福好不好）\n身高：161-163cm\n体重：45kg-48kg（←吃饱零）\n惯用手：左右全用\n握力：？\n视力：近视775度     散光75度  \n恋人：无\n血型：0（O）\n告白次数：无    （阿零觉得大家都差不多好像朋友亲密甜甜的感觉，但是就是到不了恋爱也没想过，就是喜欢某些画面而已……）\n被表白次数：（大家似乎都认为已经有人喜欢阿零了）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8715,
+          "like_count": 30,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088992544583528825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名字：羽原零（HabaraRei）\n性别：？\n年龄：18\n生日：8.13\n兴趣：CS大佬重度玩家🎮    陪大家聊天🥰    写日记✍🏻   爱吃东西🍣尤其甜食🍦\n对艺术极其感兴趣手痒的那种   喜欢团宠❤️（真的很幸福好不好）\n身高：161-163cm\n体重：45kg-48kg（←吃饱零）\n惯用手：左右全用\n握力：？\n视力：近视775度 https://t.co/yEAj8WrkIF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2089731976924381414",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 113,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |体弱多病 | MTF🏳️‍⚧️ | 只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2089717340992922004",
+        "name": "ReiOᴗoಣ零酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2089535918374064442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088824617892999168/riCha-o8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 700,
+          "like_count": 4450,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 2366
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

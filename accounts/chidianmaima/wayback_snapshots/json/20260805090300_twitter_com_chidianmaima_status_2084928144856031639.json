@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084928134940626944"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2084928144856031639",
+    "created_at": "2026-08-05T09:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T10:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084928144856031639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uNExPxrw26",
+          "end": 32,
+          "expanded_url": "https://x.com/chidianmaima/status/2084928144856031639/photo/1",
+          "media_key": "3_2084928134940626944",
+          "start": 9,
+          "url": "https://t.co/uNExPxrw26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084928144856031639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我去好精美的包装 https://t.co/uNExPxrw26"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084928134940626944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8nF6FakAAAHn8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084928134940626944"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2084928144856031639",
+        "created_at": "2026-08-05T09:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084928144856031639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNExPxrw26",
+              "end": 32,
+              "expanded_url": "https://x.com/chidianmaima/status/2084928144856031639/photo/1",
+              "media_key": "3_2084928134940626944",
+              "start": 9,
+              "url": "https://t.co/uNExPxrw26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084928144856031639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去好精美的包装 https://t.co/uNExPxrw26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "location": "Shang hai",
+        "name": "乱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 49,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false
+      }
+    ]
+  }
+}

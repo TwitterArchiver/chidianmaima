@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2087842816420638722",
+    "created_at": "2026-08-13T10:04:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T11:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087842816420638722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066388385342656512",
+          "start": 3,
+          "username": "johnsimzsr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087842816420638722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076916941118218568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @johnsimzsr7: 我对PsychonautWiki Journal进行了初步中文汉化，基于原项目开源的11.11版本。对包括部分ui，物质名称，描述进行汉化。因为是vibe coding也就是ai的产物还有不少没做完整的，但我token用完了就先到这了（笑）\n喜…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076916911674212352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKw7VxXwAAIzNE.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076916920691924992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKw73XXIAAz0L9.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076916930313678848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKw8bNXcAAiWkb.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087842816420638722",
+        "created_at": "2026-08-13T10:04:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087842816420638722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066388385342656512",
+              "start": 3,
+              "username": "johnsimzsr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087842816420638722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076916941118218568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @johnsimzsr7: 我对PsychonautWiki Journal进行了初步中文汉化，基于原项目开源的11.11版本。对包括部分ui，物质名称，描述进行汉化。因为是vibe coding也就是ai的产物还有不少没做完整的，但我token用完了就先到这了（笑）\n喜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076916911674212352",
+            "3_2076916920691924992",
+            "3_2076916930313678848"
+          ]
+        },
+        "author_id": "2066388385342656512",
+        "conversation_id": "2076916941118218568",
+        "created_at": "2026-07-14T06:29:20.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076916941118218568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to ffgfjh/psychonautwiki-journal-community-android development by creating an account on GitHub.",
+              "display_url": "github.com/ffgfjh/psychon…",
+              "end": 162,
+              "expanded_url": "https://github.com/ffgfjh/psychonautwiki-journal-community-android",
+              "start": 139,
+              "status": 200,
+              "title": "GitHub - ffgfjh/psychonautwiki-journal-community-android",
+              "unwound_url": "https://github.com/ffgfjh/psychonautwiki-journal-community-android",
+              "url": "https://t.co/M6qwsnRgxC"
+            },
+            {
+              "display_url": "pic.x.com/Dav9e7Mv1Y",
+              "end": 186,
+              "expanded_url": "https://x.com/johnsimzsr7/status/2076916941118218568/photo/1",
+              "media_key": "3_2076916911674212352",
+              "start": 163,
+              "url": "https://t.co/Dav9e7Mv1Y"
+            },
+            {
+              "display_url": "pic.x.com/Dav9e7Mv1Y",
+              "end": 186,
+              "expanded_url": "https://x.com/johnsimzsr7/status/2076916941118218568/photo/1",
+              "media_key": "3_2076916920691924992",
+              "start": 163,
+              "url": "https://t.co/Dav9e7Mv1Y"
+            },
+            {
+              "display_url": "pic.x.com/Dav9e7Mv1Y",
+              "end": 186,
+              "expanded_url": "https://x.com/johnsimzsr7/status/2076916941118218568/photo/1",
+              "media_key": "3_2076916930313678848",
+              "start": 163,
+              "url": "https://t.co/Dav9e7Mv1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076916941118218568",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2076916911674212352"
+          },
+          {
+            "media_key": "3_2076916920691924992"
+          },
+          {
+            "media_key": "3_2076916930313678848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2448,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我对PsychonautWiki Journal进行了初步中文汉化，基于原项目开源的11.11版本。对包括部分ui，物质名称，描述进行汉化。因为是vibe coding也就是ai的产物还有不少没做完整的，但我token用完了就先到这了（笑）\n喜欢我项目的可以给我点个star⭐\nhttps://t.co/M6qwsnRgxC https://t.co/Dav9e7Mv1Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Shanghai, Shanghai Shi, China",
+              "geo": {
+                "coordinates": [
+                  121.45806,
+                  31.22222
+                ],
+                "type": "Point"
+              },
+              "locality": "Shanghai",
+              "region": "Shanghai Shi"
+            }
+          ]
+        },
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "Shang hai",
+        "most_recent_tweet_id": "2087842816420638722",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 91,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T05:13:09.000Z",
+        "description": "",
+        "id": "2066388385342656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2082683821242073307",
+        "name": "fffgfjh",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069452663096479745/_TwZXFYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 24,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "johnsimzsr7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

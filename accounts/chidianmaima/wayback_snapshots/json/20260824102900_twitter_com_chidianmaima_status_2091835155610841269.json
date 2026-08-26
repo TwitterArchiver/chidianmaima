@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091038471565787136",
+        "3_2091038471565750272"
+      ],
+      "media_source_tweet_id": [
+        "2091040634404807132",
+        "2091040634404807132"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2091835155610841269",
+    "created_at": "2026-08-24T10:29:00.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091835155610841269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022696357031743498",
+          "start": 3,
+          "username": "YiXia90314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5cHqTYOvwC",
+          "end": 68,
+          "expanded_url": "https://x.com/YiXia90314/status/2091040634404807132/video/1",
+          "media_key": "13_2091038471565787136",
+          "start": 45,
+          "url": "https://t.co/5cHqTYOvwC"
+        },
+        {
+          "display_url": "pic.x.com/5cHqTYOvwC",
+          "end": 68,
+          "expanded_url": "https://x.com/YiXia90314/status/2091040634404807132/video/1",
+          "media_key": "3_2091038471565750272",
+          "start": 45,
+          "url": "https://t.co/5cHqTYOvwC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091835155610841269",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091038471565787136"
+      },
+      {
+        "media_key": "3_2091038471565750272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091040634404807132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiXia90314: 有小粉紅拍攝恐嚇影片給我\n說這是反共的下場….到底是三小 https://t.co/5cHqTYOvwC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19266,
+        "height": 1280,
+        "media_key": "13_2091038471565787136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091038471565787136/img/1TelRcLJa8XDI4vy.jpg",
+        "public_metrics": {
+          "view_count": 26226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091038471565787136/vid/avc1/320x568/kWETjH4zLJIyjJ_l.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091038471565787136/vid/avc1/480x852/YU-kLyoxoOKVSji5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091038471565787136/vid/avc1/720x1280/77OQP7RJKviyKRyu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091038471565787136/pl/3rijrQEoQMUhprSV.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1255,
+        "media_key": "3_2091038471565750272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTcaT1aMAAqPvr.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091038471565787136",
+            "3_2091038471565750272"
+          ],
+          "media_source_tweet_id": [
+            "2091040634404807132",
+            "2091040634404807132"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2091835155610841269",
+        "created_at": "2026-08-24T10:29:00.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091835155610841269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022696357031743498",
+              "start": 3,
+              "username": "YiXia90314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cHqTYOvwC",
+              "end": 68,
+              "expanded_url": "https://x.com/YiXia90314/status/2091040634404807132/video/1",
+              "media_key": "13_2091038471565787136",
+              "start": 45,
+              "url": "https://t.co/5cHqTYOvwC"
+            },
+            {
+              "display_url": "pic.x.com/5cHqTYOvwC",
+              "end": 68,
+              "expanded_url": "https://x.com/YiXia90314/status/2091040634404807132/video/1",
+              "media_key": "3_2091038471565750272",
+              "start": 45,
+              "url": "https://t.co/5cHqTYOvwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091835155610841269",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091038471565787136"
+          },
+          {
+            "media_key": "3_2091038471565750272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091040634404807132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YiXia90314: 有小粉紅拍攝恐嚇影片給我\n說這是反共的下場….到底是三小 https://t.co/5cHqTYOvwC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091038471565787136",
+            "3_2091038471565750272"
+          ]
+        },
+        "author_id": "2022696357031743498",
+        "conversation_id": "2091040634404807132",
+        "created_at": "2026-08-22T05:51:51.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:43:24.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091038506282090960",
+          "2091040634404807132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5cHqTYOvwC",
+              "end": 52,
+              "expanded_url": "https://x.com/YiXia90314/status/2091040634404807132/video/1",
+              "media_key": "13_2091038471565787136",
+              "start": 29,
+              "url": "https://t.co/5cHqTYOvwC"
+            },
+            {
+              "display_url": "pic.x.com/5cHqTYOvwC",
+              "end": 52,
+              "expanded_url": "https://x.com/YiXia90314/status/2091040634404807132/video/1",
+              "media_key": "3_2091038471565750272",
+              "start": 29,
+              "url": "https://t.co/5cHqTYOvwC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091040634404807132",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091038471565787136"
+          },
+          {
+            "media_key": "3_2091038471565750272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 31270,
+          "like_count": 1572,
+          "quote_count": 28,
+          "reply_count": 227,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "有小粉紅拍攝恐嚇影片給我\n說這是反共的下場….到底是三小 https://t.co/5cHqTYOvwC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2091835155610841269",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 152,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T15:36:16.000Z",
+        "description": "用台灣視角剖析兩岸局勢，用真實觀點對抗威權體制。我的名字至今仍躺在中共的通緝名單上——這是我驕傲的勳章。世界正在看，我們不畏懼。Youtube(攝徒日記：132萬訂閱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@funtv8964",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@funtv8964",
+                "start": 0,
+                "url": "https://t.co/Enxv1fA9iO"
+              }
+            ]
+          }
+        },
+        "id": "2022696357031743498",
+        "is_identity_verified": false,
+        "location": "台灣",
+        "most_recent_tweet_id": "2091816707379892409",
+        "name": "八炯",
+        "pinned_tweet_id": "2038974614659891425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022696357031743498/1771084025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022699108369338371/HLn25IOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27866,
+          "following_count": 94,
+          "like_count": 294,
+          "listed_count": 75,
+          "media_count": 88,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/Enxv1fA9iO",
+        "username": "YiXia90314",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

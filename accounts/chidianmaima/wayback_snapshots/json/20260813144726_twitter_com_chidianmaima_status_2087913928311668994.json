@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2087783974227878170",
+    "created_at": "2026-08-13T14:47:26.000Z",
+    "display_text_range": [
+      17,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087913928311668994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795376158265225216",
+          "start": 0,
+          "username": "AHFJYFuqBJ11192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087913928311668994",
+    "in_reply_to_user_id": "1795376158265225216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087783974227878170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AHFJYFuqBJ11192 ip错误😭上海有没有这种好心人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2087783961225515008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlMc4Ca0AAgRcr.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087783974227878170",
+        "created_at": "2026-08-13T14:47:26.000Z",
+        "display_text_range": [
+          17,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087913928311668994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795376158265225216",
+              "start": 0,
+              "username": "AHFJYFuqBJ11192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087913928311668994",
+        "in_reply_to_user_id": "1795376158265225216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087783974227878170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AHFJYFuqBJ11192 ip错误😭上海有没有这种好心人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087783961225515008"
+          ]
+        },
+        "author_id": "1795376158265225216",
+        "conversation_id": "2087783974227878170",
+        "created_at": "2026-08-13T06:11:03.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087783974227878170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yMidVXPOP",
+              "end": 41,
+              "expanded_url": "https://x.com/AHFJYFuqBJ11192/status/2087783974227878170/photo/1",
+              "media_key": "3_2087783961225515008",
+              "start": 18,
+              "url": "https://t.co/5yMidVXPOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087783974227878170",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087783961225515008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "028有同好飞行员一起玩吗，我出🍃 https://t.co/5yMidVXPOP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2087913928311668994",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 97,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-28T08:47:01.000Z",
+        "description": "",
+        "id": "1795376158265225216",
+        "is_identity_verified": false,
+        "location": "成都",
+        "most_recent_tweet_id": "2087810106981544238",
+        "name": "风紧扯呼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1795376158265225216/1783839237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076197743677276160/REz6vMP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 49,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "AHFJYFuqBJ11192",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
