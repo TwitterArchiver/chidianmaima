@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091657754117287936"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2091657761415418006",
+    "created_at": "2026-08-23T22:44:06.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T23:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091657761415418006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9TD39RXZ9",
+          "end": 62,
+          "expanded_url": "https://x.com/chidianmaima/status/2091657761415418006/photo/1",
+          "media_key": "3_2091657754117287936",
+          "start": 39,
+          "url": "https://t.co/Z9TD39RXZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091657761415418006",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091657754117287936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃呃呃呃我只能说叶师傅牛逼好吧喹硫平戒断有望了 等我戒断成功给叶师傅颁个奖状 https://t.co/Z9TD39RXZ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091657754117287936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQcPpTHaMAA-zek.jpg",
+        "width": 966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091657754117287936"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2091657761415418006",
+        "created_at": "2026-08-23T22:44:06.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T23:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091657761415418006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9TD39RXZ9",
+              "end": 62,
+              "expanded_url": "https://x.com/chidianmaima/status/2091657761415418006/photo/1",
+              "media_key": "3_2091657754117287936",
+              "start": 39,
+              "url": "https://t.co/Z9TD39RXZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091657761415418006",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091657754117287936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃呃呃我只能说叶师傅牛逼好吧喹硫平戒断有望了 等我戒断成功给叶师傅颁个奖状 https://t.co/Z9TD39RXZ9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2091657761415418006",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 148,
+          "like_count": 533,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

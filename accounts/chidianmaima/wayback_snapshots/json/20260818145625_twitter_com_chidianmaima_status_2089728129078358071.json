@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2088219581295051080",
+    "created_at": "2026-08-18T14:56:25.000Z",
+    "display_text_range": [
+      25,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089728129078358071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845116988181577728",
+          "start": 0,
+          "username": "tangtang1204"
+        },
+        {
+          "end": 24,
+          "id": "2087636528633982976",
+          "start": 14,
+          "username": "67De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089728129078358071",
+    "in_reply_to_user_id": "1845116988181577728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088219581295051080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangtang1204 @67De_dian 蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 100,
+        "media_key": "16_2088219567151886336",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPrYoekbsAA3FX8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPrYoekbsAA3FX8.mp4"
+          }
+        ],
+        "width": 100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2088219581295051080",
+        "created_at": "2026-08-18T14:56:25.000Z",
+        "display_text_range": [
+          25,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089728129078358071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845116988181577728",
+              "start": 0,
+              "username": "tangtang1204"
+            },
+            {
+              "end": 24,
+              "id": "2087636528633982976",
+              "start": 14,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089728129078358071",
+        "in_reply_to_user_id": "1845116988181577728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088219581295051080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangtang1204 @67De_dian 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088219567151886336"
+          ]
+        },
+        "author_id": "1845116988181577728",
+        "conversation_id": "2088219581295051080",
+        "created_at": "2026-08-14T11:02:00.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088219581295051080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thgxCqwNmM",
+              "end": 64,
+              "expanded_url": "https://x.com/tangtang1204/status/2088219581295051080/photo/1",
+              "media_key": "16_2088219567151886336",
+              "start": 41,
+              "url": "https://t.co/thgxCqwNmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088219581295051080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2088219567151886336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1041,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了，选一个人抽三板pr，75mg的，关注评论点赞加转发，8.20号开。 https://t.co/thgxCqwNmM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2089728129078358071",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 113,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T14:59:15.000Z",
+        "description": "05/女同/地雷妹/od/割手/我爱我的小猫/我也喜欢所有可爱的孩子/https://t.co/UbgjEj3jy1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangtang1204",
+                "end": 58,
+                "expanded_url": "https://ngl.link/tangtang1204",
+                "start": 35,
+                "url": "https://t.co/UbgjEj3jy1"
+              }
+            ]
+          }
+        },
+        "id": "1845116988181577728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089633254231937515",
+        "name": "小糖",
+        "pinned_tweet_id": "2062313240840032330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845116988181577728/1778875273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062138922386550784/kXcvR_xb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 174,
+          "like_count": 303,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "tangtang1204",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n❤永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n个人号发什么随心情\n不见证不参与争议\n查属性回fo\n药理学爱好，正在学习中…\n会尽力回答您的问题\n可以私信我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089587794125504851",
+        "name": "绝望_6De点 2.0",
+        "pinned_tweet_id": "2089485865449836787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 204,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

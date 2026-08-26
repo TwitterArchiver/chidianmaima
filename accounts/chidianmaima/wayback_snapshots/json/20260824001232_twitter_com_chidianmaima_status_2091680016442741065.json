@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2091680016442741065",
+    "created_at": "2026-08-24T00:12:32.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T01:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091680016442741065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2008556343863697408",
+          "start": 3,
+          "username": "To_jjS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091680016442741065",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091072832877007136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @To_jjS: 꼭 손목을 긋는 것뿐만 아니라\n의도적으로 나를 해치고 아프게 하는 것도 자해임.\n\n아무하고나 섹스를 한다던가,\n지쳐 쓰러질 때까지 운동만 한다던가,\n술을 물처럼 마시다 중독된다던가,\n머리카락을 미친듯이 가위로 헤집어놓는다던가,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2091680016442741065",
+        "created_at": "2026-08-24T00:12:32.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T01:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091680016442741065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2008556343863697408",
+              "start": 3,
+              "username": "To_jjS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091680016442741065",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091072832877007136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @To_jjS: 꼭 손목을 긋는 것뿐만 아니라\n의도적으로 나를 해치고 아프게 하는 것도 자해임.\n\n아무하고나 섹스를 한다던가,\n지쳐 쓰러질 때까지 운동만 한다던가,\n술을 물처럼 마시다 중독된다던가,\n머리카락을 미친듯이 가위로 헤집어놓는다던가,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008556343863697408",
+        "conversation_id": "2091072832877007136",
+        "created_at": "2026-08-22T07:59:48.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091072832877007136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pinkwgreen/sta…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/pinkwgreen/status/2091064240325210364",
+              "start": 159,
+              "url": "https://t.co/PwGVbP8Uu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091072832877007136",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "꼭 손목을 긋는 것뿐만 아니라\n의도적으로 나를 해치고 아프게 하는 것도 자해임.\n\n아무하고나 섹스를 한다던가,\n지쳐 쓰러질 때까지 운동만 한다던가,\n술을 물처럼 마시다 중독된다던가,\n머리카락을 미친듯이 가위로 헤집어놓는다던가,\n건강상의 이유로 반드시 먹어야 할 약들을\n의도적으로 먹지 않는다던가...\n\n뭐 이런 것들 전부 다 자해야.\n내 자신을 소중히 여겨주지 않는 행위들."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3592,
+          "impression_count": 1559046,
+          "like_count": 15329,
+          "quote_count": 857,
+          "reply_count": 32,
+          "retweet_count": 3262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091064240325210364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "꼭 손목을 긋는 것뿐만 아니라\n의도적으로 나를 해치고 아프게 하는 것도 자해임.\n\n아무하고나 섹스를 한다던가,\n지쳐 쓰러질 때까지 운동만 한다던가,\n술을 물처럼 마시다 중독된다던가,\n머리카락을 미친듯이 가위로 헤집어놓는다던가,\n건강상의 이유로 반드시 먹어야 할 약들을\n의도적으로 먹지 https://t.co/PwGVbP8Uu7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2091680016442741065",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 148,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T15:09:14.000Z",
+        "description": "네가 삶을 물으면 나는 사랑이라 답하고~\n💌협업/광고문의 : shxhnwnxj@naver.com & DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/ttojjss",
+                "end": 23,
+                "expanded_url": "https://x.com/ttojjss",
+                "start": 0,
+                "url": "https://t.co/8A4rogxjmW"
+              }
+            ]
+          }
+        },
+        "id": "2008556343863697408",
+        "is_identity_verified": true,
+        "location": "페미니즘 | 독서 | 일상 - 블루레이디 💙🤙",
+        "most_recent_tweet_id": "2091594454528675871",
+        "name": "워리(보완수사권폐지반대)",
+        "pinned_tweet_id": "2090705245592805887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008556343863697408/1777595466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050012702639308800/44hUKX-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 1225,
+          "like_count": 44265,
+          "listed_count": 14,
+          "media_count": 972,
+          "tweet_count": 26064
+        },
+        "url": "https://t.co/8A4rogxjmW",
+        "username": "To_jjS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

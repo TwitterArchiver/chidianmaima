@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2090786657037393949",
+    "created_at": "2026-08-22T11:39:24.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091128098603618786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891362165317410816",
+          "start": 0,
+          "username": "Kris_Dreammer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091128098603618786",
+    "in_reply_to_user_id": "1891362165317410816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090786657037393949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kris_Dreammer 卧槽是金时吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2090786657037393949",
+        "created_at": "2026-08-22T11:39:24.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091128098603618786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891362165317410816",
+              "start": 0,
+              "username": "Kris_Dreammer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091128098603618786",
+        "in_reply_to_user_id": "1891362165317410816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090786657037393949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kris_Dreammer 卧槽是金时吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891362165317410816",
+        "conversation_id": "2090786657037393949",
+        "created_at": "2026-08-21T13:02:38.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090786657037393949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090786657037393949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13788,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "曾经在橙子那里买过ym的要注意了，晶哥现在开始找人问询了，我今天上午去做笔录还做了发检，还刷到一个被传唤的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2091128098603618786",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 143,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 283
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-17T05:41:05.000Z",
+        "description": "昔日的誓言像潮水一样褪去\n取而代之的是讽刺的真相",
+        "id": "1891362165317410816",
+        "is_identity_verified": false,
+        "location": "下水道",
+        "most_recent_tweet_id": "2090786657037393949",
+        "name": "sirk",
+        "pinned_tweet_id": "2065322615787622625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891362165317410816/1787167995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894946127629426688/RKH6WAzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 546,
+          "like_count": 3914,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1733
+        },
+        "url": "",
+        "username": "Kris_Dreammer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
