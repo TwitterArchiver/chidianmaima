@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098194234067275776",
+        "3_2098194234067341312",
+        "3_2098194234071519232"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2098194241805807915",
+    "created_at": "2026-09-10T23:37:44.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T00:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098194241805807915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "200113501",
+          "start": 4,
+          "username": "leaf3loveu"
+        },
+        {
+          "end": 33,
+          "id": "1849493650088263684",
+          "start": 19,
+          "username": "VsGQXTi2i2531"
+        },
+        {
+          "end": 49,
+          "id": "2089362780633931776",
+          "start": 34,
+          "username": "chooselifehnvj"
+        },
+        {
+          "end": 66,
+          "id": "1821023575631130625",
+          "start": 53,
+          "username": "RainingTown_"
+        },
+        {
+          "end": 76,
+          "id": "2047425753227333632",
+          "start": 67,
+          "username": "YuganQwQ"
+        },
+        {
+          "end": 86,
+          "id": "2086711369236398080",
+          "start": 77,
+          "username": "Hhhh164s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sua7S8dEMN",
+          "end": 110,
+          "expanded_url": "https://x.com/chidianmaima/status/2098194241805807915/photo/1",
+          "media_key": "3_2098194234067275776",
+          "start": 87,
+          "url": "https://t.co/Sua7S8dEMN"
+        },
+        {
+          "display_url": "pic.x.com/Sua7S8dEMN",
+          "end": 110,
+          "expanded_url": "https://x.com/chidianmaima/status/2098194241805807915/photo/1",
+          "media_key": "3_2098194234067341312",
+          "start": 87,
+          "url": "https://t.co/Sua7S8dEMN"
+        },
+        {
+          "display_url": "pic.x.com/Sua7S8dEMN",
+          "end": 110,
+          "expanded_url": "https://x.com/chidianmaima/status/2098194241805807915/photo/1",
+          "media_key": "3_2098194234071519232",
+          "start": 87,
+          "url": "https://t.co/Sua7S8dEMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098194241805807915",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098194234067275776"
+      },
+      {
+        "media_key": "3_2098194234067341312"
+      },
+      {
+        "media_key": "3_2098194234071519232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一等奖 @leaf3loveu\n二等奖@VsGQXTi2i2531 @chooselifehnvj\n三等奖@RainingTown_ @YuganQwQ @Hhhh164s https://t.co/Sua7S8dEMN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098194234067275776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5IigdaUAAPVLx.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098194234067341312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5IigdbUAAlJaC.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098194234071519232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5IigebEAA0gFU.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098194234067275776",
+            "3_2098194234067341312",
+            "3_2098194234071519232"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2098194241805807915",
+        "created_at": "2026-09-10T23:37:44.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098194241805807915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "200113501",
+              "start": 4,
+              "username": "leaf3loveu"
+            },
+            {
+              "end": 33,
+              "id": "1849493650088263684",
+              "start": 19,
+              "username": "VsGQXTi2i2531"
+            },
+            {
+              "end": 49,
+              "id": "2089362780633931776",
+              "start": 34,
+              "username": "chooselifehnvj"
+            },
+            {
+              "end": 66,
+              "id": "1821023575631130625",
+              "start": 53,
+              "username": "RainingTown_"
+            },
+            {
+              "end": 76,
+              "id": "2047425753227333632",
+              "start": 67,
+              "username": "YuganQwQ"
+            },
+            {
+              "end": 86,
+              "id": "2086711369236398080",
+              "start": 77,
+              "username": "Hhhh164s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sua7S8dEMN",
+              "end": 110,
+              "expanded_url": "https://x.com/chidianmaima/status/2098194241805807915/photo/1",
+              "media_key": "3_2098194234067275776",
+              "start": 87,
+              "url": "https://t.co/Sua7S8dEMN"
+            },
+            {
+              "display_url": "pic.x.com/Sua7S8dEMN",
+              "end": 110,
+              "expanded_url": "https://x.com/chidianmaima/status/2098194241805807915/photo/1",
+              "media_key": "3_2098194234067341312",
+              "start": 87,
+              "url": "https://t.co/Sua7S8dEMN"
+            },
+            {
+              "display_url": "pic.x.com/Sua7S8dEMN",
+              "end": 110,
+              "expanded_url": "https://x.com/chidianmaima/status/2098194241805807915/photo/1",
+              "media_key": "3_2098194234071519232",
+              "start": 87,
+              "url": "https://t.co/Sua7S8dEMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098194241805807915",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098194234067275776"
+          },
+          {
+            "media_key": "3_2098194234067341312"
+          },
+          {
+            "media_key": "3_2098194234071519232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一等奖 @leaf3loveu\n二等奖@VsGQXTi2i2531 @chooselifehnvj\n三等奖@RainingTown_ @YuganQwQ @Hhhh164s https://t.co/Sua7S8dEMN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098194241805807915",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 111,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 537
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-08T13:44:33.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚\n\nlgbtq+全肯定",
+        "id": "200113501",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098073354368594186",
+        "name": "叶子大帝四世",
+        "pinned_tweet_id": "2093952083607404589",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093951095982940160/QfuHu2Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 91,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "leaf3loveu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-24T16:50:52.000Z",
+        "description": "",
+        "id": "1849493650088263684",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097936752795341271",
+        "name": "恺宁",
+        "pinned_tweet_id": "2061477295358112240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849493650088263684/1768818208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013195602327179264/qfcRae6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 179,
+          "like_count": 3480,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 536
+        },
+        "url": "",
+        "username": "VsGQXTi2i2531",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T14:49:05.000Z",
+        "description": "100fo发福利                                                                                                                               男生/od/自伤/穿孔只互fo同类",
+        "id": "2089362780633931776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097943258261528980",
+        "name": "桥克力",
+        "pinned_tweet_id": "2096504917376872627",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097026958123311104/2yBq7WEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 210,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "chooselifehnvj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-07T03:20:41.000Z",
+        "description": "二代目哦 | 常驻山东济南欢迎贴贴 | 🏳️‍⚧️🍥 | 含糖| 似乎是家长党 | NixOS用户 | Rust新手 | HRTv2 2025.10.4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/broken_cloud",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/broken_cloud",
+                "start": 0,
+                "url": "https://t.co/mFKbzLwrcm"
+              }
+            ]
+          }
+        },
+        "id": "1821023575631130625",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098023703946973477",
+        "name": "残云 - 二代目",
+        "pinned_tweet_id": "2077386160356401597",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891753740581077000/6gs66WLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 1728,
+          "like_count": 4285,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/mFKbzLwrcm",
+        "username": "RainingTown_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:23:13.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 查成分回fo 直fo是因为喜欢你呀 |\n前世@yuganbb823 宝宝@ci_shang85157\n锁推的人我关注不了，因为我不知道你是啥成分哈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "yuganbb823"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuganqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuganqwq",
+                "start": 0,
+                "url": "https://t.co/19gBB14uzC"
+              }
+            ]
+          }
+        },
+        "id": "2047425753227333632",
+        "is_identity_verified": false,
+        "location": "距离你4.5km",
+        "most_recent_tweet_id": "2098100707932938374",
+        "name": "为何人生如此悲惨2.0",
+        "pinned_tweet_id": "2079370925015715919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047425753227333632/1786741767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 430,
+          "like_count": 5355,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/19gBB14uzC",
+        "username": "YuganQwQ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T07:09:31.000Z",
+        "description": "只会骂人 清水\n骂我默认被我追着骂😋\n高强度上网网蛆一枚",
+        "id": "2086711369236398080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098045250543771882",
+        "name": "Hhhh",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086711369236398080/1786810374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096827838796087303/OknNG2zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "Hhhh164s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

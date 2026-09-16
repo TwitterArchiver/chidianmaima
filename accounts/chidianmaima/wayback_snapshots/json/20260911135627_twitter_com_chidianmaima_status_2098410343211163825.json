@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2097696681043378552",
+    "created_at": "2026-09-11T13:56:27.000Z",
+    "display_text_range": [
+      24,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T14:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098410343211163825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045513838850641921",
+          "start": 0,
+          "username": "intqwq"
+        },
+        {
+          "end": 23,
+          "id": "2089362780633931776",
+          "start": 8,
+          "username": "chooselifehnvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098410343211163825",
+    "in_reply_to_user_id": "2045513838850641921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097696681043378552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intqwq @chooselifehnvj 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2097696674173120512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyEAtabcAA5xAy.jpg",
+        "width": 1173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2097696681043378552",
+        "created_at": "2026-09-11T13:56:27.000Z",
+        "display_text_range": [
+          24,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098410343211163825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045513838850641921",
+              "start": 0,
+              "username": "intqwq"
+            },
+            {
+              "end": 23,
+              "id": "2089362780633931776",
+              "start": 8,
+              "username": "chooselifehnvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098410343211163825",
+        "in_reply_to_user_id": "2045513838850641921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097696681043378552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intqwq @chooselifehnvj 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097696674173120512"
+          ]
+        },
+        "author_id": "2045513838850641921",
+        "conversation_id": "2097696681043378552",
+        "created_at": "2026-09-09T14:40:36.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097696681043378552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aGg3su8Ux",
+              "end": 70,
+              "expanded_url": "https://x.com/inline_int/status/2097696681043378552/photo/1",
+              "media_key": "3_2097696674173120512",
+              "start": 47,
+              "url": "https://t.co/6aGg3su8Ux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097696681043378552",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097696674173120512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1480,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "2000！\n抽一顿肯德基疯狂星期四（折50）\n关注 + 点赞 + 转发 + 评论\n下周四开奖 https://t.co/6aGg3su8Ux"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098410343211163825",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 114,
+          "like_count": 986,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 548
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜开发者｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra\n\ntg群: https://t.co/kPoeRnaiQW\n投稿联系: intqwq@intqwq.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y5MFkw6bV5diY…",
+                "end": 91,
+                "expanded_url": "https://t.me/+Y5MFkw6bV5diYTk9",
+                "start": 68,
+                "url": "https://t.co/kPoeRnaiQW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQHo8o"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098400667589390729",
+        "name": "int喵喵喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095807561278857216/tbEp3e78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 700,
+          "like_count": 3770,
+          "listed_count": 6,
+          "media_count": 573,
+          "tweet_count": 1547
+        },
+        "url": "https://t.co/xVU9kQHo8o",
+        "username": "intqwq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T14:49:05.000Z",
+        "description": "只互同类",
+        "id": "2089362780633931776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098400878457967056",
+        "name": "桥克力",
+        "pinned_tweet_id": "2096504917376872627",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097026958123311104/2yBq7WEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 210,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "chooselifehnvj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2087583997031600539",
+    "created_at": "2026-09-12T17:56:27.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098833131659026774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1133570456953298944",
+          "start": 0,
+          "username": "zoe84303441"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098833131659026774",
+    "in_reply_to_user_id": "1133570456953298944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087583997031600539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zoe84303441 老大看看我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2087583997031600539",
+        "created_at": "2026-09-12T17:56:27.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098833131659026774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1133570456953298944",
+              "start": 0,
+              "username": "zoe84303441"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098833131659026774",
+        "in_reply_to_user_id": "1133570456953298944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087583997031600539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zoe84303441 老大看看我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1133570456953298944",
+        "conversation_id": "2087583997031600539",
+        "created_at": "2026-08-12T16:56:24.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087583997031600539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087583997031600539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1005,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海有没有女缚手/被缚长期练习的，我是缚手被缚都可以，希望对方也可以交换角色。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098833131659026774",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 113,
+          "like_count": 1027,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-29T03:07:12.000Z",
+        "description": "1/4i 丨Rigger 丨Z的绳子日记 丨绳对我来说是链接人的方式丨base上海",
+        "id": "1133570456953298944",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2098289728265076781",
+        "name": "zzzzz",
+        "pinned_tweet_id": "2015718698800074963",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133570456953298944/1755850343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940081989484220416/iXDhHmF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 1081,
+          "like_count": 555,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "zoe84303441",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

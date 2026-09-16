@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2096979024962802061",
+    "created_at": "2026-09-07T15:08:54.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096979024962802061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tgbabycost/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/tgbabycost/status/2096554700002988401",
+          "start": 7,
+          "url": "https://t.co/OFgh1TtWRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096979024962802061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096554700002988401",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药圈小熊维尼 https://t.co/OFgh1TtWRB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2096979024962802061",
+        "created_at": "2026-09-07T15:08:54.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096979024962802061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tgbabycost/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/tgbabycost/status/2096554700002988401",
+              "start": 7,
+              "url": "https://t.co/OFgh1TtWRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096979024962802061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096554700002988401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药圈小熊维尼 https://t.co/OFgh1TtWRB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1013526829",
+        "conversation_id": "2096554700002988401",
+        "created_at": "2026-09-06T11:02:47.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096554700002988401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096554700002988401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叶总真是推特药圈皇帝，目前为止点五个人要素了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2096979024962802061",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 107,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-15T16:26:30.000Z",
+        "description": "لا تجادل الأحمق فقد يخطئ الناس في التفريق بينكما.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/babycost",
+                "end": 23,
+                "expanded_url": "http://t.me/babycost",
+                "start": 0,
+                "url": "https://t.co/7SzUBiJ5EI"
+              }
+            ]
+          }
+        },
+        "id": "1013526829",
+        "is_identity_verified": true,
+        "location": "pm",
+        "most_recent_tweet_id": "2096961594651734148",
+        "name": "22",
+        "pinned_tweet_id": "2095594348532621561",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013526829/1786438561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087098408909811712/mfNESRHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2750,
+          "following_count": 236,
+          "like_count": 209,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 41399
+        },
+        "url": "https://t.co/7SzUBiJ5EI",
+        "username": "TGbabycost",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

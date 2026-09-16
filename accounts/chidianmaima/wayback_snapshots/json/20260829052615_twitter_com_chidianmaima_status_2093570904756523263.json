@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093570894220423169",
+        "3_2093570894216249344",
+        "3_2093570894212034560"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2093570904756523263",
+    "created_at": "2026-08-29T05:26:15.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093570904756523263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xVy08JL5Fy",
+          "end": 59,
+          "expanded_url": "https://x.com/chidianmaima/status/2093570904756523263/photo/1",
+          "media_key": "3_2093570894220423169",
+          "start": 36,
+          "url": "https://t.co/xVy08JL5Fy"
+        },
+        {
+          "display_url": "pic.x.com/xVy08JL5Fy",
+          "end": 59,
+          "expanded_url": "https://x.com/chidianmaima/status/2093570904756523263/photo/1",
+          "media_key": "3_2093570894216249344",
+          "start": 36,
+          "url": "https://t.co/xVy08JL5Fy"
+        },
+        {
+          "display_url": "pic.x.com/xVy08JL5Fy",
+          "end": 59,
+          "expanded_url": "https://x.com/chidianmaima/status/2093570904756523263/photo/1",
+          "media_key": "3_2093570894212034560",
+          "start": 36,
+          "url": "https://t.co/xVy08JL5Fy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093570904756523263",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093570894220423169"
+      },
+      {
+        "media_key": "3_2093570894216249344"
+      },
+      {
+        "media_key": "3_2093570894212034560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🌵报告\n⚠️⚠️⚠️警告千万不要在陌生环境不连用pr独自一人使用该物质 https://t.co/xVy08JL5Fy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093570894220423169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3botYa8AEceyV.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093570894216249344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3botXbQAAqVcF.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093570894212034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3botWa8AA3H_Y.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093570894220423169",
+            "3_2093570894216249344",
+            "3_2093570894212034560"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2093570904756523263",
+        "created_at": "2026-08-29T05:26:15.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093570904756523263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVy08JL5Fy",
+              "end": 59,
+              "expanded_url": "https://x.com/chidianmaima/status/2093570904756523263/photo/1",
+              "media_key": "3_2093570894220423169",
+              "start": 36,
+              "url": "https://t.co/xVy08JL5Fy"
+            },
+            {
+              "display_url": "pic.x.com/xVy08JL5Fy",
+              "end": 59,
+              "expanded_url": "https://x.com/chidianmaima/status/2093570904756523263/photo/1",
+              "media_key": "3_2093570894216249344",
+              "start": 36,
+              "url": "https://t.co/xVy08JL5Fy"
+            },
+            {
+              "display_url": "pic.x.com/xVy08JL5Fy",
+              "end": 59,
+              "expanded_url": "https://x.com/chidianmaima/status/2093570904756523263/photo/1",
+              "media_key": "3_2093570894212034560",
+              "start": 36,
+              "url": "https://t.co/xVy08JL5Fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093570904756523263",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093570894220423169"
+          },
+          {
+            "media_key": "3_2093570894216249344"
+          },
+          {
+            "media_key": "3_2093570894212034560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌵报告\n⚠️⚠️⚠️警告千万不要在陌生环境不连用pr独自一人使用该物质 https://t.co/xVy08JL5Fy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2093570904756523263",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 116,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

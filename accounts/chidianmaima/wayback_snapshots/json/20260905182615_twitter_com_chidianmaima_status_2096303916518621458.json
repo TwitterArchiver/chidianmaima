@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2096298446668091502",
+    "created_at": "2026-09-05T18:26:15.000Z",
+    "display_text_range": [
+      8,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T19:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096303916518621458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2094632853795692544",
+          "start": 0,
+          "username": "d9nmTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096303916518621458",
+    "in_reply_to_user_id": "2094632853795692544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096298446668091502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9nmTT 30tsns周三耍起嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2096298446668091502",
+        "created_at": "2026-09-05T18:26:15.000Z",
+        "display_text_range": [
+          8,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096303916518621458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2094632853795692544",
+              "start": 0,
+              "username": "d9nmTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096303916518621458",
+        "in_reply_to_user_id": "2094632853795692544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096298446668091502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d9nmTT 30tsns周三耍起嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094632853795692544",
+        "conversation_id": "2096298446668091502",
+        "created_at": "2026-09-05T18:04:31.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096298446668091502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096298446668091502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1t sns 1t 佐匹 1富马 1t 2mg氯硝西泮 还是睡不着 我怀念去年第一次吃sns的那种欣快胡言乱语的感觉了 。现在已经没有了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2096303916518621458",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 121,
+          "like_count": 834,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T03:47:55.000Z",
+        "description": "现已成年/13岁抑郁症确诊 /后期混乱性双向重度焦虑/地雷妹性格 喜欢的会互fo 请不要惹到或 我不尊重我我非常雷 pcp研究中做一些合法公开的慈善 我非常讨厌不 互相尊重的人可疑人物和 非正常男的不要私信我这是我雷区 已经坠机的号 @Ooopoowooi \n没有回答就是在打包 上班或者在在睡觉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Ooopoowooi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d9nmtt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d9nmtt",
+                "start": 0,
+                "url": "https://t.co/lg4BUz5Zsq"
+              }
+            ]
+          }
+        },
+        "id": "2094632853795692544",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2096298446668091502",
+        "name": "東九2.0msk我爱你",
+        "pinned_tweet_id": "2095529798491844662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094632853795692544/1788345888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095082409800912896/ZiU2fFb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 91,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/lg4BUz5Zsq",
+        "username": "d9nmTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

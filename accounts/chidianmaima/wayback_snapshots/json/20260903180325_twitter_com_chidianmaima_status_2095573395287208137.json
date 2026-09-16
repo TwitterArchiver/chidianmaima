@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095459832237289657",
+    "created_at": "2026-09-03T18:03:25.000Z",
+    "display_text_range": [
+      19,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T19:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095573395287208137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090334034115395584",
+          "start": 0,
+          "username": "bbbib58s"
+        },
+        {
+          "end": 18,
+          "id": "1223407990713114624",
+          "start": 10,
+          "username": "wmtbxsh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095573395287208137",
+    "in_reply_to_user_id": "2090334034115395584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095484762777616748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbib58s @wmtbxsh 哪里都有你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095459832237289657",
+        "created_at": "2026-09-03T18:03:25.000Z",
+        "display_text_range": [
+          19,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095573395287208137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090334034115395584",
+              "start": 0,
+              "username": "bbbib58s"
+            },
+            {
+              "end": 18,
+              "id": "1223407990713114624",
+              "start": 10,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095573395287208137",
+        "in_reply_to_user_id": "2090334034115395584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095484762777616748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbib58s @wmtbxsh 哪里都有你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090334034115395584",
+        "conversation_id": "2095459832237289657",
+        "created_at": "2026-09-03T12:11:14.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095484762777616748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1223407990713114624",
+              "start": 0,
+              "username": "wmtbxsh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095484762777616748",
+        "in_reply_to_user_id": "1223407990713114624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095459832237289657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmtbxsh 求"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095573395287208137",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 113,
+          "like_count": 777,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T07:05:52.000Z",
+        "description": "",
+        "id": "2090334034115395584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095484762777616748",
+        "name": "bbbi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090334034115395584/1787244118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090336728632696832/RLzrb3zH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "bbbib58s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T00:49:51.000Z",
+        "description": "读研发疯中💢｜高强度冲浪选手🏄｜日常小号@wjtbxsh｜推广自辨❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 20,
+                "username": "wjtbxsh"
+              }
+            ]
+          }
+        },
+        "id": "1223407990713114624",
+        "is_identity_verified": false,
+        "location": "0.52km",
+        "most_recent_tweet_id": "2095568116839490012",
+        "name": "我明天不想说话",
+        "pinned_tweet_id": "2089706612512674252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223407990713114624/1734994703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012531606020390912/jU4-9qGu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64191,
+          "following_count": 623,
+          "like_count": 6545,
+          "listed_count": 137,
+          "media_count": 716,
+          "tweet_count": 3315
+        },
+        "url": "",
+        "username": "wmtbxsh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

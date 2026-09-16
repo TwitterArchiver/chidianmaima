@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096974735578173440",
+        "3_2096974735569727488",
+        "3_2096974735943045120",
+        "3_2096974735901106176"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2096974744725975452",
+    "created_at": "2026-09-07T14:51:53.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096974744725975452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EZ0T6caEo",
+          "end": 33,
+          "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+          "media_key": "3_2096974735578173440",
+          "start": 10,
+          "url": "https://t.co/5EZ0T6caEo"
+        },
+        {
+          "display_url": "pic.x.com/5EZ0T6caEo",
+          "end": 33,
+          "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+          "media_key": "3_2096974735569727488",
+          "start": 10,
+          "url": "https://t.co/5EZ0T6caEo"
+        },
+        {
+          "display_url": "pic.x.com/5EZ0T6caEo",
+          "end": 33,
+          "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+          "media_key": "3_2096974735943045120",
+          "start": 10,
+          "url": "https://t.co/5EZ0T6caEo"
+        },
+        {
+          "display_url": "pic.x.com/5EZ0T6caEo",
+          "end": 33,
+          "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+          "media_key": "3_2096974735901106176",
+          "start": 10,
+          "url": "https://t.co/5EZ0T6caEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096974744725975452",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096974735578173440"
+      },
+      {
+        "media_key": "3_2096974735569727488"
+      },
+      {
+        "media_key": "3_2096974735943045120"
+      },
+      {
+        "media_key": "3_2096974735901106176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让我回到那个时刻。 https://t.co/5EZ0T6caEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2096974735578173440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnzaWkbEAAqtf0.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2096974735569727488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnzaWiaMAAbMsz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096974735943045120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnzaX7akAAUao6.jpg",
+        "width": 1152
+      },
+      {
+        "height": 811,
+        "media_key": "3_2096974735901106176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnzaXxaoAAKSU8.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096974735578173440",
+            "3_2096974735569727488",
+            "3_2096974735943045120",
+            "3_2096974735901106176"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2096974744725975452",
+        "created_at": "2026-09-07T14:51:53.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096974744725975452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EZ0T6caEo",
+              "end": 33,
+              "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+              "media_key": "3_2096974735578173440",
+              "start": 10,
+              "url": "https://t.co/5EZ0T6caEo"
+            },
+            {
+              "display_url": "pic.x.com/5EZ0T6caEo",
+              "end": 33,
+              "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+              "media_key": "3_2096974735569727488",
+              "start": 10,
+              "url": "https://t.co/5EZ0T6caEo"
+            },
+            {
+              "display_url": "pic.x.com/5EZ0T6caEo",
+              "end": 33,
+              "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+              "media_key": "3_2096974735943045120",
+              "start": 10,
+              "url": "https://t.co/5EZ0T6caEo"
+            },
+            {
+              "display_url": "pic.x.com/5EZ0T6caEo",
+              "end": 33,
+              "expanded_url": "https://x.com/chidianmaima/status/2096974744725975452/photo/1",
+              "media_key": "3_2096974735901106176",
+              "start": 10,
+              "url": "https://t.co/5EZ0T6caEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096974744725975452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096974735578173440"
+          },
+          {
+            "media_key": "3_2096974735569727488"
+          },
+          {
+            "media_key": "3_2096974735943045120"
+          },
+          {
+            "media_key": "3_2096974735901106176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我回到那个时刻。 https://t.co/5EZ0T6caEo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2096974744725975452",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 107,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2094301615419498719",
+    "created_at": "2026-08-31T05:59:49.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T06:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094304130802253975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061434565323886592",
+          "start": 0,
+          "username": "Ooopoowooi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094304130802253975",
+    "in_reply_to_user_id": "2061434565323886592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094301615419498719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ooopoowooi 卧槽我肚肚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1876,
+        "media_key": "3_2094301604707213312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRB0NqEaoAAPuY2.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2094301615419498719",
+        "created_at": "2026-08-31T05:59:49.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094304130802253975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061434565323886592",
+              "start": 0,
+              "username": "Ooopoowooi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094304130802253975",
+        "in_reply_to_user_id": "2061434565323886592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094301615419498719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ooopoowooi 卧槽我肚肚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094301604707213312"
+          ]
+        },
+        "author_id": "2061434565323886592",
+        "conversation_id": "2094301615419498719",
+        "created_at": "2026-08-31T05:49:50.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094301615419498719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZIxpBHldF",
+              "end": 46,
+              "expanded_url": "https://x.com/Ooopoowooi/status/2094301615419498719/photo/1",
+              "media_key": "3_2094301604707213312",
+              "start": 23,
+              "url": "https://t.co/PZIxpBHldF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094301615419498719",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094301604707213312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我姊妹活雷霆来的 什么物质直接送送送送到厌倦 https://t.co/PZIxpBHldF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2094304130802253975",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 113,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 378
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "药物会带领我们逃离这个扭曲的世界 欢迎聊天 互fo 药理提问 分享 研究pcp化学成分 不定时抽取一些好玩的 做一些药丸的慈善 需要请私信 合法不列管策划药下个月出 只卖两位数",
+        "id": "2061434565323886592",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2094301615419498719",
+        "name": "東九",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061434565323886592/1784355576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093325373534871552/B3C0OG7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 102,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

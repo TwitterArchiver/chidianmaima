@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095930771383206103",
+    "created_at": "2026-09-04T17:43:31.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T18:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095930771383206103"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chidianmaima/s…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/chidianmaima/status/2095930659474899385",
+          "start": 65,
+          "url": "https://t.co/LQl8DCtvl2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095930771383206103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095930659474899385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "父母情绪化常年吵架，心理变态，劝你摒弃掉你的兴趣，控制你不准出远门，强制你结婚，你也不感到很不幸福相反你觉得这就是普通人的一生。 https://t.co/LQl8DCtvl2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095930771383206103",
+        "created_at": "2026-09-04T17:43:31.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095930771383206103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chidianmaima/s…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/chidianmaima/status/2095930659474899385",
+              "start": 65,
+              "url": "https://t.co/LQl8DCtvl2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095930771383206103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095930659474899385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父母情绪化常年吵架，心理变态，劝你摒弃掉你的兴趣，控制你不准出远门，强制你结婚，你也不感到很不幸福相反你觉得这就是普通人的一生。 https://t.co/LQl8DCtvl2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095930659474899385",
+        "created_at": "2026-09-04T17:43:04.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095930659474899385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095930659474899385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活在中国需要你强大的身体素质，应对拼好饭工业油核废水肉仓出来的狗肉牛肉吃野味和辅导班里不好吃也不干净的饭食，需要你灵活的脑子，应对高压度义务教育起早贪黑背古诗文言文高数数学和毕业出来也都一样的环境，迟钝的心理，应对家里很穷学费都拿压岁钱凑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095930771383206103",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 117,
+          "like_count": 813,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

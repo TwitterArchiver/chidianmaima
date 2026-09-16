@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095815091149254656"
+      ],
+      "media_source_tweet_id": [
+        "2095815098841583781"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095836778863431994",
+    "created_at": "2026-09-04T11:30:01.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095836778863431994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1996870901888065536",
+          "start": 3,
+          "username": "tiancaibby"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTFMsYCAdb",
+          "end": 42,
+          "expanded_url": "https://x.com/tiancaibby/status/2095815098841583781/photo/1",
+          "media_key": "3_2095815091149254656",
+          "start": 19,
+          "url": "https://t.co/eTFMsYCAdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095836778863431994",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095815091149254656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095815098841583781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiancaibby: 呜呜 https://t.co/eTFMsYCAdb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2095815091149254656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXUuKbasAAwMtJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095815091149254656"
+          ],
+          "media_source_tweet_id": [
+            "2095815098841583781"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095836778863431994",
+        "created_at": "2026-09-04T11:30:01.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095836778863431994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996870901888065536",
+              "start": 3,
+              "username": "tiancaibby"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTFMsYCAdb",
+              "end": 42,
+              "expanded_url": "https://x.com/tiancaibby/status/2095815098841583781/photo/1",
+              "media_key": "3_2095815091149254656",
+              "start": 19,
+              "url": "https://t.co/eTFMsYCAdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095836778863431994",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095815091149254656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095815098841583781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiancaibby: 呜呜 https://t.co/eTFMsYCAdb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095815091149254656"
+          ]
+        },
+        "author_id": "1996870901888065536",
+        "conversation_id": "2095815098841583781",
+        "created_at": "2026-09-04T10:03:52.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095815098841583781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTFMsYCAdb",
+              "end": 26,
+              "expanded_url": "https://x.com/tiancaibby/status/2095815098841583781/photo/1",
+              "media_key": "3_2095815091149254656",
+              "start": 3,
+              "url": "https://t.co/eTFMsYCAdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095815098841583781",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095815091149254656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 38098,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜 https://t.co/eTFMsYCAdb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095836778863431994",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 114,
+          "like_count": 801,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-05T09:15:08.000Z",
+        "description": "",
+        "id": "1996870901888065536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095815098841583781",
+        "name": "岑雫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1996870901888065536/1782749221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071626448641970176/lR3Whbmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3183,
+          "following_count": 22,
+          "like_count": 125,
+          "listed_count": 8,
+          "media_count": 36,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "tiancaibby",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

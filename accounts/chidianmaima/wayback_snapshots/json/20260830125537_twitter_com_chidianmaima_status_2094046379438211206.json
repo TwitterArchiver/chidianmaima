@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2094046379438211206",
+    "created_at": "2026-08-30T12:55:37.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T13:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094046379438211206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhan1ao/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/zhan1ao/status/2093616504604651919",
+          "start": 6,
+          "url": "https://t.co/bplE3vV97c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094046379438211206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093616504604651919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦册我肚子 https://t.co/bplE3vV97c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2093616497293922304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4FHKEaEAAK2Ok.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2094046379438211206",
+        "created_at": "2026-08-30T12:55:37.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T13:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094046379438211206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhan1ao/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/zhan1ao/status/2093616504604651919",
+              "start": 6,
+              "url": "https://t.co/bplE3vV97c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094046379438211206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093616504604651919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦册我肚子 https://t.co/bplE3vV97c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093616497293922304"
+          ]
+        },
+        "author_id": "2089034928982052864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2093616504604651919",
+        "created_at": "2026-08-29T08:27:26.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093616504604651919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/udSTZZXFVh",
+              "end": 52,
+              "expanded_url": "https://x.com/Zhan1ao/status/2093616504604651919/photo/1",
+              "media_key": "3_2093616497293922304",
+              "start": 29,
+              "url": "https://t.co/udSTZZXFVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093616504604651919",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093616497293922304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 87213,
+          "like_count": 1302,
+          "quote_count": 3,
+          "reply_count": 109,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的白高兴一场\n我还以为习近平在尼泊尔再遇泥石流遇害了 https://t.co/udSTZZXFVh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2094046379438211206",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 113,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 370
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T17:02:50.000Z",
+        "description": "覆盖查档业务 犯罪网逃 立案详情 人脸识别 个户全户 手机定位 手机轨迹 开房记录 查收款码 抖音实名 业务频道 https://t.co/N8guQTbMLp 曝光频道 https://t.co/IK2gYDrvvZ 电报联系  https://t.co/vGvc0CaX1K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/u7pindao",
+                "end": 80,
+                "expanded_url": "https://t.me/u7pindao",
+                "start": 57,
+                "url": "https://t.co/N8guQTbMLp"
+              },
+              {
+                "display_url": "t.me/FuLiJiXinXi",
+                "end": 109,
+                "expanded_url": "https://t.me/FuLiJiXinXi",
+                "start": 86,
+                "url": "https://t.co/IK2gYDrvvZ"
+              },
+              {
+                "display_url": "t.me/u7chadang",
+                "end": 139,
+                "expanded_url": "https://t.me/u7chadang",
+                "start": 116,
+                "url": "https://t.co/vGvc0CaX1K"
+              }
+            ]
+          }
+        },
+        "id": "2089034928982052864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094014276499632538",
+        "name": "斩妖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089034928982052864/1786978453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089035380641472512/g0RW5RjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 56,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "Zhan1ao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

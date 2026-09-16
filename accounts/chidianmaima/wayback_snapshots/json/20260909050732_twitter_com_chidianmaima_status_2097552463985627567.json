@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097552456725213184"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2097552463985627567",
+    "created_at": "2026-09-09T05:07:32.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097552463985627567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kfs2EqnSHA",
+          "end": 23,
+          "expanded_url": "https://x.com/chidianmaima/status/2097552463985627567/photo/1",
+          "media_key": "3_2097552456725213184",
+          "start": 0,
+          "url": "https://t.co/Kfs2EqnSHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097552463985627567",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2097552456725213184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Kfs2EqnSHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097552456725213184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwA2JjasAALP9T.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097552456725213184"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2097552463985627567",
+        "created_at": "2026-09-09T05:07:32.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097552463985627567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kfs2EqnSHA",
+              "end": 23,
+              "expanded_url": "https://x.com/chidianmaima/status/2097552463985627567/photo/1",
+              "media_key": "3_2097552456725213184",
+              "start": 0,
+              "url": "https://t.co/Kfs2EqnSHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097552463985627567",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2097552456725213184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Kfs2EqnSHA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097552463985627567",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 109,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 498
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

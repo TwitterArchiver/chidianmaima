@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096085693789569025"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2096085703696511483",
+    "created_at": "2026-09-05T03:59:09.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T04:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096085703696511483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hbOKkWfQoD",
+          "end": 101,
+          "expanded_url": "https://x.com/chidianmaima/status/2096085703696511483/photo/1",
+          "media_key": "3_2096085693789569025",
+          "start": 78,
+          "url": "https://t.co/hbOKkWfQoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096085703696511483",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096085693789569025"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一种近乎残忍的坚持是把整条船扛过山脊，只为在丛林深处听见歌剧。远方不在地图上。在船必须上岸的地方，在所有理性都说不可能的山脊之上。用生命去撞开认知的帷幕。 https://t.co/hbOKkWfQoD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096085693789569025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbK1T0bAAEHQG2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096085693789569025"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2096085703696511483",
+        "created_at": "2026-09-05T03:59:09.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096085703696511483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbOKkWfQoD",
+              "end": 101,
+              "expanded_url": "https://x.com/chidianmaima/status/2096085703696511483/photo/1",
+              "media_key": "3_2096085693789569025",
+              "start": 78,
+              "url": "https://t.co/hbOKkWfQoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096085703696511483",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096085693789569025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一种近乎残忍的坚持是把整条船扛过山脊，只为在丛林深处听见歌剧。远方不在地图上。在船必须上岸的地方，在所有理性都说不可能的山脊之上。用生命去撞开认知的帷幕。 https://t.co/hbOKkWfQoD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2096085703696511483",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 118,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

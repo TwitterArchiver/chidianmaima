@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095175045241065795",
+    "created_at": "2026-09-02T17:24:31.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095201216318116308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095201216318116308",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095175045241065795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 逆天。。挂她让她赔钱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095175014534533121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROOkzOa0AEygLP.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1769,
+        "media_key": "3_2095175014568062976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROOkzWacAAmivl.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095175045241065795",
+        "created_at": "2026-09-02T17:24:31.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095201216318116308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095201216318116308",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095175045241065795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 逆天。。挂她让她赔钱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095175014534533121",
+            "3_2095175014568062976"
+          ]
+        },
+        "author_id": "1493016356182056961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095175045241065795",
+        "created_at": "2026-09-02T15:40:31.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:38:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095174481652457956",
+          "2095175045241065795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8fYFTLHF3",
+              "end": 170,
+              "expanded_url": "https://x.com/Mintink3/status/2095175045241065795/photo/1",
+              "media_key": "3_2095175014534533121",
+              "start": 147,
+              "url": "https://t.co/t8fYFTLHF3"
+            },
+            {
+              "display_url": "pic.x.com/t8fYFTLHF3",
+              "end": 170,
+              "expanded_url": "https://x.com/Mintink3/status/2095175045241065795/photo/1",
+              "media_key": "3_2095175014568062976",
+              "start": 147,
+              "url": "https://t.co/t8fYFTLHF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095175045241065795",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095175014534533121"
+          },
+          {
+            "media_key": "3_2095175014568062976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "气死我了 又因为一个sb女模让我损失三千多人民币\n\n没有通行证 让她以转机理由入境 我说了让她买能随心退的票 买能退的票 到时候退票损失几十块也没事 \n\n结果她买了两张完全不能退的票 然后票钱还是我垫钱买的 客户那边也不愿承担这个费用 说不是他的问题 \n\n我一单才赚一千多 直接让我损失三千多  一张机票一千六 两张机票三千多"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1176,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气死我了 又因为一个sb女模让我损失三千多人民币\n\n没有通行证 让她以转机理由入境 我说了让她买能随心退的票 买能退的票 到时候退票损失几十块也没事 \n\n结果她买了两张完全不能退的票 然后票钱还是我垫钱买的 客户那边也不愿承担这个费用 说不是他的问题 \n\n我一单才赚一千多 直接让我损失三千多 https://t.co/t8fYFTLHF3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095201216318116308",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 111,
+          "like_count": 774,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2095196004891197944",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 1101,
+          "like_count": 11067,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

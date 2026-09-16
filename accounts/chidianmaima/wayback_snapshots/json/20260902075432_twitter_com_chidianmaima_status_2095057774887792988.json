@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095057774887792988",
+    "created_at": "2026-09-02T07:54:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095057774887792988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1263902634693582849",
+          "start": 3,
+          "username": "Grazinascito"
+        },
+        {
+          "end": 25,
+          "id": "1643755370295308290",
+          "start": 18,
+          "username": "bupium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095057774887792988",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094929170493014202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Grazinascito: @bupium E aí ele termina esse texto assim: \n\n“Até o amor a si mesmo tem por pressuposto a irredutível dualidade(ou plural…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095057774887792988",
+        "created_at": "2026-09-02T07:54:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095057774887792988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1263902634693582849",
+              "start": 3,
+              "username": "Grazinascito"
+            },
+            {
+              "end": 25,
+              "id": "1643755370295308290",
+              "start": 18,
+              "username": "bupium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095057774887792988",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094929170493014202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Grazinascito: @bupium E aí ele termina esse texto assim: \n\n“Até o amor a si mesmo tem por pressuposto a irredutível dualidade(ou plural…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263902634693582849",
+        "conversation_id": "2094864644032581723",
+        "created_at": "2026-09-01T23:23:30.000Z",
+        "display_text_range": [
+          8,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094929170493014202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643755370295308290",
+              "start": 0,
+              "username": "bupium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094929170493014202",
+        "in_reply_to_user_id": "1643755370295308290",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4765,
+          "like_count": 261,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094864644032581723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bupium E aí ele termina esse texto assim: \n\n“Até o amor a si mesmo tem por pressuposto a irredutível dualidade(ou pluralidade) numa única pessoa”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095057774887792988",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 111,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 387
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-22T18:40:54.000Z",
+        "description": "Software developer\n\n“Eu visto preto por dentro e por fora, guerreiro, poeta entre o tempo e a memoria”",
+        "id": "1263902634693582849",
+        "is_identity_verified": false,
+        "location": "pronouns: autistic girl ",
+        "most_recent_tweet_id": "2094983811385655390",
+        "name": "Grazi | Notion addict on Lucia arc",
+        "pinned_tweet_id": "2086599384188256451",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263902634693582849/1786658180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094596626245435393/p4w2C3aH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3607,
+          "following_count": 1316,
+          "like_count": 32515,
+          "listed_count": 15,
+          "media_count": 4510,
+          "tweet_count": 31260
+        },
+        "url": "",
+        "username": "Grazinascito",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T23:20:01.000Z",
+        "description": "",
+        "id": "1643755370295308290",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094864644032581723",
+        "name": "gab baby gal",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643755370295308290/1715964366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091545346266497024/SKO2x1_t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4927,
+          "following_count": 194,
+          "like_count": 29997,
+          "listed_count": 6,
+          "media_count": 149,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "bupium",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

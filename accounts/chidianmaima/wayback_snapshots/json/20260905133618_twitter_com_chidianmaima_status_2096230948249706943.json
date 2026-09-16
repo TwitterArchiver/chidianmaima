@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2096230948249706943",
+    "created_at": "2026-09-05T13:36:18.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T14:36:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096230948249706943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurokisama_tvt…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/kurokisama_tvt/status/2096205069297582377",
+          "start": 65,
+          "url": "https://t.co/wUDWWiuAYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096230948249706943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096205069297582377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和我之前的状况一样，我当时是陌生环境➕未戒断ssri➕没有人陪在我身边坠机了，直接喝bzd➕浓盐水➕低酒精的气泡果酒就可以醒过来 https://t.co/wUDWWiuAYB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2096230948249706943",
+        "created_at": "2026-09-05T13:36:18.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T14:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096230948249706943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurokisama_tvt…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/kurokisama_tvt/status/2096205069297582377",
+              "start": 65,
+              "url": "https://t.co/wUDWWiuAYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096230948249706943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096205069297582377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和我之前的状况一样，我当时是陌生环境➕未戒断ssri➕没有人陪在我身边坠机了，直接喝bzd➕浓盐水➕低酒精的气泡果酒就可以醒过来 https://t.co/wUDWWiuAYB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933855083634286592",
+        "conversation_id": "2096205069297582377",
+        "created_at": "2026-09-05T11:53:28.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096205069297582377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2094681707052212224",
+              "start": 8,
+              "username": "nanahime1cpc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nanahime1cpc/s…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/nanahime1cpc/status/2096191499222630510",
+              "start": 109,
+              "url": "https://t.co/0yWkbRZs4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096205069297582377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1869,
+          "like_count": 17,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096191499222630510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起大家。我和@nanahime1cpc 菜菜今天12：00左右两个人共同300mg以上iso导致间歇、难以自我察觉的严重精神错乱、惊恐发作至今 菜菜警官遇到现生家庭突发状况，自我判断力为零请不要为难说任何多余的话 https://t.co/0yWkbRZs4I"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2096230948249706943",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 121,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 427
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-14T11:52:45.000Z",
+        "description": "💊🔪🩸\n前世@kuroki___tomoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "kuroki___tomoko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/VwLQTEXSp3"
+              }
+            ]
+          }
+        },
+        "id": "1933855083634286592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096214950855524385",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2095266325837041997",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933855083634286592/1787231913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095266495253344256/FpcU34yk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 529,
+          "like_count": 807,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "url": "https://t.co/VwLQTEXSp3",
+        "username": "kurokisama_TvT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

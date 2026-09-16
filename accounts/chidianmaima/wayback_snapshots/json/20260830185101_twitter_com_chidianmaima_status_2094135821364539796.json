@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094069886695669760"
+      ],
+      "media_source_tweet_id": [
+        "2094069936662446182"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2094135821364539796",
+    "created_at": "2026-08-30T18:51:01.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094135821364539796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2090561887041617921",
+          "start": 3,
+          "username": "nbwraa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oj7qemejwA",
+          "end": 100,
+          "expanded_url": "https://x.com/nbwraa/status/2094069936662446182/video/1",
+          "media_key": "13_2094069886695669760",
+          "start": 77,
+          "url": "https://t.co/oj7qemejwA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094135821364539796",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2094069886695669760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3812
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094069936662446182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nbwraa: a sensação de tentar se reconciliar com alguém q já te machucou: https://t.co/oj7qemejwA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33622,
+        "height": 720,
+        "media_key": "13_2094069886695669760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094069886695669760/img/eP8buw-SKO8CO0-K.jpg",
+        "public_metrics": {
+          "view_count": 179499
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094069886695669760/vid/avc1/320x320/7mtmuJFflcPP8OxE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094069886695669760/vid/avc1/540x540/mOvwM-NR4AqZj6tF.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094069886695669760/vid/avc1/720x720/U6FSyMoJ3Z_-wF2j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094069886695669760/pl/tRCN4SSmBrCVqyBn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094069886695669760"
+          ],
+          "media_source_tweet_id": [
+            "2094069936662446182"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2094135821364539796",
+        "created_at": "2026-08-30T18:51:01.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094135821364539796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090561887041617921",
+              "start": 3,
+              "username": "nbwraa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oj7qemejwA",
+              "end": 100,
+              "expanded_url": "https://x.com/nbwraa/status/2094069936662446182/video/1",
+              "media_key": "13_2094069886695669760",
+              "start": 77,
+              "url": "https://t.co/oj7qemejwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094135821364539796",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2094069886695669760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3812
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094069936662446182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nbwraa: a sensação de tentar se reconciliar com alguém q já te machucou: https://t.co/oj7qemejwA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094069886695669760"
+          ]
+        },
+        "author_id": "2090561887041617921",
+        "conversation_id": "2094069936662446182",
+        "created_at": "2026-08-30T14:29:13.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094069936662446182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oj7qemejwA",
+              "end": 88,
+              "expanded_url": "https://x.com/nbwraa/status/2094069936662446182/video/1",
+              "media_key": "13_2094069886695669760",
+              "start": 65,
+              "url": "https://t.co/oj7qemejwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094069936662446182",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2094069886695669760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 876,
+          "impression_count": 372084,
+          "like_count": 15577,
+          "quote_count": 290,
+          "reply_count": 101,
+          "retweet_count": 3835
+        },
+        "reply_settings": "everyone",
+        "text": "a sensação de tentar se reconciliar com alguém q já te machucou: https://t.co/oj7qemejwA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2094135821364539796",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 113,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T22:11:28.000Z",
+        "description": "╋━      \nquem vai querer querer o meu piru",
+        "id": "2090561887041617921",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094135694515949858",
+        "name": "gica ༒︎ ⋆",
+        "pinned_tweet_id": "2093401024434176339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090561887041617921/1787265531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093411094601551873/8GmLvE0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 506,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "nbwraa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095139555632680961",
+        "3_2095139555615911936",
+        "3_2095139555615940608",
+        "3_2095139555624275968"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095139568249176198",
+    "created_at": "2026-09-02T13:19:33.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T14:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095139568249176198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YwR1zsZr3b",
+          "end": 26,
+          "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+          "media_key": "3_2095139555632680961",
+          "start": 3,
+          "url": "https://t.co/YwR1zsZr3b"
+        },
+        {
+          "display_url": "pic.x.com/YwR1zsZr3b",
+          "end": 26,
+          "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+          "media_key": "3_2095139555615911936",
+          "start": 3,
+          "url": "https://t.co/YwR1zsZr3b"
+        },
+        {
+          "display_url": "pic.x.com/YwR1zsZr3b",
+          "end": 26,
+          "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+          "media_key": "3_2095139555615940608",
+          "start": 3,
+          "url": "https://t.co/YwR1zsZr3b"
+        },
+        {
+          "display_url": "pic.x.com/YwR1zsZr3b",
+          "end": 26,
+          "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+          "media_key": "3_2095139555624275968",
+          "start": 3,
+          "url": "https://t.co/YwR1zsZr3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095139568249176198",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095139555632680961"
+      },
+      {
+        "media_key": "3_2095139555615911936"
+      },
+      {
+        "media_key": "3_2095139555615940608"
+      },
+      {
+        "media_key": "3_2095139555624275968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难吃 https://t.co/YwR1zsZr3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095139555632680961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNuU0hbEAED1sJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095139555615911936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNuU0dbMAAkwW5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095139555615940608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNuU0dboAAWv4Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095139555624275968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNuU0fa0AAgKUN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095139555632680961",
+            "3_2095139555615911936",
+            "3_2095139555615940608",
+            "3_2095139555624275968"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095139568249176198",
+        "created_at": "2026-09-02T13:19:33.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095139568249176198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwR1zsZr3b",
+              "end": 26,
+              "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+              "media_key": "3_2095139555632680961",
+              "start": 3,
+              "url": "https://t.co/YwR1zsZr3b"
+            },
+            {
+              "display_url": "pic.x.com/YwR1zsZr3b",
+              "end": 26,
+              "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+              "media_key": "3_2095139555615911936",
+              "start": 3,
+              "url": "https://t.co/YwR1zsZr3b"
+            },
+            {
+              "display_url": "pic.x.com/YwR1zsZr3b",
+              "end": 26,
+              "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+              "media_key": "3_2095139555615940608",
+              "start": 3,
+              "url": "https://t.co/YwR1zsZr3b"
+            },
+            {
+              "display_url": "pic.x.com/YwR1zsZr3b",
+              "end": 26,
+              "expanded_url": "https://x.com/chidianmaima/status/2095139568249176198/photo/1",
+              "media_key": "3_2095139555624275968",
+              "start": 3,
+              "url": "https://t.co/YwR1zsZr3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095139568249176198",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095139555632680961"
+          },
+          {
+            "media_key": "3_2095139555615911936"
+          },
+          {
+            "media_key": "3_2095139555615940608"
+          },
+          {
+            "media_key": "3_2095139555624275968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难吃 https://t.co/YwR1zsZr3b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095139568249176198",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 112,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

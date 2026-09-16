@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099111393094213880",
+    "created_at": "2026-09-13T12:59:43.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T13:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099120843825799282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2082437931290267648",
+          "start": 0,
+          "username": "Kinzyful"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099120843825799282",
+    "in_reply_to_user_id": "2082437931290267648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099111393094213880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinzyful 谁需要这傻逼社达的认可了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1988,
+        "media_key": "3_2099111385536024576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGKrv7aUAAKTrc.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099111393094213880",
+        "created_at": "2026-09-13T12:59:43.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099120843825799282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2082437931290267648",
+              "start": 0,
+              "username": "Kinzyful"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099120843825799282",
+        "in_reply_to_user_id": "2082437931290267648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099111393094213880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinzyful 谁需要这傻逼社达的认可了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099111385536024576"
+          ]
+        },
+        "author_id": "2082437931290267648",
+        "conversation_id": "2099111393094213880",
+        "created_at": "2026-09-13T12:22:10.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099111393094213880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xXKGGaQ82G",
+              "end": 55,
+              "expanded_url": "https://x.com/Kinzyful/status/2099111393094213880/photo/1",
+              "media_key": "3_2099111385536024576",
+              "start": 32,
+              "url": "https://t.co/xXKGGaQ82G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099111393094213880",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099111385536024576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老天爷我这辈子没求过你什么我就求你让健全比放过我吧好吗感谢感谢 https://t.co/xXKGGaQ82G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099120843825799282",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 115,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-29T12:09:04.000Z",
+        "description": "迷失了就再迷失一些",
+        "id": "2082437931290267648",
+        "is_identity_verified": false,
+        "location": "罩子外",
+        "most_recent_tweet_id": "2099119046809756091",
+        "name": "mistletoe",
+        "pinned_tweet_id": "2098683682475413619",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082437931290267648/1788964787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097645023793926144/vA6HGbc__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 164,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "Kinzyful",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

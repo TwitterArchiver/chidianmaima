@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2097690511700357367",
+    "created_at": "2026-09-10T23:39:18.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T00:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098194636858953777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1821023575631130625",
+          "start": 0,
+          "username": "RainingTown_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098194636858953777",
+    "in_reply_to_user_id": "1821023575631130625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097690511700357367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainingTown_ 宝宝你中奖啦 zfb收款码给我w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2097690511700357367",
+        "created_at": "2026-09-10T23:39:18.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T00:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098194636858953777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1821023575631130625",
+              "start": 0,
+              "username": "RainingTown_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098194636858953777",
+        "in_reply_to_user_id": "1821023575631130625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097690511700357367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainingTown_ 宝宝你中奖啦 zfb收款码给我w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821023575631130625",
+        "conversation_id": "2097690511700357367",
+        "created_at": "2026-09-09T14:16:05.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097690511700357367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097690511700357367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国色好难切"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098194636858953777",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 115,
+          "like_count": 976,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-07T03:20:41.000Z",
+        "description": "二代目哦 | 常驻山东济南欢迎贴贴 | 🏳️‍⚧️🍥 | 含糖| 似乎是家长党 | NixOS用户 | Rust新手 | HRTv2 2025.10.4",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/broken_cloud",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/broken_cloud",
+                "start": 0,
+                "url": "https://t.co/mFKbzLwrcm"
+              }
+            ]
+          }
+        },
+        "id": "1821023575631130625",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098023703946973477",
+        "name": "残云 - 二代目",
+        "pinned_tweet_id": "2077386160356401597",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891753740581077000/6gs66WLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 1728,
+          "like_count": 4285,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/mFKbzLwrcm",
+        "username": "RainingTown_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

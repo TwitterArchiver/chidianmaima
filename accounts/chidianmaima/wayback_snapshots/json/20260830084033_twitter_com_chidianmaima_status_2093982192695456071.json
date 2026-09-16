@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2093982192695456071",
+    "created_at": "2026-08-30T08:40:33.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093982192695456071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ooopoowooi/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/ooopoowooi/status/2093975707676479544",
+          "start": 7,
+          "url": "https://t.co/fk1HAikXQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093982192695456071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093975707676479544",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耍起嘛😂😂😂 https://t.co/fk1HAikXQ2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2093982192695456071",
+        "created_at": "2026-08-30T08:40:33.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093982192695456071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ooopoowooi/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ooopoowooi/status/2093975707676479544",
+              "start": 7,
+              "url": "https://t.co/fk1HAikXQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093982192695456071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093975707676479544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耍起嘛😂😂😂 https://t.co/fk1HAikXQ2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061434565323886592",
+        "conversation_id": "2093975707676479544",
+        "created_at": "2026-08-30T08:14:47.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093975707676479544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093975707676479544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人研究策划药取名叫活雷霆\n致幻剂 成分可公开 我自己吃自己写报告 \n定价60-75 100mg \n感兴趣的可以蹲 \n下个月卖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2093982192695456071",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 117,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 365
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T13:13:04.000Z",
+        "description": "药物会带领我们逃离这个扭曲的世界 欢迎聊天 互fo 药理提问 分享 研究pcp化学成分 不定时抽取一些好玩的 做一些药丸的慈善 需要请私信",
+        "id": "2061434565323886592",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2093976312272888106",
+        "name": "東九",
+        "pinned_tweet_id": "2072129971821412551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061434565323886592/1784355576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093325373534871552/B3C0OG7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 84,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "Ooopoowooi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097720304122626048",
+        "3_2097720304076455936",
+        "3_2097720304131026944"
+      ],
+      "media_source_tweet_id": [
+        "2097720313287221696",
+        "2097720313287221696",
+        "2097720313287221696"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2097732005278662798",
+    "created_at": "2026-09-09T17:00:58.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097732005278662798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2096460299213905920",
+          "start": 3,
+          "username": "d9nmTTT"
+        },
+        {
+          "end": 26,
+          "id": "1784109678953480192",
+          "start": 13,
+          "username": "chidianmaima"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BF2yb2jyfA",
+          "end": 83,
+          "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+          "media_key": "3_2097720304122626048",
+          "start": 60,
+          "url": "https://t.co/BF2yb2jyfA"
+        },
+        {
+          "display_url": "pic.x.com/BF2yb2jyfA",
+          "end": 83,
+          "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+          "media_key": "3_2097720304076455936",
+          "start": 60,
+          "url": "https://t.co/BF2yb2jyfA"
+        },
+        {
+          "display_url": "pic.x.com/BF2yb2jyfA",
+          "end": 83,
+          "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+          "media_key": "3_2097720304131026944",
+          "start": 60,
+          "url": "https://t.co/BF2yb2jyfA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097732005278662798",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097720304122626048"
+      },
+      {
+        "media_key": "3_2097720304076455936"
+      },
+      {
+        "media_key": "3_2097720304131026944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097720313287221696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d9nmTTT: @chidianmaima 我们都是独立的个体 既然做什么都会死 那就什么都去做吧 我爱你💕 https://t.co/BF2yb2jyfA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2097720304122626048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyZgJ1agAAi_bt.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097720304076455936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyZgJqaAAAHnxR.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097720304131026944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyZgJ3asAASfyU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097720304122626048",
+            "3_2097720304076455936",
+            "3_2097720304131026944"
+          ],
+          "media_source_tweet_id": [
+            "2097720313287221696",
+            "2097720313287221696",
+            "2097720313287221696"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2097732005278662798",
+        "created_at": "2026-09-09T17:00:58.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097732005278662798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2096460299213905920",
+              "start": 3,
+              "username": "d9nmTTT"
+            },
+            {
+              "end": 26,
+              "id": "1784109678953480192",
+              "start": 13,
+              "username": "chidianmaima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BF2yb2jyfA",
+              "end": 83,
+              "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+              "media_key": "3_2097720304122626048",
+              "start": 60,
+              "url": "https://t.co/BF2yb2jyfA"
+            },
+            {
+              "display_url": "pic.x.com/BF2yb2jyfA",
+              "end": 83,
+              "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+              "media_key": "3_2097720304076455936",
+              "start": 60,
+              "url": "https://t.co/BF2yb2jyfA"
+            },
+            {
+              "display_url": "pic.x.com/BF2yb2jyfA",
+              "end": 83,
+              "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+              "media_key": "3_2097720304131026944",
+              "start": 60,
+              "url": "https://t.co/BF2yb2jyfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097732005278662798",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097720304122626048"
+          },
+          {
+            "media_key": "3_2097720304076455936"
+          },
+          {
+            "media_key": "3_2097720304131026944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097720313287221696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d9nmTTT: @chidianmaima 我们都是独立的个体 既然做什么都会死 那就什么都去做吧 我爱你💕 https://t.co/BF2yb2jyfA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097720304122626048",
+            "3_2097720304076455936",
+            "3_2097720304131026944"
+          ]
+        },
+        "author_id": "2096460299213905920",
+        "conversation_id": "2097720313287221696",
+        "created_at": "2026-09-09T16:14:31.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T17:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097720313287221696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BF2yb2jyfA",
+              "end": 70,
+              "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+              "media_key": "3_2097720304122626048",
+              "start": 47,
+              "url": "https://t.co/BF2yb2jyfA"
+            },
+            {
+              "display_url": "pic.x.com/BF2yb2jyfA",
+              "end": 70,
+              "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+              "media_key": "3_2097720304076455936",
+              "start": 47,
+              "url": "https://t.co/BF2yb2jyfA"
+            },
+            {
+              "display_url": "pic.x.com/BF2yb2jyfA",
+              "end": 70,
+              "expanded_url": "https://x.com/d9nmTTT/status/2097720313287221696/photo/1",
+              "media_key": "3_2097720304131026944",
+              "start": 47,
+              "url": "https://t.co/BF2yb2jyfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097720313287221696",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097720304122626048"
+          },
+          {
+            "media_key": "3_2097720304076455936"
+          },
+          {
+            "media_key": "3_2097720304131026944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 我们都是独立的个体 既然做什么都会死 那就什么都去做吧 我爱你💕 https://t.co/BF2yb2jyfA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097732005278662798",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 110,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规 二代@d9nmTT\n欢迎互fo 撕开真相。已成年 /13岁得了抑郁症 /后期转向/极度混乱的双向情感障碍和重度焦虑惊恐发作。\n防走丢 tg @d9nmTT 1161/解离 /兴奋剂/致幻剂 成分公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "d9nmTT"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2097720313287221696",
+        "name": "東九（三世 原料革命 ）",
+        "pinned_tweet_id": "2097025122536394886",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 54,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

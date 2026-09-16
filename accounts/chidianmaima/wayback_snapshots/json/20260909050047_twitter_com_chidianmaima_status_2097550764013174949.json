@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097550754299170817",
+        "3_2097550754299154432",
+        "3_2097550754282389504"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2097550764013174949",
+    "created_at": "2026-09-09T05:00:47.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097550764013174949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2096460299213905920",
+          "start": 4,
+          "username": "d9nmTTT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XCxpuKRhAt",
+          "end": 36,
+          "expanded_url": "https://x.com/chidianmaima/status/2097550764013174949/photo/1",
+          "media_key": "3_2097550754299170817",
+          "start": 13,
+          "url": "https://t.co/XCxpuKRhAt"
+        },
+        {
+          "display_url": "pic.x.com/XCxpuKRhAt",
+          "end": 36,
+          "expanded_url": "https://x.com/chidianmaima/status/2097550764013174949/photo/1",
+          "media_key": "3_2097550754299154432",
+          "start": 13,
+          "url": "https://t.co/XCxpuKRhAt"
+        },
+        {
+          "display_url": "pic.x.com/XCxpuKRhAt",
+          "end": 36,
+          "expanded_url": "https://x.com/chidianmaima/status/2097550764013174949/photo/1",
+          "media_key": "3_2097550754282389504",
+          "start": 13,
+          "url": "https://t.co/XCxpuKRhAt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097550764013174949",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097550754299170817"
+      },
+      {
+        "media_key": "3_2097550754299154432"
+      },
+      {
+        "media_key": "3_2097550754282389504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严肃会晤@d9nmTTT https://t.co/XCxpuKRhAt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097550754299170817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRv_TDha0AEm8lM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097550754299154432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRv_TDhakAAA6zn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097550754282389504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRv_TDdawAAonJv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097550754299170817",
+            "3_2097550754299154432",
+            "3_2097550754282389504"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097550764013174949",
+        "created_at": "2026-09-09T05:00:47.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097550764013174949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2096460299213905920",
+              "start": 4,
+              "username": "d9nmTTT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCxpuKRhAt",
+              "end": 36,
+              "expanded_url": "https://x.com/chidianmaima/status/2097550764013174949/photo/1",
+              "media_key": "3_2097550754299170817",
+              "start": 13,
+              "url": "https://t.co/XCxpuKRhAt"
+            },
+            {
+              "display_url": "pic.x.com/XCxpuKRhAt",
+              "end": 36,
+              "expanded_url": "https://x.com/chidianmaima/status/2097550764013174949/photo/1",
+              "media_key": "3_2097550754299154432",
+              "start": 13,
+              "url": "https://t.co/XCxpuKRhAt"
+            },
+            {
+              "display_url": "pic.x.com/XCxpuKRhAt",
+              "end": 36,
+              "expanded_url": "https://x.com/chidianmaima/status/2097550764013174949/photo/1",
+              "media_key": "3_2097550754282389504",
+              "start": 13,
+              "url": "https://t.co/XCxpuKRhAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097550764013174949",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097550754299170817"
+          },
+          {
+            "media_key": "3_2097550754299154432"
+          },
+          {
+            "media_key": "3_2097550754282389504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃会晤@d9nmTTT https://t.co/XCxpuKRhAt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097550764013174949",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 109,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规 二代@d9nmTT\n欢迎互fo 撕开真相。已成年 /13岁得了抑郁症 /后期转向/极度混乱的双向情感障碍和重度焦虑惊恐发作。\n防走丢 tg @d9nmTT 1161/解离 /兴奋剂/致幻剂 成分公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "d9nmTT"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2097532607886196785",
+        "name": "東九（三世 原料革命 ）",
+        "pinned_tweet_id": "2097025122536394886",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 54,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

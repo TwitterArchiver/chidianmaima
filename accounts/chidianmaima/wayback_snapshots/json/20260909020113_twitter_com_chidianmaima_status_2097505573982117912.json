@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2097505573982117912",
+    "created_at": "2026-09-09T02:01:13.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097505573982117912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aliebkk9/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/aliebkk9/status/2097302572159901831",
+          "start": 3,
+          "url": "https://t.co/RxTToNh6aw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097505573982117912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097302572159901831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/RxTToNh6aw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13500,
+        "height": 720,
+        "media_key": "13_2097302547308609536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097302547308609536/img/ACPDI_MC4wq0FQIE.jpg",
+        "public_metrics": {
+          "view_count": 96625
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097302547308609536/vid/avc1/360x270/DQ8MhyPgvxN4zmKQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097302547308609536/vid/avc1/480x360/cME8Qb6bP1a-PkTg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097302547308609536/vid/avc1/960x720/eE61Fn8LSfXK07D6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097302547308609536/pl/25idUwh0HG-QoYY1.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 1244,
+        "media_key": "3_2097302547316998144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsdjgdaAAApxbd.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2097505573982117912",
+        "created_at": "2026-09-09T02:01:13.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097505573982117912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aliebkk9/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/aliebkk9/status/2097302572159901831",
+              "start": 3,
+              "url": "https://t.co/RxTToNh6aw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097505573982117912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097302572159901831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/RxTToNh6aw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097302547308609536",
+            "3_2097302547316998144"
+          ]
+        },
+        "author_id": "2094460346312617987",
+        "conversation_id": "2097302572159901831",
+        "created_at": "2026-09-08T12:34:33.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097302572159901831"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "tlw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkuGPqCUW3",
+              "end": 57,
+              "expanded_url": "https://x.com/aliebkk9/status/2097302572159901831/video/1",
+              "media_key": "13_2097302547308609536",
+              "start": 34,
+              "url": "https://t.co/WkuGPqCUW3"
+            },
+            {
+              "display_url": "pic.x.com/WkuGPqCUW3",
+              "end": 57,
+              "expanded_url": "https://x.com/aliebkk9/status/2097302572159901831/video/1",
+              "media_key": "3_2097302547316998144",
+              "start": 34,
+              "url": "https://t.co/WkuGPqCUW3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097302572159901831",
+        "lang": "th",
+        "media_metadata": [
+          {
+            "media_key": "13_2097302547308609536"
+          },
+          {
+            "media_key": "3_2097302547316998144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 498,
+          "impression_count": 264389,
+          "like_count": 1932,
+          "quote_count": 44,
+          "reply_count": 19,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "จะอีตัวไหนก็อุ้มเย็ดได้หมดอะ #tlw https://t.co/WkuGPqCUW3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097505573982117912",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 108,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T16:23:13.000Z",
+        "description": "# tom 1 way no wife\nwtf whatever idk รูปกุทุกอัน",
+        "id": "2094460346312617987",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097410451726537112",
+        "name": "lie",
+        "pinned_tweet_id": "2097365821266043096",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094460346312617987/1788717407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096615759271325696/RXcL7Oz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 5,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "aliebkk9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

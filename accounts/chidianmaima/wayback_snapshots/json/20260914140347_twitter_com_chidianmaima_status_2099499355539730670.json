@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099499332450058241"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099499355539730670",
+    "created_at": "2026-09-14T14:03:47.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099499355539730670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AHUpSVgBSA",
+          "end": 27,
+          "expanded_url": "https://x.com/chidianmaima/status/2099499355539730670/video/1",
+          "media_key": "13_2099499332450058241",
+          "start": 4,
+          "url": "https://t.co/AHUpSVgBSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099499355539730670",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2099499332450058241"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好平静 https://t.co/AHUpSVgBSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5966,
+        "height": 720,
+        "media_key": "13_2099499332450058241",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099499332450058241/img/jg74tX6DSUUybPjZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499332450058241/vid/avc1/480x270/mvWDyCsf61RlOXGf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499332450058241/vid/avc1/640x360/0nJ1HuF01jrN0Z10.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099499332450058241/vid/avc1/1280x720/_Wh6fYUX7CPB7qh9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099499332450058241/pl/3t3Pto6oq8UQTZT6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099499332450058241"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099499355539730670",
+        "created_at": "2026-09-14T14:03:47.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099499355539730670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHUpSVgBSA",
+              "end": 27,
+              "expanded_url": "https://x.com/chidianmaima/status/2099499355539730670/video/1",
+              "media_key": "13_2099499332450058241",
+              "start": 4,
+              "url": "https://t.co/AHUpSVgBSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099499355539730670",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099499332450058241"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好平静 https://t.co/AHUpSVgBSA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099499355539730670",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 118,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 594
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

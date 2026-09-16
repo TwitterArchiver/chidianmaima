@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2096971771505500393",
+    "created_at": "2026-09-07T14:40:04.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096971771505500393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hangslaali/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hangslaali/status/2096970473573908691",
+          "start": 10,
+          "url": "https://t.co/pHyCJ0k0WM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096971771505500393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096970473573908691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈笑的一直在抖 https://t.co/pHyCJ0k0WM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2096971771505500393",
+        "created_at": "2026-09-07T14:40:04.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096971771505500393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hangslaali/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hangslaali/status/2096970473573908691",
+              "start": 10,
+              "url": "https://t.co/pHyCJ0k0WM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096971771505500393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096970473573908691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈笑的一直在抖 https://t.co/pHyCJ0k0WM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531131894850527232",
+        "conversation_id": "2096910229552390640",
+        "created_at": "2026-09-07T14:34:55.000Z",
+        "display_text_range": [
+          14,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096970473573908691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096970473573908691",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096910229552390640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 我之前在抖音刷到这个也去找了 然后我玩婉儿一直飞天杀他他急眼挂机了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2096971771505500393",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 107,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-30T04:34:38.000Z",
+        "description": "我什么都不知道",
+        "id": "1531131894850527232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096971475488280816",
+        "name": "???",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531131894850527232/1724419532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096957095778365440/4PdE3eKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 522,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 785
+        },
+        "url": "",
+        "username": "hangslaali",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

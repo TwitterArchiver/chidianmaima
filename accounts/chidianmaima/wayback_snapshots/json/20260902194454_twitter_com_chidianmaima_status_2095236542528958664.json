@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095201664626237592",
+    "created_at": "2026-09-02T19:44:54.000Z",
+    "display_text_range": [
+      9,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095236542528958664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2030722909682163712",
+          "start": 0,
+          "username": "yu16856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095236542528958664",
+    "in_reply_to_user_id": "2030722909682163712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095235359085105646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu16856 主要是我跑外地我和她说是旅游其实我是纹身去了 感觉回去北大寺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095201664626237592",
+        "created_at": "2026-09-02T19:44:54.000Z",
+        "display_text_range": [
+          9,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095236542528958664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2030722909682163712",
+              "start": 0,
+              "username": "yu16856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095236542528958664",
+        "in_reply_to_user_id": "2030722909682163712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095235359085105646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu16856 主要是我跑外地我和她说是旅游其实我是纹身去了 感觉回去北大寺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030722909682163712",
+        "conversation_id": "2095201664626237592",
+        "created_at": "2026-09-02T19:40:11.000Z",
+        "display_text_range": [
+          14,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095235359085105646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095235359085105646",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095201664626237592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 我也，我现在都不敢刷我妈的一直刷我爸的，幸好他在外地工作，不然我妈知道了立刻下调额度，，，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095236542528958664",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 111,
+          "like_count": 779,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 400
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-08T19:10:56.000Z",
+        "description": "大量碎碎念，极少数会发一些比较暴露的，发的实录也只是自己喜欢，不卡不卡不卡❗别给我发diao。。过🚪520纯绿没有必要，留着自己吃顿好的！只加我想加的，我感兴趣的会关注的，不要找我要互关了...匿名在这里https://t.co/yX7pzKZ4mL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eee45697",
+                "end": 125,
+                "expanded_url": "https://ngl.link/eee45697",
+                "start": 102,
+                "url": "https://t.co/yX7pzKZ4mL"
+              }
+            ]
+          }
+        },
+        "id": "2030722909682163712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095235359085105646",
+        "name": "少管我",
+        "pinned_tweet_id": "2030766301095063635",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030722909682163712/1772999143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030723193754066944/gJbxadEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 47,
+          "like_count": 3931,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 518
+        },
+        "url": "",
+        "username": "yu16856",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

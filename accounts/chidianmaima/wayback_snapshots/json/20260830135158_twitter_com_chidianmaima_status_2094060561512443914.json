@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2094060561512443914",
+    "created_at": "2026-08-30T13:51:58.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094060561512443914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jorgejaime_1/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/jorgejaime_1/status/2093863934923292819",
+          "start": 2,
+          "url": "https://t.co/e1iv2wiGFY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094060561512443914",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093863934923292819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥰 https://t.co/e1iv2wiGFY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093863787115773952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7mBUcXAAAM0yr.jpg",
+        "width": 1844
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2093863859152924672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7mFgzWsAA1P9-.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2094060561512443914",
+        "created_at": "2026-08-30T13:51:58.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094060561512443914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jorgejaime_1/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/jorgejaime_1/status/2093863934923292819",
+              "start": 2,
+              "url": "https://t.co/e1iv2wiGFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094060561512443914",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093863934923292819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/e1iv2wiGFY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093863787115773952",
+            "3_2093863859152924672"
+          ]
+        },
+        "author_id": "1440480884042305546",
+        "conversation_id": "2093863934923292819",
+        "created_at": "2026-08-30T00:50:38.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T01:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093863934923292819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JH9OqDJih7",
+              "end": 297,
+              "expanded_url": "https://x.com/JorgeJaime_1/status/2093863934923292819/photo/1",
+              "media_key": "3_2093863787115773952",
+              "start": 274,
+              "url": "https://t.co/JH9OqDJih7"
+            },
+            {
+              "display_url": "pic.x.com/JH9OqDJih7",
+              "end": 297,
+              "expanded_url": "https://x.com/JorgeJaime_1/status/2093863934923292819/photo/1",
+              "media_key": "3_2093863859152924672",
+              "start": 274,
+              "url": "https://t.co/JH9OqDJih7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093863934923292819",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2093863787115773952"
+          },
+          {
+            "media_key": "3_2093863859152924672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 93371,
+          "like_count": 14514,
+          "quote_count": 56,
+          "reply_count": 112,
+          "retweet_count": 962
+        },
+        "reply_settings": "everyone",
+        "text": "Lo que me acaba de pasar una sorpresa inesperada llego una perrita aliviarse a mi casa yo no sabía que estaba embarazada solo le abrí la puerta por que pensé q tenía hambre o quería agua y o sorpresa ni modo de echarla ala calle aqui se quedara asi que  soy abuelo de nuevo https://t.co/JH9OqDJih7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2094060561512443914",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 113,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-22T00:59:59.000Z",
+        "description": "amor por los perritos",
+        "id": "1440480884042305546",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094058424254276088",
+        "name": "Jorge",
+        "pinned_tweet_id": "2093393249306050721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1440480884042305546/1785680624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083921482049101825/CzyRpQRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42234,
+          "following_count": 789,
+          "like_count": 29810,
+          "listed_count": 22,
+          "media_count": 7402,
+          "tweet_count": 13718
+        },
+        "url": "",
+        "username": "JorgeJaime_1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

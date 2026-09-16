@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095951360768516096"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095951368163139971",
+    "created_at": "2026-09-04T19:05:21.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T20:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095951368163139971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NmVdUIRhAb",
+          "end": 51,
+          "expanded_url": "https://x.com/chidianmaima/status/2095951368163139971/photo/1",
+          "media_key": "3_2095951360768516096",
+          "start": 28,
+          "url": "https://t.co/NmVdUIRhAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095951368163139971",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095951360768516096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大妈我药效呢？一点感觉都没有和我说要还有38分钟没了？ https://t.co/NmVdUIRhAb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095951360768516096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRZQqGUaoAAF8II.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095951360768516096"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095951368163139971",
+        "created_at": "2026-09-04T19:05:21.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095951368163139971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NmVdUIRhAb",
+              "end": 51,
+              "expanded_url": "https://x.com/chidianmaima/status/2095951368163139971/photo/1",
+              "media_key": "3_2095951360768516096",
+              "start": 28,
+              "url": "https://t.co/NmVdUIRhAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095951368163139971",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095951360768516096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大妈我药效呢？一点感觉都没有和我说要还有38分钟没了？ https://t.co/NmVdUIRhAb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095951368163139971",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 116,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

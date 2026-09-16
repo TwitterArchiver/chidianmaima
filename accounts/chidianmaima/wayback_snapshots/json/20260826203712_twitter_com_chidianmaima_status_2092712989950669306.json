@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092712982589603840"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2092712989950669306",
+    "created_at": "2026-08-26T20:37:12.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T21:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092712989950669306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0iOZViUoLp",
+          "end": 39,
+          "expanded_url": "https://x.com/chidianmaima/status/2092712989950669306/photo/1",
+          "media_key": "3_2092712982589603840",
+          "start": 16,
+          "url": "https://t.co/0iOZViUoLp"
+        },
+        {
+          "display_url": "x.com/ji_ba438/statu…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/ji_ba438/status/2092552236048245157",
+          "start": 40,
+          "url": "https://t.co/Neplbh2dCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092712989950669306",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092712982589603840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092552236048245157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今年是第8年，希望自己今年身亡 https://t.co/0iOZViUoLp https://t.co/Neplbh2dCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 461,
+        "media_key": "3_2092712982589603840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrPXrgaAAAEgts.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092712982589603840"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2092712989950669306",
+        "created_at": "2026-08-26T20:37:12.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T21:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092712989950669306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iOZViUoLp",
+              "end": 39,
+              "expanded_url": "https://x.com/chidianmaima/status/2092712989950669306/photo/1",
+              "media_key": "3_2092712982589603840",
+              "start": 16,
+              "url": "https://t.co/0iOZViUoLp"
+            },
+            {
+              "display_url": "x.com/ji_ba438/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/ji_ba438/status/2092552236048245157",
+              "start": 40,
+              "url": "https://t.co/Neplbh2dCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092712989950669306",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092712982589603840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092552236048245157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今年是第8年，希望自己今年身亡 https://t.co/0iOZViUoLp https://t.co/Neplbh2dCM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911495718793064449",
+        "conversation_id": "2092552236048245157",
+        "created_at": "2026-08-26T09:58:25.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092552236048245157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092552236048245157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 678,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "连续许了七年自己赶紧消失去死的生日愿望，每一年无一例外，18岁生日许的希望自己变得幸福一点，19岁我不知道"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2092712989950669306",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 112,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T19:04:38.000Z",
+        "description": "不聊骚不互看，我想说啥就说啥",
+        "id": "1911495718793064449",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092711767197847638",
+        "name": "火鸡味锅巴",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 238,
+          "like_count": 4149,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "ji_ba438",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

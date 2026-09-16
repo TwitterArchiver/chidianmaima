@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2098725506015436831",
+    "created_at": "2026-09-12T10:48:47.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098725506015436831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thctroche/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/thctroche/status/2098571678863315266",
+          "start": 2,
+          "url": "https://t.co/65JxKF759d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098725506015436831",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098571678863315266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/65JxKF759d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2098725506015436831",
+        "created_at": "2026-09-12T10:48:47.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098725506015436831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thctroche/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/thctroche/status/2098571678863315266",
+              "start": 2,
+              "url": "https://t.co/65JxKF759d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098725506015436831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098571678863315266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/65JxKF759d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948035186584670209",
+        "conversation_id": "2098571678863315266",
+        "created_at": "2026-09-12T00:37:32.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T01:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098571678863315266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098571678863315266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 714,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个漂亮的lgbt，然后也不出卖自己的身体，靠正常的工作赚钱，你可能觉得不可思议但这确实是实实在在发生在我身上的事。非常愚蠢，非常劳累，非常贫困"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098725506015436831",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 113,
+          "like_count": 1006,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 556
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "我只是个爱情的骗徒，是爱情的小坏蛋。shadow ban中只能转发回复。Queer poly pan 🍳匿名提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shianbey",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shianbey",
+                "start": 0,
+                "url": "https://t.co/Ml7rVTONcx"
+              }
+            ]
+          }
+        },
+        "id": "1948035186584670209",
+        "is_identity_verified": false,
+        "location": "Pennsylvania, USA",
+        "most_recent_tweet_id": "2098722085518414054",
+        "name": "大麻軟糖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948035186584670209/1763941878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085830576418758656/_ry2AE4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 307,
+          "like_count": 3731,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 2439
+        },
+        "url": "https://t.co/Ml7rVTONcx",
+        "username": "thctroche",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

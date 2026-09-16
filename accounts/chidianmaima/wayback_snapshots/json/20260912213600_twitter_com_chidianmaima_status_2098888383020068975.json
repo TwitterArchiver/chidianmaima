@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2098833802596692059",
+    "created_at": "2026-09-12T21:36:00.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T22:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098888383020068975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009465046213251076",
+          "start": 0,
+          "username": "mysoulis586g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098888383020068975",
+    "in_reply_to_user_id": "2009465046213251076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098839126955246070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mysoulis586g 谢谢安利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2098833802596692059",
+        "created_at": "2026-09-12T21:36:00.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T22:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098888383020068975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009465046213251076",
+              "start": 0,
+              "username": "mysoulis586g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098888383020068975",
+        "in_reply_to_user_id": "2009465046213251076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098839126955246070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mysoulis586g 谢谢安利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009465046213251076",
+        "conversation_id": "2098833802596692059",
+        "created_at": "2026-09-12T18:20:17.000Z",
+        "display_text_range": [
+          14,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098839126955246070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098839126955246070",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098833802596692059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima ？满地都是！欢迎来境壤我觉得里昂老师和很多，比如猫猫老师比如熊老师比如很多老师绑的都很厉害！欢迎来上海玩绳子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2098888383020068975",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 113,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-09T03:19:48.000Z",
+        "description": "废话大王爱碎碎念。啥都发话特别多高强度刷屏。不营业日常吐黑泥看黄",
+        "id": "2009465046213251076",
+        "is_identity_verified": false,
+        "location": "徐汇",
+        "most_recent_tweet_id": "2098866160653709361",
+        "name": "荔枝Tsukuyomirachi",
+        "pinned_tweet_id": "2093143565237158237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009465046213251076/1780419381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084951919420915713/0VkDu_6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 687,
+          "like_count": 909,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1548
+        },
+        "url": "",
+        "username": "mysoulis586g",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

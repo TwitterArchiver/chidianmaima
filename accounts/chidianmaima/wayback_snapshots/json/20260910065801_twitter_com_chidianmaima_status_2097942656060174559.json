@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097942645171732480",
+        "3_2097942645167566848",
+        "3_2097942645347889152",
+        "3_2097942645368909824"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2097942656060174559",
+    "created_at": "2026-09-10T06:58:01.000Z",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T07:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097942656060174559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iEwccavsdB",
+          "end": 165,
+          "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+          "media_key": "3_2097942645171732480",
+          "start": 142,
+          "url": "https://t.co/iEwccavsdB"
+        },
+        {
+          "display_url": "pic.x.com/iEwccavsdB",
+          "end": 165,
+          "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+          "media_key": "3_2097942645167566848",
+          "start": 142,
+          "url": "https://t.co/iEwccavsdB"
+        },
+        {
+          "display_url": "pic.x.com/iEwccavsdB",
+          "end": 165,
+          "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+          "media_key": "3_2097942645347889152",
+          "start": 142,
+          "url": "https://t.co/iEwccavsdB"
+        },
+        {
+          "display_url": "pic.x.com/iEwccavsdB",
+          "end": 165,
+          "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+          "media_key": "3_2097942645368909824",
+          "start": 142,
+          "url": "https://t.co/iEwccavsdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097942656060174559",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097942645171732480"
+      },
+      {
+        "media_key": "3_2097942645167566848"
+      },
+      {
+        "media_key": "3_2097942645347889152"
+      },
+      {
+        "media_key": "3_2097942645368909824"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "重复过无数次的纪录片。几乎让身边的每一个朋友都看过。俄罗斯90年代的人均存在主义抑郁。政治抑郁。如果我们注定得死，如果我们构建我们自己的世界，如果每一个人最终都是独自一人身处于一个无关紧要的世界之中，那么生命有什么意义？我们为什么要活着？我们应该怎样活着？如果并不存在为我们预先设计的蓝图，那么我们每个人就必须构建自己的生命意义。然而，一个人自己创造出来的意义能否坚强到令其能容忍生活？人类这种寻找意义的生物，却被投入到本身毫无意义的宇宙之中。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重复过无数次的纪录片。几乎让身边的每一个朋友都看过。俄罗斯90年代的人均存在主义抑郁。政治抑郁。如果我们注定得死，如果我们构建我们自己的世界，如果每一个人最终都是独自一人身处于一个无关紧要的世界之中，那么生命有什么意义？我们为什么要活着？我们应该怎样活着？如果并不存在为我们预先设计 https://t.co/iEwccavsdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097942645171732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1juGyawAAsELm.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097942645167566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1juGxbMAAIfEu.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097942645347889152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1juHcasAA_V-M.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097942645368909824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1juHhbcAAf5rR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097942645171732480",
+            "3_2097942645167566848",
+            "3_2097942645347889152",
+            "3_2097942645368909824"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2097942656060174559",
+        "created_at": "2026-09-10T06:58:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097942656060174559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEwccavsdB",
+              "end": 165,
+              "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+              "media_key": "3_2097942645171732480",
+              "start": 142,
+              "url": "https://t.co/iEwccavsdB"
+            },
+            {
+              "display_url": "pic.x.com/iEwccavsdB",
+              "end": 165,
+              "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+              "media_key": "3_2097942645167566848",
+              "start": 142,
+              "url": "https://t.co/iEwccavsdB"
+            },
+            {
+              "display_url": "pic.x.com/iEwccavsdB",
+              "end": 165,
+              "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+              "media_key": "3_2097942645347889152",
+              "start": 142,
+              "url": "https://t.co/iEwccavsdB"
+            },
+            {
+              "display_url": "pic.x.com/iEwccavsdB",
+              "end": 165,
+              "expanded_url": "https://x.com/chidianmaima/status/2097942656060174559/photo/1",
+              "media_key": "3_2097942645368909824",
+              "start": 142,
+              "url": "https://t.co/iEwccavsdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097942656060174559",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097942645171732480"
+          },
+          {
+            "media_key": "3_2097942645167566848"
+          },
+          {
+            "media_key": "3_2097942645347889152"
+          },
+          {
+            "media_key": "3_2097942645368909824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "重复过无数次的纪录片。几乎让身边的每一个朋友都看过。俄罗斯90年代的人均存在主义抑郁。政治抑郁。如果我们注定得死，如果我们构建我们自己的世界，如果每一个人最终都是独自一人身处于一个无关紧要的世界之中，那么生命有什么意义？我们为什么要活着？我们应该怎样活着？如果并不存在为我们预先设计的蓝图，那么我们每个人就必须构建自己的生命意义。然而，一个人自己创造出来的意义能否坚强到令其能容忍生活？人类这种寻找意义的生物，却被投入到本身毫无意义的宇宙之中。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重复过无数次的纪录片。几乎让身边的每一个朋友都看过。俄罗斯90年代的人均存在主义抑郁。政治抑郁。如果我们注定得死，如果我们构建我们自己的世界，如果每一个人最终都是独自一人身处于一个无关紧要的世界之中，那么生命有什么意义？我们为什么要活着？我们应该怎样活着？如果并不存在为我们预先设计 https://t.co/iEwccavsdB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097942656060174559",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 112,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

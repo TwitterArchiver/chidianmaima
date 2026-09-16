@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2094759034742305113",
+    "created_at": "2026-09-01T15:55:54.000Z",
+    "display_text_range": [
+      26,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094816528583770531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        },
+        {
+          "end": 25,
+          "id": "1687876238474629120",
+          "start": 12,
+          "username": "AgNo3_xq0719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094816528583770531",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094759034742305113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 @AgNo3_xq0719 蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2094759034742305113",
+        "created_at": "2026-09-01T15:55:54.000Z",
+        "display_text_range": [
+          26,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094816528583770531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            },
+            {
+              "end": 25,
+              "id": "1687876238474629120",
+              "start": 12,
+              "username": "AgNo3_xq0719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094816528583770531",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094759034742305113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 @AgNo3_xq0719 蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665304321066684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2094759034742305113",
+        "created_at": "2026-09-01T12:07:27.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094759034742305113"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            },
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "overdose"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "抽奖"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094759034742305113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "od"
+              },
+              {
+                "end": 13,
+                "start": 4,
+                "tag": "overdose"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "抽奖"
+              },
+              {
+                "end": 293,
+                "start": 290,
+                "tag": "药商"
+              },
+              {
+                "end": 298,
+                "start": 294,
+                "tag": "愈美片"
+              },
+              {
+                "end": 304,
+                "start": 299,
+                "tag": "普瑞巴林"
+              },
+              {
+                "end": 310,
+                "start": 305,
+                "tag": "右美沙芬"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 250,
+                "expanded_url": "http://t.me/melody_tik",
+                "start": 227,
+                "url": "https://t.co/hleBBuImWI"
+              }
+            ]
+          },
+          "text": "#od #overdose #抽奖 \n我想好了 9.5开奖吧 由grok抽取 公平公正\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x3 - 超天酱拼豆周边(自选）\n\n关注➕转发➕点赞➕评论🟰参与\n\n重新开始接愈美片代购 找到新渠道了给大家大降价啦\n云药的 25r一盒 已经接近成本价了，我自己也是重度oder 想办法尽量便宜的价格给真正有需要的朋友们\n本账号600fo+我妹账号2700fo担保\n请放心购买\n需要的朋友们可以电报联系我https://t.co/hleBBuImWI或者推特私信我另外，普瑞巴林的渠道我也在想办法搞了 请大家耐心等待 非常感谢!\n#药商 #愈美片 #普瑞巴林 #右美沙芬"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1334,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#od #overdose #抽奖 \n我想好了 9.5开奖吧 由grok抽取 公平公正\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x3 - 超天酱拼豆周边(自选）\n\n关注➕转发➕点赞➕评论🟰参与\n\n重新开始接愈美片代购 找到新渠道了给大家大降价啦\n云药的 25r一盒 已经接近成本价了，我自己也是重度oder"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2094816528583770531",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 112,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473 永久25r/盒卖云药愈美片以及免费咨询药物推荐电报联系https://t.co/CIpMy1FYM9或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 109,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 86,
+                "url": "https://t.co/CIpMy1FYM9"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2094797400452001873",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 340,
+          "like_count": 2782,
+          "listed_count": 2,
+          "media_count": 195,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-05T17:20:44.000Z",
+        "description": "09｜od｜自伤｜双相情感障碍｜istp-t｜爱人@llzvkeai @NiimiyaHoshi @fngkli131022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "llzvkeai"
+              },
+              {
+                "end": 48,
+                "start": 35,
+                "username": "NiimiyaHoshi"
+              },
+              {
+                "end": 62,
+                "start": 49,
+                "username": "fngkli131022"
+              }
+            ]
+          }
+        },
+        "id": "1687876238474629120",
+        "is_identity_verified": false,
+        "location": "普瑞巴林星球",
+        "most_recent_tweet_id": "2094801974650867953",
+        "name": "硝酸银#浅（三世）",
+        "pinned_tweet_id": "2085337710705954839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687876238474629120/1777450045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094034451638747136/yTM49hoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 315,
+          "like_count": 775,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "AgNo3_xq0719",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

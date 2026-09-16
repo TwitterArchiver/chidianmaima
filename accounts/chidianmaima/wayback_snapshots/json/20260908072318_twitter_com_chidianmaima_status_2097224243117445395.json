@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2097224243117445395",
+    "created_at": "2026-09-08T07:23:18.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T08:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097224243117445395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/notaroja_mx/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/notaroja_mx/status/2097068849182978111",
+          "start": 7,
+          "url": "https://t.co/fReCJhCI9j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097224243117445395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097068849182978111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈不行了 https://t.co/fReCJhCI9j"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18940,
+        "height": 1920,
+        "media_key": "13_2097068792517980160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097068792517980160/img/uEYSaS5iAYzgSL2E.jpg",
+        "public_metrics": {
+          "view_count": 1063774
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097068792517980160/vid/avc1/320x568/IK-HhSwfJbo3dYZd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097068792517980160/vid/avc1/480x852/QmJNysRjgL0nD5hq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097068792517980160/vid/avc1/720x1280/IKoh4Fu5_tymbQ18.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097068792517980160/pl/hTSW5CHW7D_5NXZ8.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2097224243117445395",
+        "created_at": "2026-09-08T07:23:18.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097224243117445395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/notaroja_mx/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/notaroja_mx/status/2097068849182978111",
+              "start": 7,
+              "url": "https://t.co/fReCJhCI9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097224243117445395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097068849182978111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈不行了 https://t.co/fReCJhCI9j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097068792517980160"
+          ]
+        },
+        "author_id": "742727866165563392",
+        "conversation_id": "2097068849182978111",
+        "created_at": "2026-09-07T21:05:49.000Z",
+        "display_text_range": [
+          0,
+          235
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097068849182978111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgvrvkVTaR",
+              "end": 259,
+              "expanded_url": "https://x.com/NotaRoja_Mx/status/2097068849182978111/video/1",
+              "media_key": "13_2097068792517980160",
+              "start": 236,
+              "url": "https://t.co/hgvrvkVTaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097068849182978111",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2097068792517980160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1178,
+          "impression_count": 1614219,
+          "like_count": 3245,
+          "quote_count": 100,
+          "reply_count": 231,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 ¡Ataque insólito y brutal! Graban el momento exacto en que un hombre sin brazos se arma con un cuchillo y ataca a su esposa tras una acalorada discusión. Un caso de violencia extrema y desconcertante que enciende todas las alertas. 🛑 https://t.co/hgvrvkVTaR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2097224243117445395",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 109,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-14T14:38:17.000Z",
+        "description": "Manda tu denuncia a nuestro DM 🚨 \n                   Visita nuestra página web 📱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notaroja.com.mx",
+                "end": 23,
+                "expanded_url": "https://notaroja.com.mx/",
+                "start": 0,
+                "url": "https://t.co/azYZ6u6NFO"
+              }
+            ]
+          }
+        },
+        "id": "742727866165563392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097173081949351980",
+        "name": "Nota Roja Mx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/742727866165563392/1645126853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519736911874695168/ckjRxPNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99548,
+          "following_count": 790,
+          "like_count": 2898,
+          "listed_count": 139,
+          "media_count": 5653,
+          "tweet_count": 7019
+        },
+        "url": "https://t.co/azYZ6u6NFO",
+        "username": "NotaRoja_Mx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

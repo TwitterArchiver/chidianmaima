@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2095985908252311683",
+    "created_at": "2026-09-04T21:32:00.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095988273906946202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940729007496179712",
+          "start": 0,
+          "username": "Rinkawaiiuwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095988273906946202",
+    "in_reply_to_user_id": "1940729007496179712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095985908252311683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinkawaiiuwu 不吃给我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2095985908252311683",
+        "created_at": "2026-09-04T21:32:00.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095988273906946202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940729007496179712",
+              "start": 0,
+              "username": "Rinkawaiiuwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095988273906946202",
+        "in_reply_to_user_id": "1940729007496179712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095985908252311683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinkawaiiuwu 不吃给我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940729007496179712",
+        "conversation_id": "2095985908252311683",
+        "created_at": "2026-09-04T21:22:36.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095985908252311683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095985908252311683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：囤了一堆药但不o之人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "一个精神病",
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2095988273906946202",
+        "name": "乱",
+        "pinned_tweet_id": "2086544149394927737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 117,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T11:07:24.000Z",
+        "description": "你好喵我是rin\n本质od蛆zc已戒/友跨/查成分回fo/🚪52纯绿好友位可以聊天/互fo请私信喵\n攒钱买衣服中.ing",
+        "id": "1940729007496179712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095985908252311683",
+        "name": "Rin",
+        "pinned_tweet_id": "2093375703588942265",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1940729007496179712/1782834651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071984770163068928/oTBa4kFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 72,
+          "like_count": 4199,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "Rinkawaiiuwu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
