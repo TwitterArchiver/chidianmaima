@@ -1,11 +1,20 @@
 {
   "name": "乱",
   "username": "@chidianmaima",
-  "bio": "一个精神病",
+  "bio": "双向11年💊🔪二号机@luanma7n",
   "location": "坟墓",
   "link": "",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2086544149394927737",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 19,
+        "start": 10,
+        "username": "luanma7n"
+      }
+    ]
+  }
 }
