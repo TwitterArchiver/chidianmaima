@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101971176130297856"
+      ],
+      "media_source_tweet_id": [
+        "2101971394024411579"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102227047427002708",
+    "created_at": "2026-09-22T02:42:40.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T03:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102227047427002708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2095401063016964096",
+          "start": 3,
+          "username": "zifeneight"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykM4vXtKJ2",
+          "end": 52,
+          "expanded_url": "https://x.com/zifeneight/status/2101971394024411579/photo/1",
+          "media_key": "3_2101971176130297856",
+          "start": 29,
+          "url": "https://t.co/ykM4vXtKJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102227047427002708",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101971176130297856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101971394024411579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zifeneight: 盘点那些双亲四万的名场面 https://t.co/ykM4vXtKJ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101971176130297856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuzpeFbQAAfeh-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101971176130297856"
+          ],
+          "media_source_tweet_id": [
+            "2101971394024411579"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102227047427002708",
+        "created_at": "2026-09-22T02:42:40.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T03:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102227047427002708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2095401063016964096",
+              "start": 3,
+              "username": "zifeneight"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykM4vXtKJ2",
+              "end": 52,
+              "expanded_url": "https://x.com/zifeneight/status/2101971394024411579/photo/1",
+              "media_key": "3_2101971176130297856",
+              "start": 29,
+              "url": "https://t.co/ykM4vXtKJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102227047427002708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101971176130297856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101971394024411579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zifeneight: 盘点那些双亲四万的名场面 https://t.co/ykM4vXtKJ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101971176130297856"
+          ]
+        },
+        "author_id": "2095401063016964096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101971394024411579",
+        "created_at": "2026-09-21T09:46:47.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101971394024411579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykM4vXtKJ2",
+              "end": 36,
+              "expanded_url": "https://x.com/zifeneight/status/2101971394024411579/photo/1",
+              "media_key": "3_2101971176130297856",
+              "start": 13,
+              "url": "https://t.co/ykM4vXtKJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101971394024411579",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101971176130297856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12594,
+          "like_count": 161,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些双亲四万的名场面 https://t.co/ykM4vXtKJ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102227047427002708",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 117,
+          "like_count": 1240,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 673
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T06:39:46.000Z",
+        "description": "友好所有人😋\n09年/17岁/oder/药物报告/男的🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/j9jF8I3LIy"
+              }
+            ]
+          }
+        },
+        "id": "2095401063016964096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102224664659660963",
+        "name": "自分",
+        "pinned_tweet_id": "2101145711744290962",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101145511868940288/cHbXqr64_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 66,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/j9jF8I3LIy",
+        "username": "zifeneight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

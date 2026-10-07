@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102751118782775399",
+    "created_at": "2026-09-23T13:28:10.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T14:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102751883513483484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096460299213905920",
+          "start": 0,
+          "username": "d9nmTTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102751883513483484",
+    "in_reply_to_user_id": "2096460299213905920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102751761341776051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9nmTTT 哼 我讨厌你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102751118782775399",
+        "created_at": "2026-09-23T13:28:10.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102751883513483484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096460299213905920",
+              "start": 0,
+              "username": "d9nmTTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102751883513483484",
+        "in_reply_to_user_id": "2096460299213905920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102751761341776051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d9nmTTT 哼 我讨厌你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096460299213905920",
+        "conversation_id": "2102751118782775399",
+        "created_at": "2026-09-23T13:27:41.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T14:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102751761341776051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102751761341776051",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102751118782775399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 我们还有电子烟极乐！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n三号机@manbuzaisenlin\n一起活过这个冬天。@d9nmTTTT\n我的@Kinzyful\n不愿再醒来@haohaizii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "manbuzaisenlin"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "d9nmTTTT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kinzyful"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "haohaizii"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102751883513483484",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 108,
+          "like_count": 1272,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 705
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规 我希望爱与和平 二代@d9nmTT\n欢迎互fo 撕开真相。已成年 /13岁得了抑郁症 /后期转向/极度混乱的双向情感障碍和重度焦虑惊恐发作\n防走丢 tgid叫 @d9nmTT 解离 /兴奋剂/致幻剂 成分公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 24,
+                "username": "d9nmTT"
+              },
+              {
+                "end": 101,
+                "start": 94,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2102751770783166540",
+        "name": "東九（三世 原料革命 ）",
+        "pinned_tweet_id": "2097025122536394886",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 90,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

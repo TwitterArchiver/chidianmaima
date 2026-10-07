@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102330248931209693",
+    "created_at": "2026-09-22T09:32:45.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T10:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102330248931209693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/demonnn77/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/demonnn77/status/2102324033790644654",
+          "start": 8,
+          "url": "https://t.co/Pv1DdWzxHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102330248931209693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102324033790644654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我尼玛肚子炸了 https://t.co/Pv1DdWzxHP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102330248931209693",
+        "created_at": "2026-09-22T09:32:45.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102330248931209693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/demonnn77/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/demonnn77/status/2102324033790644654",
+              "start": 8,
+              "url": "https://t.co/Pv1DdWzxHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102330248931209693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102324033790644654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我尼玛肚子炸了 https://t.co/Pv1DdWzxHP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2102324033790644654",
+        "created_at": "2026-09-22T09:08:03.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102324033790644654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102324033790644654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男拳就像路中间一大坨长蛆的狗屎，又多又臭纯恶心人，但是在人群中特明显，且处理方式简单粗暴，见到跑开或者直接一铁楸铲过去就行\n集美就像你从地上捡到的巧克力味M豆，一开始你会觉得是意外之喜，但是定睛一看你会发现，它竟然是个羊屎蛋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102330248931209693",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 117,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 683
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈🏳️‍🌈因为我的病就是没有感觉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin_demon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin_demon",
+                "start": 0,
+                "url": "https://t.co/KR3neoh0gz"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2102324033790644654",
+        "name": "三清剑",
+        "pinned_tweet_id": "2094497848444465386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101915825011933184/YdGpaFha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 338,
+          "like_count": 4234,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/KR3neoh0gz",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

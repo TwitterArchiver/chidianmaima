@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2100351833709662472",
+    "created_at": "2026-09-16T22:31:14.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T23:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100351833709662472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/61saumi/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/61saumi/status/2100236882038911460",
+          "start": 2,
+          "url": "https://t.co/fBrIdMnrZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100351833709662472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100236882038911460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我 https://t.co/fBrIdMnrZP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2100351833709662472",
+        "created_at": "2026-09-16T22:31:14.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100351833709662472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/61saumi/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/61saumi/status/2100236882038911460",
+              "start": 2,
+              "url": "https://t.co/fBrIdMnrZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100351833709662472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100236882038911460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/fBrIdMnrZP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818418625558331392",
+        "conversation_id": "2100236882038911460",
+        "created_at": "2026-09-16T14:54:27.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100236882038911460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100236882038911460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4301,
+          "like_count": 163,
+          "quote_count": 4,
+          "reply_count": 67,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "哦你说你喜欢我是吧，接下来，我会展现我的情感漠视，超雄，狂躁症，公主病，敏感脆弱，一生气就想虐待人的性格"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2100351833709662472",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 116,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "你改了状态好像在说爱",
+        "id": "1818418625558331392",
+        "is_identity_verified": false,
+        "location": "高p线下查无此人 不约 看眼缘互关 墙内外社媒不互通不加v",
+        "most_recent_tweet_id": "2100236882038911460",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2091837292185055533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818418625558331392/1780364815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066422882155040768/zWTErsXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 43,
+          "like_count": 5159,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2105
+        },
+        "url": "",
+        "username": "61sAumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

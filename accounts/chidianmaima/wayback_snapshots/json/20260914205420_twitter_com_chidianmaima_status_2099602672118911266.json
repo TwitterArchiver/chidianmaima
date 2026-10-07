@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099602672118911266",
+    "created_at": "2026-09-14T20:54:20.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099602672118911266"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099602672118911266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "说到苯海索还有一个趣闻，我当时和兄弟在家里吃了10t醒来是三天以后，而且整瓶药（100t）全部消失不见了，可能是强迫行给药造完了。当时我感觉我是一名参加越战的越南老兵。正在战场上，我需要去解救我的队友，一个伞兵。整个画面是我在客厅匍匐前进去解救一把雨伞。我兄弟把全身上下的衣服脱完了在楼道里找狗（因为我说我的狗丢了一直在哭，其实我的狗在家里）邻居没报警也他妈是走大运😹😹"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说到苯海索还有一个趣闻，我当时和兄弟在家里吃了10t醒来是三天以后，而且整瓶药（100t）全部消失不见了，可能是强迫行给药造完了。当时我感觉我是一名参加越战的越南老兵。正在战场上，我需要去解救我的队友，一个伞兵。整个画面是我在客厅匍匐前进去解救一把雨伞。我兄弟把全身上下的衣服脱完了在楼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099602672118911266",
+        "created_at": "2026-09-14T20:54:20.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099602672118911266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099602672118911266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说到苯海索还有一个趣闻，我当时和兄弟在家里吃了10t醒来是三天以后，而且整瓶药（100t）全部消失不见了，可能是强迫行给药造完了。当时我感觉我是一名参加越战的越南老兵。正在战场上，我需要去解救我的队友，一个伞兵。整个画面是我在客厅匍匐前进去解救一把雨伞。我兄弟把全身上下的衣服脱完了在楼道里找狗（因为我说我的狗丢了一直在哭，其实我的狗在家里）邻居没报警也他妈是走大运😹😹"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说到苯海索还有一个趣闻，我当时和兄弟在家里吃了10t醒来是三天以后，而且整瓶药（100t）全部消失不见了，可能是强迫行给药造完了。当时我感觉我是一名参加越战的越南老兵。正在战场上，我需要去解救我的队友，一个伞兵。整个画面是我在客厅匍匐前进去解救一把雨伞。我兄弟把全身上下的衣服脱完了在楼"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099602672118911266",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 117,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2101827524372345116",
+    "created_at": "2026-09-21T00:15:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T01:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101827524372345116"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101827524372345116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "做了无数个噩梦，我看见电梯里的所有人的眼睛在流血。还有人尾随我进入我的酒店，酒店的墙壁因为潮湿表皮发绿皲裂。那个人拿着刀砍断了我的右臂又试图把我的子宫挖出来。并且在我的面前杀害了我的母亲。而且我觉得这一切无比真实。所以惊醒了非常多次。这几天我一直在睡觉但是我的眼压非常高，太阳穴的血管一直在跳动且伴随着疼痛。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了无数个噩梦，我看见电梯里的所有人的眼睛在流血。还有人尾随我进入我的酒店，酒店的墙壁因为潮湿表皮发绿皲裂。那个人拿着刀砍断了我的右臂又试图把我的子宫挖出来。并且在我的面前杀害了我的母亲。而且我觉得这一切无比真实。所以惊醒了非常多次。这几天我一直在睡觉但是我的眼压非常高，太阳穴的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2101827524372345116",
+        "created_at": "2026-09-21T00:15:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T01:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101827524372345116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101827524372345116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "做了无数个噩梦，我看见电梯里的所有人的眼睛在流血。还有人尾随我进入我的酒店，酒店的墙壁因为潮湿表皮发绿皲裂。那个人拿着刀砍断了我的右臂又试图把我的子宫挖出来。并且在我的面前杀害了我的母亲。而且我觉得这一切无比真实。所以惊醒了非常多次。这几天我一直在睡觉但是我的眼压非常高，太阳穴的血管一直在跳动且伴随着疼痛。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了无数个噩梦，我看见电梯里的所有人的眼睛在流血。还有人尾随我进入我的酒店，酒店的墙壁因为潮湿表皮发绿皲裂。那个人拿着刀砍断了我的右臂又试图把我的子宫挖出来。并且在我的面前杀害了我的母亲。而且我觉得这一切无比真实。所以惊醒了非常多次。这几天我一直在睡觉但是我的眼压非常高，太阳穴的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2101827524372345116",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 116,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 663
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

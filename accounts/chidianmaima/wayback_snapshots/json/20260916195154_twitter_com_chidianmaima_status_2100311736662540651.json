@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2100311736662540651",
+    "created_at": "2026-09-16T19:51:54.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T20:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100311736662540651"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rrrqknow/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/rrrqknow/status/2099984159489818786",
+          "start": 2,
+          "url": "https://t.co/OXkiJu9OYp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100311736662540651",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099984159489818786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎 https://t.co/OXkiJu9OYp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2100311736662540651",
+        "created_at": "2026-09-16T19:51:54.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T20:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100311736662540651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rrrqknow/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/rrrqknow/status/2099984159489818786",
+              "start": 2,
+              "url": "https://t.co/OXkiJu9OYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100311736662540651",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099984159489818786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎 https://t.co/OXkiJu9OYp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "913913821974155266",
+        "conversation_id": "2099774118686232762",
+        "created_at": "2026-09-15T22:10:14.000Z",
+        "display_text_range": [
+          17,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099984159489818786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1128146456190246912",
+              "start": 0,
+              "username": "RfFS7ObPzfuyGxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099984159489818786",
+        "in_reply_to_user_id": "1128146456190246912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38533,
+          "like_count": 1353,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099774118686232762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RfFS7ObPzfuyGxJ 果然是女生啊，感觉男的不太会这么共情，之前看到很多男瓢虫问睡在非常简陋的卖淫棚子的性工作者具体在哪个城市哪个地点的，还有很多男的看见在很简陋的破屋里即将被强奸的女童的视频，竟然大喊“求资源”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2100311736662540651",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 116,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-29T23:50:09.000Z",
+        "description": "She/her | Chinese/English | Role Reversal Relationship (四爱纯攻) | Feminist (女权)",
+        "id": "913913821974155266",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100302391434227899",
+        "name": "RRRq",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503503105874448387/sflpEwSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 1370,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "RrrQknow",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-14T03:54:09.000Z",
+        "description": "🍐🍎\n\n和人类断绝关系中🫡",
+        "id": "1128146456190246912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100153609640140942",
+        "name": "等闲识得东风面",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128146456190246912/1651425474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765786480633688065/R1WguNXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 367,
+          "like_count": 9474,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 4075
+        },
+        "url": "",
+        "username": "RfFS7ObPzfuyGxJ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

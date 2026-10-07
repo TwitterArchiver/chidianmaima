@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102610227036373296",
+    "created_at": "2026-09-23T06:06:54.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:06:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102640832025391300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "All4theY1108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102640832025391300",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102640376242974863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@All4theY1108 我操你咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2102640365929103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4URcWaAAAVQap.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102610227036373296",
+        "created_at": "2026-09-23T06:06:54.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102640832025391300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "All4theY1108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102640832025391300",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102640376242974863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@All4theY1108 我操你咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102640365929103360"
+          ]
+        },
+        "author_id": "1990083055231631361",
+        "conversation_id": "2102610227036373296",
+        "created_at": "2026-09-23T06:05:05.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102640376242974863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784109678953480192",
+              "start": 0,
+              "username": "chidianmaima"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXxaY38q8b",
+              "end": 46,
+              "expanded_url": "https://x.com/All4theY1108/status/2102640376242974863/photo/1",
+              "media_key": "3_2102640365929103360",
+              "start": 23,
+              "url": "https://t.co/dXxaY38q8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102640376242974863",
+        "in_reply_to_user_id": "1784109678953480192",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102640365929103360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102610227036373296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chidianmaima 我死了又活了哈哈 https://t.co/dXxaY38q8b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n三号机@manbuzaisenlin\n一起活过这个冬天。@d9nmTTTT\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "manbuzaisenlin"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "d9nmTTTT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102640832025391300",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 119,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 699
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "“一切有為法，皆如夢幻泡影，如露亦如電，應作如是觀。”",
+        "id": "1990083055231631361",
+        "is_identity_verified": false,
+        "location": "恨是唯一完整的残缺",
+        "most_recent_tweet_id": "2102640376242974863",
+        "name": "叫我不知道就好",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990083055231631361/1781402845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097040569604485120/mGQIJqxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 46,
+          "like_count": 7986,
+          "listed_count": 1,
+          "media_count": 494,
+          "tweet_count": 4888
+        },
+        "url": "",
+        "username": "All4theY1108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

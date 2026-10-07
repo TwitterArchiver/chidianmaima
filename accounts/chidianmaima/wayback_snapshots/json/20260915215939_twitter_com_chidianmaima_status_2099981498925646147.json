@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099805103473463296"
+      ],
+      "media_source_tweet_id": [
+        "2099805154346152202"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099981498925646147",
+    "created_at": "2026-09-15T21:59:39.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T22:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099981498925646147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909918722716045312",
+          "start": 3,
+          "username": "chefbipizza"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nXsU6lAxue",
+          "end": 78,
+          "expanded_url": "https://x.com/chefbipizza/status/2099805154346152202/video/1",
+          "media_key": "13_2099805103473463296",
+          "start": 55,
+          "url": "https://t.co/nXsU6lAxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099981498925646147",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2099805103473463296"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 512
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099805154346152202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chefbipizza: Çok fena bi şekilde aşığım bu videoya https://t.co/nXsU6lAxue"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15371,
+        "height": 1280,
+        "media_key": "13_2099805103473463296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099805103473463296/img/PWhf0msyu4FOJ67C.jpg",
+        "public_metrics": {
+          "view_count": 351691
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099805103473463296/vid/avc1/320x568/dMgWsX-Ls6Zo3RfM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099805103473463296/vid/avc1/480x852/Yv5etbVrqbQD7PJr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099805103473463296/vid/avc1/720x1280/FcwMa571BktViecM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099805103473463296/pl/TU_4pMe1fMerOCpp.m3u8?v=911"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099805103473463296"
+          ],
+          "media_source_tweet_id": [
+            "2099805154346152202"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099981498925646147",
+        "created_at": "2026-09-15T21:59:39.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T22:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099981498925646147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909918722716045312",
+              "start": 3,
+              "username": "chefbipizza"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXsU6lAxue",
+              "end": 78,
+              "expanded_url": "https://x.com/chefbipizza/status/2099805154346152202/video/1",
+              "media_key": "13_2099805103473463296",
+              "start": 55,
+              "url": "https://t.co/nXsU6lAxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099981498925646147",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2099805103473463296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 512
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099805154346152202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chefbipizza: Çok fena bi şekilde aşığım bu videoya https://t.co/nXsU6lAxue"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099805103473463296"
+          ]
+        },
+        "author_id": "1909918722716045312",
+        "conversation_id": "2099805154346152202",
+        "created_at": "2026-09-15T10:18:55.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099805154346152202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXsU6lAxue",
+              "end": 61,
+              "expanded_url": "https://x.com/chefbipizza/status/2099805154346152202/video/1",
+              "media_key": "13_2099805103473463296",
+              "start": 38,
+              "url": "https://t.co/nXsU6lAxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099805154346152202",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2099805103473463296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5400,
+          "impression_count": 556945,
+          "like_count": 13637,
+          "quote_count": 74,
+          "reply_count": 66,
+          "retweet_count": 512
+        },
+        "reply_settings": "everyone",
+        "text": "Çok fena bi şekilde aşığım bu videoya https://t.co/nXsU6lAxue"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099981498925646147",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 113,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 632
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-09T10:38:18.000Z",
+        "description": "",
+        "id": "1909918722716045312",
+        "is_identity_verified": false,
+        "location": "Eskişehir ",
+        "most_recent_tweet_id": "2099974533968974136",
+        "name": "N’",
+        "pinned_tweet_id": "1972728444481044617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909918722716045312/1788731855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098122132836483072/h2DvoxY7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 231,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3994
+        },
+        "url": "",
+        "username": "chefbipizza",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

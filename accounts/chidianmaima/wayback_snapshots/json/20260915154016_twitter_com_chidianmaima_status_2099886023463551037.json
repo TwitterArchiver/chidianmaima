@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099886014345195520"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099886023463551037",
+    "created_at": "2026-09-15T15:40:16.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099886023463551037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZsjM1xFSKZ",
+          "end": 164,
+          "expanded_url": "https://x.com/chidianmaima/status/2099886023463551037/photo/1",
+          "media_key": "3_2099886014345195520",
+          "start": 141,
+          "url": "https://t.co/ZsjM1xFSKZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099886023463551037",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099886014345195520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "杜拉斯写情人时已经七十岁。那不是回忆录，是半自传的焚烧。她把十五岁半的自己重新脱光，放回西贡那间被城市噪音包围的房间里，让贫穷的白种女孩与有钱的中国男人在百叶窗的光影里互相使用。钱从男人手里落到母亲手里，欲望从女孩身上落到纸上。殖民、种族、家庭的溃败、兄长的阴影，全部挤进那张窄床。她不说这是爱情。她说这是交易。她说城里真正自由的女人，是独自走在人行道正中间的那些。她一生都在重复那次渡轮上的相遇。贫穷、美、被观看、被购买、再把自己写回来。酒精、战争、情人、昏迷、醒来继续写。写作对她不是体面的职业，是另一种出卖。把记忆按在桌上，让它出声，让它流血，让它在晚年仍比少女时更美。漆成绿色的门还在。门牌是7。门前有人卖小黄鸭，灯串像廉价的星星。七十年前那间金屋的内景是在别处拍的，可外墙还肯认领这件事。有人曾经在这里把羞耻活成了身体，又把身体活成了书。\n杜拉斯把欲望写成一种不死的东西。不是市井。是疲惫里的那种热。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "杜拉斯写情人时已经七十岁。那不是回忆录，是半自传的焚烧。她把十五岁半的自己重新脱光，放回西贡那间被城市噪音包围的房间里，让贫穷的白种女孩与有钱的中国男人在百叶窗的光影里互相使用。钱从男人手里落到母亲手里，欲望从女孩身上落到纸上。殖民、种族、家庭的溃败、兄长的阴影，全部挤进那张窄床 https://t.co/ZsjM1xFSKZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099886014345195520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRLNFHbMAA24Yc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099886014345195520"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099886023463551037",
+        "created_at": "2026-09-15T15:40:16.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099886023463551037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsjM1xFSKZ",
+              "end": 164,
+              "expanded_url": "https://x.com/chidianmaima/status/2099886023463551037/photo/1",
+              "media_key": "3_2099886014345195520",
+              "start": 141,
+              "url": "https://t.co/ZsjM1xFSKZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099886023463551037",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099886014345195520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "杜拉斯写情人时已经七十岁。那不是回忆录，是半自传的焚烧。她把十五岁半的自己重新脱光，放回西贡那间被城市噪音包围的房间里，让贫穷的白种女孩与有钱的中国男人在百叶窗的光影里互相使用。钱从男人手里落到母亲手里，欲望从女孩身上落到纸上。殖民、种族、家庭的溃败、兄长的阴影，全部挤进那张窄床。她不说这是爱情。她说这是交易。她说城里真正自由的女人，是独自走在人行道正中间的那些。她一生都在重复那次渡轮上的相遇。贫穷、美、被观看、被购买、再把自己写回来。酒精、战争、情人、昏迷、醒来继续写。写作对她不是体面的职业，是另一种出卖。把记忆按在桌上，让它出声，让它流血，让它在晚年仍比少女时更美。漆成绿色的门还在。门牌是7。门前有人卖小黄鸭，灯串像廉价的星星。七十年前那间金屋的内景是在别处拍的，可外墙还肯认领这件事。有人曾经在这里把羞耻活成了身体，又把身体活成了书。\n杜拉斯把欲望写成一种不死的东西。不是市井。是疲惫里的那种热。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杜拉斯写情人时已经七十岁。那不是回忆录，是半自传的焚烧。她把十五岁半的自己重新脱光，放回西贡那间被城市噪音包围的房间里，让贫穷的白种女孩与有钱的中国男人在百叶窗的光影里互相使用。钱从男人手里落到母亲手里，欲望从女孩身上落到纸上。殖民、种族、家庭的溃败、兄长的阴影，全部挤进那张窄床 https://t.co/ZsjM1xFSKZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099886023463551037",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 113,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

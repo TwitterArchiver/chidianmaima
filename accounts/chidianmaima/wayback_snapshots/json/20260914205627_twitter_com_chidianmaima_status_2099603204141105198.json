@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099603204141105198",
+    "created_at": "2026-09-14T20:56:27.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099603204141105198"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangiln/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wangiln/status/2099512483002404885",
+          "start": 9,
+          "url": "https://t.co/BXGL1xCD7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099603204141105198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099512483002404885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈笑的太难受 https://t.co/BXGL1xCD7L"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099603204141105198",
+        "created_at": "2026-09-14T20:56:27.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099603204141105198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangiln/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wangiln/status/2099512483002404885",
+              "start": 9,
+              "url": "https://t.co/BXGL1xCD7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099603204141105198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099512483002404885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈笑的太难受 https://t.co/BXGL1xCD7L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531518413188714496",
+        "conversation_id": "2099490246798799066",
+        "created_at": "2026-09-14T14:55:57.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099512483002404885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1442726671841312769",
+              "start": 0,
+              "username": "eziral778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099512483002404885",
+        "in_reply_to_user_id": "1442726671841312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099490246798799066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eziral778 我跟他们不一样，我都是借完钱再删"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099603204141105198",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 117,
+          "like_count": 1108,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-31T06:10:28.000Z",
+        "description": "爱好女，基佬离我远点。\n93 180 80kg",
+        "id": "1531518413188714496",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2099516700316356745",
+        "name": "善感",
+        "pinned_tweet_id": "1902260246732526050",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1531518413188714496/1654109670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1532072014327910401/4E7a3FfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 121,
+          "like_count": 259,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Wangiln",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-28T05:43:55.000Z",
+        "description": "这里什么也没有\n会当朋友圈发，可以叫我念念♋\n躁ing，1i♂switch🔁，直观=想要认识你\n欢迎骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eziral778",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eziral778",
+                "start": 0,
+                "url": "https://t.co/f6ZoArAOp8"
+              }
+            ]
+          }
+        },
+        "id": "1442726671841312769",
+        "is_identity_verified": false,
+        "location": "1.1km",
+        "most_recent_tweet_id": "2099493035855720451",
+        "name": "念念",
+        "pinned_tweet_id": "2089718082524901391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1442726671841312769/1786272668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084748162728939520/BQIRMsRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 735,
+          "like_count": 2597,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 2332
+        },
+        "url": "https://t.co/f6ZoArAOp8",
+        "username": "eziral778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

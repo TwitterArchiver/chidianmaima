@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102610227036373296",
+    "created_at": "2026-09-23T04:05:17.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102610227036373296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "乱's Space · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1Oxwb…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1OxwbnAyBdRJB",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: Ally50mg实验 / X",
+          "unwound_url": "https://x.com/i/spaces/1OxwbnAyBdRJB",
+          "url": "https://t.co/I3Ugc5qOIW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102610227036373296",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/I3Ugc5qOIW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102610227036373296",
+        "created_at": "2026-09-23T04:05:17.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102610227036373296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "乱's Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1Oxwb…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OxwbnAyBdRJB",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: Ally50mg实验 / X",
+              "unwound_url": "https://x.com/i/spaces/1OxwbnAyBdRJB",
+              "url": "https://t.co/I3Ugc5qOIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102610227036373296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/I3Ugc5qOIW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n三号机@manbuzaisenlin\n一起活过这个冬天。@d9nmTTTT\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "manbuzaisenlin"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "d9nmTTTT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102610227036373296",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 120,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

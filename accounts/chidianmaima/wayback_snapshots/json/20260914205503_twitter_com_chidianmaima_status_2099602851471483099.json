@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2099459273491361792"
+      ],
+      "media_source_tweet_id": [
+        "2099459286338527320"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099602851471483099",
+    "created_at": "2026-09-14T20:55:03.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T21:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099602851471483099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "307189314",
+          "start": 3,
+          "username": "TigrLing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "threads.com/@tsuyamemo/pos…",
+          "end": 70,
+          "expanded_url": "https://www.threads.com/@tsuyamemo/post/DdO4fNdCt10",
+          "start": 47,
+          "status": 200,
+          "title": "ツヤメモ｜美容・グルメ・暮らしの記録 (@tsuyamemo) on Threads",
+          "unwound_url": "https://www.threads.com/@tsuyamemo/post/DdO4fNdCt10/%E6%96%B0%E4%BA%BA%E3%83%8D%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E3%83%89%E3%83%AA%E3%83%AB%E6%85%A3%E3%82%8C%E3%81%A6%E3%81%AA%E3%81%95%E3%81%99%E3%81%8E%E3%81%A6%E3%81%93%E3%81%A3%E3%81%A1%E3%81%BE%E3%81%A7%E6%81%AF%E6%AD%A2%E3%81%BE%E3%82%8B%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%BE%E3%81%9A%E3%81%9D%E3%81%A3%E3%81%A1%E3%81%8C%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6www",
+          "url": "https://t.co/148hErqZzn"
+        },
+        {
+          "display_url": "pic.x.com/h4TnSzQNv9",
+          "end": 94,
+          "expanded_url": "https://x.com/TigrLing/status/2099459286338527320/video/1",
+          "media_key": "13_2099459273491361792",
+          "start": 71,
+          "url": "https://t.co/h4TnSzQNv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099602851471483099",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2099459273491361792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099459286338527320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TigrLing: 新人ネイリスト「動かないでください」\n\n腹筋ちぎれてなくなった\n\nhttps://t.co/148hErqZzn https://t.co/h4TnSzQNv9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6386,
+        "height": 1266,
+        "media_key": "13_2099459273491361792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099459273491361792/img/StjHlSW-FHRVrS_A.jpg",
+        "public_metrics": {
+          "view_count": 264224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099459273491361792/vid/avc1/320x562/H1HSVqYcGqQazLoI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099459273491361792/vid/avc1/480x844/vPNtpMPV1RF0tP9u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099459273491361792/vid/avc1/720x1266/O1q2G_rsN2h70Lok.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099459273491361792/pl/53ihHsJBsFIyXYWL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099459273491361792"
+          ],
+          "media_source_tweet_id": [
+            "2099459286338527320"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099602851471483099",
+        "created_at": "2026-09-14T20:55:03.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T21:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099602851471483099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "307189314",
+              "start": 3,
+              "username": "TigrLing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "threads.com/@tsuyamemo/pos…",
+              "end": 70,
+              "expanded_url": "https://www.threads.com/@tsuyamemo/post/DdO4fNdCt10",
+              "start": 47,
+              "status": 200,
+              "title": "ツヤメモ｜美容・グルメ・暮らしの記録 (@tsuyamemo) on Threads",
+              "unwound_url": "https://www.threads.com/@tsuyamemo/post/DdO4fNdCt10/%E6%96%B0%E4%BA%BA%E3%83%8D%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E3%83%89%E3%83%AA%E3%83%AB%E6%85%A3%E3%82%8C%E3%81%A6%E3%81%AA%E3%81%95%E3%81%99%E3%81%8E%E3%81%A6%E3%81%93%E3%81%A3%E3%81%A1%E3%81%BE%E3%81%A7%E6%81%AF%E6%AD%A2%E3%81%BE%E3%82%8B%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%BE%E3%81%9A%E3%81%9D%E3%81%A3%E3%81%A1%E3%81%8C%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6www",
+              "url": "https://t.co/148hErqZzn"
+            },
+            {
+              "display_url": "pic.x.com/h4TnSzQNv9",
+              "end": 94,
+              "expanded_url": "https://x.com/TigrLing/status/2099459286338527320/video/1",
+              "media_key": "13_2099459273491361792",
+              "start": 71,
+              "url": "https://t.co/h4TnSzQNv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099602851471483099",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099459273491361792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099459286338527320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TigrLing: 新人ネイリスト「動かないでください」\n\n腹筋ちぎれてなくなった\n\nhttps://t.co/148hErqZzn https://t.co/h4TnSzQNv9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099459273491361792"
+          ]
+        },
+        "author_id": "307189314",
+        "conversation_id": "2099459286338527320",
+        "created_at": "2026-09-14T11:24:34.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099459286338527320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "threads.com/@tsuyamemo/pos…",
+              "end": 56,
+              "expanded_url": "https://www.threads.com/@tsuyamemo/post/DdO4fNdCt10",
+              "start": 33,
+              "status": 200,
+              "title": "ツヤメモ｜美容・グルメ・暮らしの記録 (@tsuyamemo) on Threads",
+              "unwound_url": "https://www.threads.com/@tsuyamemo/post/DdO4fNdCt10/%E6%96%B0%E4%BA%BA%E3%83%8D%E3%82%A4%E3%83%AA%E3%82%B9%E3%83%88%E3%83%89%E3%83%AA%E3%83%AB%E6%85%A3%E3%82%8C%E3%81%A6%E3%81%AA%E3%81%95%E3%81%99%E3%81%8E%E3%81%A6%E3%81%93%E3%81%A3%E3%81%A1%E3%81%BE%E3%81%A7%E6%81%AF%E6%AD%A2%E3%81%BE%E3%82%8B%E5%8B%95%E3%81%8B%E3%81%AA%E3%81%84%E3%81%A7%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%BE%E3%81%9A%E3%81%9D%E3%81%A3%E3%81%A1%E3%81%8C%E8%90%BD%E3%81%A1%E7%9D%80%E3%81%84%E3%81%A6www",
+              "url": "https://t.co/148hErqZzn"
+            },
+            {
+              "display_url": "pic.x.com/h4TnSzQNv9",
+              "end": 80,
+              "expanded_url": "https://x.com/TigrLing/status/2099459286338527320/video/1",
+              "media_key": "13_2099459273491361792",
+              "start": 57,
+              "url": "https://t.co/h4TnSzQNv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099459286338527320",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2099459273491361792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 979,
+          "impression_count": 512016,
+          "like_count": 4097,
+          "quote_count": 70,
+          "reply_count": 21,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "新人ネイリスト「動かないでください」\n\n腹筋ちぎれてなくなった\n\nhttps://t.co/148hErqZzn https://t.co/h4TnSzQNv9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099602851471483099",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 117,
+          "like_count": 1107,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-29T05:33:02.000Z",
+        "description": "好：哺鳥爬 雑草 虫 畑 献血 🇮🇳亜大陸飯\n寅年獅子座\n歩き遍路（１周済）\n山羊鶏飼育界隈\n\n永遠のA10青組\n\n芋\nhttps://t.co/JrStjpbGS7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 83,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1PQ32NALN23DF?ref_=wl_share",
+                "start": 60,
+                "url": "https://t.co/JrStjpbGS7"
+              }
+            ]
+          }
+        },
+        "id": "307189314",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099459286338527320",
+        "name": "(｢・ω・)｢虎",
+        "pinned_tweet_id": "1385023576240132097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/307189314/1526441726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1048913287008505864/jsBdJCMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 145,
+          "like_count": 17117,
+          "listed_count": 8,
+          "media_count": 6503,
+          "tweet_count": 45298
+        },
+        "url": "",
+        "username": "TigrLing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

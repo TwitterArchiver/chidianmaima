@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2099824709257015394",
+    "created_at": "2026-09-15T11:36:38.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099824709257015394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1075056608424603648",
+          "start": 3,
+          "username": "JOJO81573396"
+        },
+        {
+          "end": 28,
+          "id": "1260170908213194754",
+          "start": 18,
+          "username": "yuuki1368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099824709257015394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099813392559264081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JOJO81573396: @yuuki1368 真的很心酸，受苦受累却又不知道敌人是谁，精神被压迫到失常最后崩溃，拿起武器又不知道该反抗谁，最后无非是一个被压迫的人伤害了其他被压迫的人。毛选第一章就是谁是敌人谁是朋友，这是一个困难的问题。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2099824709257015394",
+        "created_at": "2026-09-15T11:36:38.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099824709257015394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1075056608424603648",
+              "start": 3,
+              "username": "JOJO81573396"
+            },
+            {
+              "end": 28,
+              "id": "1260170908213194754",
+              "start": 18,
+              "username": "yuuki1368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099824709257015394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099813392559264081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JOJO81573396: @yuuki1368 真的很心酸，受苦受累却又不知道敌人是谁，精神被压迫到失常最后崩溃，拿起武器又不知道该反抗谁，最后无非是一个被压迫的人伤害了其他被压迫的人。毛选第一章就是谁是敌人谁是朋友，这是一个困难的问题。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1075056608424603648",
+        "conversation_id": "2099772817080483973",
+        "created_at": "2026-09-15T10:51:40.000Z",
+        "display_text_range": [
+          11,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099813392559264081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1260170908213194754",
+              "start": 0,
+              "username": "yuuki1368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099813392559264081",
+        "in_reply_to_user_id": "1260170908213194754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4377,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099772817080483973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki1368 真的很心酸，受苦受累却又不知道敌人是谁，精神被压迫到失常最后崩溃，拿起武器又不知道该反抗谁，最后无非是一个被压迫的人伤害了其他被压迫的人。毛选第一章就是谁是敌人谁是朋友，这是一个困难的问题。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2099824709257015394",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 113,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 620
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-18T15:54:03.000Z",
+        "description": "华生，这个世界如果没有偏见，那该多好啊。",
+        "id": "1075056608424603648",
+        "is_identity_verified": false,
+        "location": "Sichuan",
+        "most_recent_tweet_id": "2099823984577819095",
+        "name": "JOJO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1075056608424603648/1582738008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1232718671891464193/_ebaarrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 53,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 4175
+        },
+        "url": "",
+        "username": "JOJO81573396",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-12T11:32:21.000Z",
+        "description": "困ったら寝る！遇到困难睡大觉！",
+        "id": "1260170908213194754",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099782819082072570",
+        "name": "ユウキ",
+        "pinned_tweet_id": "1883504206314914044",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1305648436465680385/zF6XTF_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 483,
+          "like_count": 15040,
+          "listed_count": 2,
+          "media_count": 515,
+          "tweet_count": 4023
+        },
+        "url": "",
+        "username": "yuuki1368",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

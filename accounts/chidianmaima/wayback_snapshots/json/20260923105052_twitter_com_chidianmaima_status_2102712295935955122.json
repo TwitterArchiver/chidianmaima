@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102712288537116672"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102712295935955122",
+    "created_at": "2026-09-23T10:50:52.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T11:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102712295935955122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uBPvegIx6R",
+          "end": 27,
+          "expanded_url": "https://x.com/chidianmaima/status/2102712295935955122/photo/1",
+          "media_key": "3_2102712288537116672",
+          "start": 4,
+          "url": "https://t.co/uBPvegIx6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102712295935955122",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102712288537116672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好痛 https://t.co/uBPvegIx6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_2102712288537116672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5Vr48agAA75Nz.jpg",
+        "width": 963
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102712288537116672"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102712295935955122",
+        "created_at": "2026-09-23T10:50:52.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102712295935955122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uBPvegIx6R",
+              "end": 27,
+              "expanded_url": "https://x.com/chidianmaima/status/2102712295935955122/photo/1",
+              "media_key": "3_2102712288537116672",
+              "start": 4,
+              "url": "https://t.co/uBPvegIx6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102712295935955122",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102712288537116672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好痛 https://t.co/uBPvegIx6R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n三号机@manbuzaisenlin\n一起活过这个冬天。@d9nmTTTT\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "manbuzaisenlin"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "d9nmTTTT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102712295935955122",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 107,
+          "like_count": 1260,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 701
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

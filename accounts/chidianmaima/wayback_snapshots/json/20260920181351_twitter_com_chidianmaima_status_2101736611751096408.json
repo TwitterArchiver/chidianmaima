@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2101736611751096408",
+    "created_at": "2026-09-20T18:13:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T19:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101736611751096408"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2101736611751096408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "所有的痛苦都丑恶的清晰。贪婪，妒忌，仇恨。必须踩着同类的血和肉才能让自己过的更好。这无疑是人类最大的退化。人类简史里把最简单的道理说出来了。智人能统治地球、建起城市和高楼，不是因为单个个体更强壮，而是因为能大规模、灵活地互相帮助。现在的一切只让我觉得悲哀……我一直以为我活在这种丑恶的环境里是因为我足够丑恶。像是植物的根茎丑恶的在泥土里挣扎。但是我在美学上并不欣赏这种野蛮的，原始的，“向上”的意志。如果生存一定要靠着剥削和压榨才能活下去。我只想去死。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有的痛苦都丑恶的清晰。贪婪，妒忌，仇恨。必须踩着同类的血和肉才能让自己过的更好。这无疑是人类最大的退化。人类简史里把最简单的道理说出来了。智人能统治地球、建起城市和高楼，不是因为单个个体更强壮，而是因为能大规模、灵活地互相帮助。现在的一切只让我觉得悲哀……我一直以为我活在这种丑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2101736611751096408",
+        "created_at": "2026-09-20T18:13:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T19:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101736611751096408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101736611751096408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所有的痛苦都丑恶的清晰。贪婪，妒忌，仇恨。必须踩着同类的血和肉才能让自己过的更好。这无疑是人类最大的退化。人类简史里把最简单的道理说出来了。智人能统治地球、建起城市和高楼，不是因为单个个体更强壮，而是因为能大规模、灵活地互相帮助。现在的一切只让我觉得悲哀……我一直以为我活在这种丑恶的环境里是因为我足够丑恶。像是植物的根茎丑恶的在泥土里挣扎。但是我在美学上并不欣赏这种野蛮的，原始的，“向上”的意志。如果生存一定要靠着剥削和压榨才能活下去。我只想去死。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有的痛苦都丑恶的清晰。贪婪，妒忌，仇恨。必须踩着同类的血和肉才能让自己过的更好。这无疑是人类最大的退化。人类简史里把最简单的道理说出来了。智人能统治地球、建起城市和高楼，不是因为单个个体更强壮，而是因为能大规模、灵活地互相帮助。现在的一切只让我觉得悲哀……我一直以为我活在这种丑"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2101736611751096408",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 116,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

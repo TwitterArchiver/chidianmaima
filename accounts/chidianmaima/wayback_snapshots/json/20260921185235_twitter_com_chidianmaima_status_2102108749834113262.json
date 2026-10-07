@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102108743181979648",
+        "3_2102108743169409024"
+      ]
+    },
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102108749834113262",
+    "created_at": "2026-09-21T18:52:35.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T19:52:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102108749834113262"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "情侣头像分享"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RdkXBdqFX4",
+          "end": 31,
+          "expanded_url": "https://x.com/chidianmaima/status/2102108749834113262/photo/1",
+          "media_key": "3_2102108743181979648",
+          "start": 8,
+          "url": "https://t.co/RdkXBdqFX4"
+        },
+        {
+          "display_url": "pic.x.com/RdkXBdqFX4",
+          "end": 31,
+          "expanded_url": "https://x.com/chidianmaima/status/2102108749834113262/photo/1",
+          "media_key": "3_2102108743169409024",
+          "start": 8,
+          "url": "https://t.co/RdkXBdqFX4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102108749834113262",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2102108743181979648"
+      },
+      {
+        "media_key": "3_2102108743169409024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#情侣头像分享 https://t.co/RdkXBdqFX4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2102108743181979648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwww7Sa0AAFjCY.jpg",
+        "width": 512
+      },
+      {
+        "height": 960,
+        "media_key": "3_2102108743169409024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSwww7PbAAA_pKZ.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102108743181979648",
+            "3_2102108743169409024"
+          ]
+        },
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102108749834113262",
+        "created_at": "2026-09-21T18:52:35.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T19:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102108749834113262"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "情侣头像分享"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdkXBdqFX4",
+              "end": 31,
+              "expanded_url": "https://x.com/chidianmaima/status/2102108749834113262/photo/1",
+              "media_key": "3_2102108743181979648",
+              "start": 8,
+              "url": "https://t.co/RdkXBdqFX4"
+            },
+            {
+              "display_url": "pic.x.com/RdkXBdqFX4",
+              "end": 31,
+              "expanded_url": "https://x.com/chidianmaima/status/2102108749834113262/photo/1",
+              "media_key": "3_2102108743169409024",
+              "start": 8,
+              "url": "https://t.co/RdkXBdqFX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102108749834113262",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102108743181979648"
+          },
+          {
+            "media_key": "3_2102108743169409024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#情侣头像分享 https://t.co/RdkXBdqFX4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102108749834113262",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 116,
+          "like_count": 1222,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 666
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

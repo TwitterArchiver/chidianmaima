@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2100256602880348252",
+    "created_at": "2026-09-16T16:12:49.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:12:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100256602880348252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/d9nmttt/status…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/d9nmttt/status/2100229742960214464",
+          "start": 22,
+          "url": "https://t.co/PxRcn2fzRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100256602880348252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100229742960214464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的妈呀这大哥真的疯了吧想吃药蛆人血馒头了 https://t.co/PxRcn2fzRZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100229732285784066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWD0GOboAITy5f.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100229732285784064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWD0GOboAAR4e4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100229732285693952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWD0GOaQAA7E7K.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100229732277387264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWD0GMbgAAcc5G.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2100256602880348252",
+        "created_at": "2026-09-16T16:12:49.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100256602880348252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d9nmttt/status…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/d9nmttt/status/2100229742960214464",
+              "start": 22,
+              "url": "https://t.co/PxRcn2fzRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100256602880348252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100229742960214464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的妈呀这大哥真的疯了吧想吃药蛆人血馒头了 https://t.co/PxRcn2fzRZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100229732285784066",
+            "3_2100229732285784064",
+            "3_2100229732285693952",
+            "3_2100229732277387264"
+          ]
+        },
+        "author_id": "2096460299213905920",
+        "conversation_id": "2100229742960214464",
+        "created_at": "2026-09-16T14:26:05.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100229742960214464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqGErzdMaF",
+              "end": 149,
+              "expanded_url": "https://x.com/d9nmTTT/status/2100229742960214464/photo/1",
+              "media_key": "3_2100229732285784066",
+              "start": 126,
+              "url": "https://t.co/kqGErzdMaF"
+            },
+            {
+              "display_url": "pic.x.com/kqGErzdMaF",
+              "end": 149,
+              "expanded_url": "https://x.com/d9nmTTT/status/2100229742960214464/photo/1",
+              "media_key": "3_2100229732285784064",
+              "start": 126,
+              "url": "https://t.co/kqGErzdMaF"
+            },
+            {
+              "display_url": "pic.x.com/kqGErzdMaF",
+              "end": 149,
+              "expanded_url": "https://x.com/d9nmTTT/status/2100229742960214464/photo/1",
+              "media_key": "3_2100229732285693952",
+              "start": 126,
+              "url": "https://t.co/kqGErzdMaF"
+            },
+            {
+              "display_url": "pic.x.com/kqGErzdMaF",
+              "end": 149,
+              "expanded_url": "https://x.com/d9nmTTT/status/2100229742960214464/photo/1",
+              "media_key": "3_2100229732277387264",
+              "start": 126,
+              "url": "https://t.co/kqGErzdMaF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100229742960214464",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100229732285784066"
+          },
+          {
+            "media_key": "3_2100229732285784064"
+          },
+          {
+            "media_key": "3_2100229732285693952"
+          },
+          {
+            "media_key": "3_2100229732277387264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别特么的找骂和我搞对立 我之前说过了 你们任何一个人要弄我 搞我 我遗书写你x号 写你所有关注着 你这个菜单我已经在解离小猫那边看过了 如果你们坚持要和我开战 OK那你们试试看好了 我希望爱和平  您找我抽奖中的宝贝？还推销上自己了？您是要和我开战？ https://t.co/kqGErzdMaF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2100256602880348252",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 115,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 640
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T04:49:36.000Z",
+        "description": "遵守一切推特规则 绝不违规 我希望爱与和平  二代@d9nmTT\n欢迎互fo 撕开真相。已成年 /13岁得了抑郁症 /后期转向/极度混乱的双向情感障碍和重度焦虑惊恐发作。\n防走丢 tg @d9nmTT 解离 /兴奋剂/致幻剂 成分公开",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 25,
+                "username": "d9nmTT"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "username": "d9nmTT"
+              }
+            ]
+          }
+        },
+        "id": "2096460299213905920",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2100256539982619027",
+        "name": "東九（三世 原料革命 ）",
+        "pinned_tweet_id": "2097025122536394886",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096460978963791872/v-rAic8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 81,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "d9nmTTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

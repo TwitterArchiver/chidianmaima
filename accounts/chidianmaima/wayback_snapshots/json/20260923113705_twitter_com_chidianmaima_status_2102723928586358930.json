@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102723928586358930",
+    "created_at": "2026-09-23T11:37:05.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102723928586358930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tqtfdngjx/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/tqtfdngjx/status/2102651706475704685",
+          "start": 9,
+          "url": "https://t.co/Lt4hNOo6XX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102723928586358930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102651706475704685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈真的绷不住 https://t.co/Lt4hNOo6XX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102723928586358930",
+        "created_at": "2026-09-23T11:37:05.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102723928586358930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tqtfdngjx/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/tqtfdngjx/status/2102651706475704685",
+              "start": 9,
+              "url": "https://t.co/Lt4hNOo6XX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102723928586358930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102651706475704685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈真的绷不住 https://t.co/Lt4hNOo6XX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907319341248385024",
+        "conversation_id": "2102630613983584737",
+        "created_at": "2026-09-23T06:50:06.000Z",
+        "display_text_range": [
+          17,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102651706475704685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2036275535832293380",
+              "start": 0,
+              "username": "Xijinpingcn8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102651706475704685",
+        "in_reply_to_user_id": "2036275535832293380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3827,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102650155128479844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xijinpingcn8964 谢谢书记的关心。你的关心我会牢牢记住的。等我一天跑到200块，我指定请你喝酒。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n三号机@manbuzaisenlin\n一起活过这个冬天。@d9nmTTTT\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 38,
+                "start": 23,
+                "username": "manbuzaisenlin"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "d9nmTTTT"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102723928586358930",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 108,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-02T06:29:16.000Z",
+        "description": "中华人民共和国国务院总理",
+        "id": "1907319341248385024",
+        "is_identity_verified": false,
+        "location": "八宝山公墓12座10号碑",
+        "most_recent_tweet_id": "2102723122705428912",
+        "name": "李克强",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907319341248385024/1789547128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099413089368375296/A79L-C1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 106,
+          "like_count": 5667,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 953
+        },
+        "url": "",
+        "username": "tqtfdngjx",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T02:55:16.000Z",
+        "description": "•在1989年6月4日，第一次参加无限制自由搏击大赛就获得了千人碾坦克冠军杯\n•不与粉红争对错，你骂我就是你对",
+        "id": "2036275535832293380",
+        "is_identity_verified": false,
+        "location": "齐心百年老逼",
+        "most_recent_tweet_id": "2102665091858739258",
+        "name": "Xi Jin Ping",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036275535832293380/1789126542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098345480757620736/fT2cFw6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 7,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "Xijinpingcn8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

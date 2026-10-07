@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2100122975769162233",
+    "created_at": "2026-09-16T07:21:50.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T08:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100122975769162233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n552aa8/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/n552aa8/status/2100060229144912023",
+          "start": 2,
+          "url": "https://t.co/JDAi217nRx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100122975769162233",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100060229144912023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": ". https://t.co/JDAi217nRx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2078,
+        "media_key": "3_2100060208974516224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTpoirb0AA37GY.jpg",
+        "width": 1216
+      },
+      {
+        "height": 2344,
+        "media_key": "3_2100060215781806080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTpo8Ca0AAlrPc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2344,
+        "media_key": "3_2100060222505238528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTppVFaQAAsGM7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2100122975769162233",
+        "created_at": "2026-09-16T07:21:50.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T08:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100122975769162233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n552aa8/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/n552aa8/status/2100060229144912023",
+              "start": 2,
+              "url": "https://t.co/JDAi217nRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100122975769162233",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100060229144912023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ". https://t.co/JDAi217nRx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100060208974516224",
+            "3_2100060215781806080",
+            "3_2100060222505238528"
+          ]
+        },
+        "author_id": "2047433069116719104",
+        "conversation_id": "2100060229144912023",
+        "created_at": "2026-09-16T03:12:30.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100060229144912023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZStTy2M4FO",
+              "end": 103,
+              "expanded_url": "https://x.com/N552AA8/status/2100060229144912023/photo/1",
+              "media_key": "3_2100060208974516224",
+              "start": 80,
+              "url": "https://t.co/ZStTy2M4FO"
+            },
+            {
+              "display_url": "pic.x.com/ZStTy2M4FO",
+              "end": 103,
+              "expanded_url": "https://x.com/N552AA8/status/2100060229144912023/photo/1",
+              "media_key": "3_2100060215781806080",
+              "start": 80,
+              "url": "https://t.co/ZStTy2M4FO"
+            },
+            {
+              "display_url": "pic.x.com/ZStTy2M4FO",
+              "end": 103,
+              "expanded_url": "https://x.com/N552AA8/status/2100060229144912023/photo/1",
+              "media_key": "3_2100060222505238528",
+              "start": 80,
+              "url": "https://t.co/ZStTy2M4FO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100060229144912023",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100060208974516224"
+          },
+          {
+            "media_key": "3_2100060215781806080"
+          },
+          {
+            "media_key": "3_2100060222505238528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1220,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "CN：N552AA\n定居上海（周末全国可飞）\n本人ENTP很喜欢聊天欢迎大家来\n扔子大小B\n可以陪打舞萌（不论开什么歌都行）\n剩余内容请看第一张图片\n谢谢大家 https://t.co/ZStTy2M4FO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2100122975769162233",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 114,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 639
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/双相混合性发作/BPD/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder💊/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "is_identity_verified": false,
+        "location": "宛平南路600号",
+        "most_recent_tweet_id": "2100060229144912023",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 187,
+          "like_count": 505,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

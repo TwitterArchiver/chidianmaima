@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1784109678953480192",
+    "conversation_id": "2102208734986752393",
+    "created_at": "2026-09-22T01:29:54.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T02:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102208734986752393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "328232589",
+          "start": 3,
+          "username": "VJFRock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102208734986752393",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8033
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101935382145151209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @VJFRock: Ser clase obrera y votar a la derecha."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784109678953480192",
+        "conversation_id": "2102208734986752393",
+        "created_at": "2026-09-22T01:29:54.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T02:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102208734986752393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "328232589",
+              "start": 3,
+              "username": "VJFRock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102208734986752393",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8033
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101935382145151209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @VJFRock: Ser clase obrera y votar a la derecha."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "328232589",
+        "conversation_id": "2101935382145151209",
+        "created_at": "2026-09-21T07:23:41.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101935382145151209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mdiana017/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/mdiana017/status/2101822504830459955",
+              "start": 39,
+              "url": "https://t.co/k9To7yJZbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101935382145151209",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 705369,
+          "like_count": 73972,
+          "quote_count": 114,
+          "reply_count": 7,
+          "retweet_count": 8026
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101822504830459955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "Ser clase obrera y votar a la derecha. https://t.co/k9To7yJZbI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-27T06:38:02.000Z",
+        "description": "双向11年💊🔪二号机@luanma7n\n我的@Kinzyful",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "luanma7n"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "Kinzyful"
+              }
+            ]
+          }
+        },
+        "id": "1784109678953480192",
+        "is_identity_verified": false,
+        "location": "坟墓",
+        "most_recent_tweet_id": "2102208734986752393",
+        "name": "乱",
+        "pinned_tweet_id": "2097026618489442499",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1784109678953480192/1785667049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082386041592594432/sAP7OXp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 117,
+          "like_count": 1236,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 672
+        },
+        "url": "",
+        "username": "chidianmaima",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-03T00:21:48.000Z",
+        "description": "Afiliado en Twitch donde juego videojuegos y hablo de wrestling 🎮\nKarateka 🥋\nEnamorado de la música Rock/Metal 🤘🏻\nHumor absurdo y buen rollo ante todo 😜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/miyavixtv",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/miyavixtv",
+                "start": 0,
+                "url": "https://t.co/fjOWL3SSel"
+              }
+            ]
+          }
+        },
+        "id": "328232589",
+        "is_identity_verified": false,
+        "location": "Donde suene la música. ",
+        "most_recent_tweet_id": "2102168861596401982",
+        "name": "Miyavix 🎮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/328232589/1576367915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019458753293164545/K0Knh8BZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 881,
+          "like_count": 283742,
+          "listed_count": 11,
+          "media_count": 10238,
+          "tweet_count": 154713
+        },
+        "url": "https://t.co/fjOWL3SSel",
+        "username": "VJFRock",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
